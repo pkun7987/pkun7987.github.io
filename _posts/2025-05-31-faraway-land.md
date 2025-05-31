@@ -10,6 +10,9 @@ mermaid: true
 Typora-root-url: ../../pkun7987.github.io
 ---
 
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+
 ## Part 1
 
 > They had to be fast, for there were always others.
