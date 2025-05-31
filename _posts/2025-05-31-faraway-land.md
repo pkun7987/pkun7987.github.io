@@ -3,7 +3,6 @@ title: Mum, Dad, and Fictions about a Faraway Land
 date: 2025-05-30 10:55:00 +0000
 categories: [Blogging, Writing]
 tags: [china]
-toc: true
 pin: true
 Typora-root-url: ../../pkun7987.github.io
 ---
@@ -129,6 +128,8 @@ When I was eight or nine, I stumbled upon adult content online. After concluding
 After much exploration, I felt gaming was still the way to go (unfortunately, this isn’t one of those stories where the main character taught themselves to code and became a hacking prodigy)—and, much to Mum’s disappointment, I naturally became the first and so far the only person in the extended family to need prescription glasses.
 
 # Part 2
+
+## This is a test TOC 2
 
 My childhood was largely carefree until I was around eleven or twelve. By then, both my parents had become overworked senior doctors, especially Dad. I don’t think Dad ever had a proper weekend off; he was always up by 6:30 to do his ward rounds. He specialises in a field where patients are often in very serious condition—and sometimes, they don’t make it. His own father died from a disease he specialised in, during the first year he qualified. A grandpa I’d never met. I heard he’s quite sensible. Good to know.
 
