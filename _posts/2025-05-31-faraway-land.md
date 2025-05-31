@@ -10,7 +10,7 @@ mermaid: true
 Typora-root-url: ../../pkun7987.github.io
 ---
 
-# Part 1
+## Part 1
 
 > They had to be fast, for there were always others.
 
@@ -130,9 +130,9 @@ When I was eight or nine, I stumbled upon adult content online. After concluding
 
 After much exploration, I felt gaming was still the way to go (unfortunately, this isn’t one of those stories where the main character taught themselves to code and became a hacking prodigy)—and, much to Mum’s disappointment, I naturally became the first and so far the only person in the extended family to need prescription glasses.
 
-# Part 2
+## Part 2
 
-## This is a test TOC 2
+### This is a test TOC 2
 
 My childhood was largely carefree until I was around eleven or twelve. By then, both my parents had become overworked senior doctors, especially Dad. I don’t think Dad ever had a proper weekend off; he was always up by 6:30 to do his ward rounds. He specialises in a field where patients are often in very serious condition—and sometimes, they don’t make it. His own father died from a disease he specialised in, during the first year he qualified. A grandpa I’d never met. I heard he’s quite sensible. Good to know.
 
@@ -168,17 +168,17 @@ High school (Year 10-12) is all about preparing for the **Gaokao**, where we com
 
 When it comes to university admissions, each university assigns a different quota to each province, typically reserving a larger share for their home province*. Admissions are, in theory, strictly based on our One Shot rankings (after adding extra marks from a few qualifying schemes), and nothing else. 
 
-```
+<code>
 *However, if the students from a certain province happen to be particularly attached to their hometown, a larger quota does not necessarily mean less competition.
-```
+</code>
 
 Chinese universities are divided into tiers, which, based on my observation, are widely used as filters in recruiters’ CV screenings. My province, the only one in the country with no top-tier university, receives a pitifully small share of the quota for top-tier admissions. We start the game on hard mode, with every teacher reminding us that a single mark can shift our rank by thousands of places in the One Shot.
 
 I used to assume that students from nearby Beijing had it easier, since many top-tier universities were located locally and the admission quotas were more favourable. For context, in 2024, among all provinces, my province had one of the lowest admission rate to the “Chinese Oxbridge” (Peking and Tsinghua University, both based in Beijing), at 0.05% (330 out of 670k), while Beijing had the highest, at 0.86% (580 out of 67k)*. I realised my assumption had been wrong when I came across some Beijing parents’ prep material for their kid’s Daycare-to-Primary School assessment day. I suppose not all Beijing kids are on easy mode after all.
 
-```
+<code>
 *All figures are approximate and based on publicly available data.
-```
+</code>
 
 My primary school teacher made sure we were aware of rankings from a young age. She used to instruct us to write down in our diaries the names of classmates we saw as our “rivals”, as a reminder that we were meant to outrank them in the next exam. Writing down someone’s name in my diary felt too intimate, and listing multiple rotating candidates just felt absurd. So I didn’t bother.
 
