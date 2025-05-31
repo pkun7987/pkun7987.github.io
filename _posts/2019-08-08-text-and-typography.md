@@ -7,6 +7,7 @@ tags: [typography]
 pin: true
 math: true
 mermaid: true
+Typora-root-url: ../../pkun7987.github.io
 ---
 
 ## Headings
@@ -40,7 +41,7 @@ The messages involved tons of documents, chat records, and voice messages that b
 
 The parties are, obviously, my parents, who went to university together and have been working at the same public hospital alongside many of their classmates since graduation. Growing up, I was immersed in over 30 years of gossip involving the same rotating cast of people. The stage is the largest public hospital locally (which, in a Chinese context, means it runs like a government organisation and the doctors are treated as civil servants). 
 
-![image-20250531144551694](/Users/kun/Documents/GitHub/pkun7987.github.io/assets/blog/2019-08-08-text-and-typography.assets/image-20250531144551694.png)
+![image-20250531144940897](/assets/blog/2019-08-08-text-and-typography.assets/image-20250531144940897.png)
 
 ## Lists
 
