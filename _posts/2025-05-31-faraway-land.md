@@ -3,7 +3,10 @@ title: Mum, Dad, and Fictions about a Faraway Land
 date: 2025-05-30 10:55:00 +0000
 categories: [Blogging, Writing]
 tags: [china]
+toc: true
 pin: true
+math: true
+mermaid: true
 Typora-root-url: ../../pkun7987.github.io
 ---
 
