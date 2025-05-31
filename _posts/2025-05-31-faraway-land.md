@@ -10,6 +10,8 @@ Typora-root-url: ../../pkun7987.github.io
 
 # Part 1
 
+> They had to be fast, for there were always others.
+
 Just to be clear, both are still alive—provided Dad’s not drunk enough to have fallen asleep on the street somewhere and frozen, and Mum’s not getting a heart attack from it, which has happened before. Considering the pleasant spring all over our northern hemisphere, I guess fatality is unlikely, so all good!
 
 Last week I saw tons of private messages from Mum, which was unusual. For context, I barely message my parents and we never call each other (which I think is for the best). The three of us do have a group chat where they share gossip about who slept with whom at work, which managers just got arrested, what crazy assets turned up when the government raided their homes, and how much money they paid to the Regime to get released, but nothing more than that (Yes, my parents work at the same place, and no, it’s not a good idea).
@@ -125,3 +127,155 @@ Luckily, I got my chance after I started primary school. Mum and Dad were now co
 When I was eight or nine, I stumbled upon adult content online. After concluding that the human body wasn’t all that interesting, I blocked all the sites via some parental control portal so that Dad wouldn’t inadvertently come across these sites that I felt would harm his mental and physical health. When I was around eleven, I started noticing China’s Great Firewall being deployed (interestingly, it’s also a baby of 1998). I started to “jump the wall,” but didn’t find anything particularly depressing that I wasn’t already aware of. Back then, average Chinese people weren’t yet brainwashed by algorithms, and anything sensitive had already been passed down by shared memory and discussed openly. Every major topic that people assume an average Chinese wouldn’t know, everyone around me knew, and naturally so did I. I also tried to register for Facebook and got the notification that I was underage. There really weren’t a lot to see on the other side.
 
 After much exploration, I felt gaming was still the way to go (unfortunately, this isn’t one of those stories where the main character taught themselves to code and became a hacking prodigy)—and, much to Mum’s disappointment, I naturally became the first and so far the only person in the extended family to need prescription glasses.
+
+# Part 2
+
+My childhood was largely carefree until I was around eleven or twelve. By then, both my parents had become overworked senior doctors, especially Dad. I don’t think Dad ever had a proper weekend off; he was always up by 6:30 to do his ward rounds. He specialises in a field where patients are often in very serious condition—and sometimes, they don’t make it. His own father died from a disease he specialised in, during the first year he qualified. A grandpa I’d never met. I heard he’s quite sensible. Good to know.
+
+When a patient dies, it’s not uncommon for furious relatives to break into the hospital and host a funeral in the lobby or the hospital head’s office. Sometimes they do have good reason to be angry, and Dad was caught in several such occasions.
+
+One time, He got a last-minute call from a colleague who was unwell and asked him to cover a night shift. Dad agreed—he always does. The colleague had operated on a patient earlier that day. During the night shift, the patient suddenly deteriorated. Dad hadn’t been properly briefed on the patient’s condition other than being told that the surgery had gone well. He called the colleague, no answer. The patient passed away that night.
+
+This is the version a 11-year-old me learned from my parents’ calls. I later stumbled across an article online written by the patient’s son. In this version, Dad was clearly negligent. He didn’t know what to do, and didn’t make much of an attempt. He insisted that nothing could be done before he heard back from the colleague, even as the patient’s sons and daughters knelt before him, begging him to save their father. He was passive, so passive that it was cruel.
+
+Several similar incidents happened over a few months, maybe a year. It’s funny how the first time I heard the term “medical negligence”, I had already started graduate school. Growing up, words like *tort* and *settlement* all sounded foreign to me. The phrase that felt more familiar was *taking the blame*, and it was almost always associated with Dad. Nevertheless, Mum took on the role of Dad’s defence lawyer and firmly believed that he had been set up by irresponsible colleagues. Unfortunately, an 11-year-old me couldn’t be the judge—just as a 26-year-old me still can’t deliver a verdict. I guess it doesn’t matter now, for liabilities can be discharged, but blames cannot be untaken.
+
+That said, I was a witness of the aftermath. I remember reading a message Mum sent to the then-not-yet-jailed hospital head, threatening to take “any measure necessary”, including reporting the head’s unrelated misconducts to stop Dad from getting dragged into these situations again. 
+
+Dad’s solution was different: he started visiting temples. Many Chinese people frequent temples—whether Buddhist, Taoist, or folk religious sites. Even those who aren’t particularly religious often still customarily pray for more money or a promotion. I’ve never prayed for money or promotion, but I, too, couldn’t resist making wishes to Buddha. Interestingly, every single one of those wishes has come true (with the exception of world peace, though I knew that one was a bit too ambitious). None of them came true in the way I had hoped. I suppose I wasn’t specific enough—need to work on those legal drafting skills.
+
+Dad used to visit these temples with us, but he was only interested in the hiking, not the praying. His closest encounter with religion was when he treated a Tibetan guru who had contracted parasites from eating Tibetan air-dried beef. He later used it as an example to argue that not all Buddhists are vegetarian. I guess the tragedies came so close together that Dad eventually decided to give praying a go. The incidents soon stopped. They never resumed. I don’t know what worked—Mum, Buddha, or maybe Dad just got better. 
+
+Still, Dad needed ways to escape. Like many others, he turned to alcohol. He already enjoyed drinking, and had always been quite the comedian when drunk. His most iconic act was mistaking his bedroom for the toilet. On several occasions, I heard him walk into his bedroom, announce to himself with great satisfaction, “Finally! Toilet!” and then proceed to relieve himself. 
+
+I tried to convince myself I must have misheard, but the sound effects were far too realistic, and the purest form of happiness—that of a drunk man—can warm even the most cynical heart. Thank God it was always number one, because number two, even for a drunk man, would have been considerably harder to accomplish in a bedroom. He used to deny this, until one day I left some newspaper on the floor and thereby preserved crucial evidence. 
+
+When he’s drunk he’s a man of few words, and every single one of my primary school classmates would soon find out.
+
+It was Year 5. One day, I got into trouble with the head teacher of my class, who refused to release us for our afternoon break because she wanted to go over some practice questions that we’d already done a thousand times, just another average day in the life of a Chinese student. I suppose it’s time to take a short detour and show you how 12 years of such lengthy days could fly by.
+
+At primary school (Year 1-6), we prepare for the **Primary-to-Secondary exam**; good marks could secure us a place in a “fast” class at secondary school. It’s quite common for schools to divide students into “fast” and “ordinary” classes. Some schools can be very creative with the naming—“Rocket Class” is a very popular one, and I associate it more with fast burnout rather than just “fast”.
+
+“Fast” classes come with great perks: stricter teachers, more dumb homework, excessive exam prep, and everyone’s favourite—more competitive classmates. It’s the kind of situation that makes you wish you were “ordinary”. Some schools would reshuffle the classes based on exam rankings; once you drop below a certain rank, be prepared to bid farewell to your mates and join a slower class.
+
+In secondary school (Year 7-9) we prepare for the **City Exam**, where we compete with others from the same city for a place (in a fast class) at a good high school. In our small big town (of more than 7 million people), there is only one good high school, so if you have a childhood crush who is somewhat smart, this is the opportunity to rekindle the flame.
+
+High school (Year 10-12) is all about preparing for the **Gaokao**, where we compete with other poor souls in the same province for a spot at university. This exam is so important that I’ll refer to it as the **One Shot**. This is not technically accurate, as you can take the One Shot as many times as you like, provided you're fine with staying in Year 12 forever. Still, for most people, the One Shot remains to be the only known chance to avoid becoming their parents’ retirement plan. So, the One Shot it is.
+
+When it comes to university admissions, each university assigns a different quota to each province, typically reserving a larger share for their home province*. Admissions are, in theory, strictly based on our One Shot rankings (after adding extra marks from a few qualifying schemes), and nothing else. 
+
+```
+*However, if the students from a certain province happen to be particularly attached to their hometown, a larger quota does not necessarily mean less competition.
+```
+
+Chinese universities are divided into tiers, which, based on my observation, are widely used as filters in recruiters’ CV screenings. My province, the only one in the country with no top-tier university, receives a pitifully small share of the quota for top-tier admissions. We start the game on hard mode, with every teacher reminding us that a single mark can shift our rank by thousands of places in the One Shot.
+
+I used to assume that students from nearby Beijing had it easier, since many top-tier universities were located locally and the admission quotas were more favourable. For context, in 2024, among all provinces, my province had one of the lowest admission rate to the “Chinese Oxbridge” (Peking and Tsinghua University, both based in Beijing), at 0.05% (330 out of 670k), while Beijing had the highest, at 0.86% (580 out of 67k)*. I realised my assumption had been wrong when I came across some Beijing parents’ prep material for their kid’s Daycare-to-Primary School assessment day. I suppose not all Beijing kids are on easy mode after all.
+
+```
+*All figures are approximate and based on publicly available data.
+```
+
+My primary school teacher made sure we were aware of rankings from a young age. She used to instruct us to write down in our diaries the names of classmates we saw as our “rivals”, as a reminder that we were meant to outrank them in the next exam. Writing down someone’s name in my diary felt too intimate, and listing multiple rotating candidates just felt absurd. So I didn’t bother.
+
+I never quite appreciated my primary school teachers’ efforts—whether it was going over stupid homework or delivering emotional speeches about the importance of exams. Unlike university, we didn’t have laptops or phones, and the only way to escape from a boring class was to physically leave it. I made myself a minor celebrity among teachers and students alike by walking out of class whenever I felt a teacher’s monologue wasn’t worth the ticket. I tried to make sure each strut was more dramatic than the last. Growing up, I often receive comments that I sometimes walk like I’m about to beat someone up. I guess that bad habit started there.
+
+Eventually, I ran out of ideas to impress my audience and wanted to retire from these performances for good—so much so that one year later, on the day I was supposed to start secondary school, I announced to my parents that I didn’t want to go to school anymore and wanted to self-study.
+
+Dad didn’t have much of a reaction. He complained to Mum “How the hell did you raise the fucking kid?(**鸡巴崽子怎么教育的？**)” and hurried to work.
+
+Mum stayed, and managed to get me to go back to school after making it clear that she wouldn’t let me donate my organs before we could both end our pain once and for all.
+
+Back to that dull afternoon in Year 5, as the teacher detained us from our much needed break, I figured a silent walkout wouldn’t cut it this time—I stood up, slammed my desk hard, and called out the teacher. I didn’t know why I acted that way, I suspect it had something to do with my first period looming and the hormones fluctuations starting to get to me.
+
+That conveniently got all my classmates released for break, because I gave the teacher a minor heart attack—my parents later had to fit her with one of those ECG monitors. To her credit, she didn’t collapse. Instead, she seized me by the wrist, and we were locked in a silent tug of war stalemate. If this were a K-drama, that was probably the part where we should kiss. In the dead silence, I contemplated my future, and upon realising my next 7 years of education could only get worse, despair washed over. After looking around the room to make sure all my audience had left, I started to cry hysterically.
+
+After the chaos I created, the teacher called my parents. Dad came to collect me. By the time he arrived, all audience had returned to the classroom, and the performance did not disappoint—In front of all 60 of them, Dad gave me two big slaps across my face and dragged me off the podium.
+
+I don’t have a very clear memory of the event; it’s just one of my usual gigs, but years later, a friend told me the scene was such a sensory overload that it fried her young nervous system, for when Dad got in, he reeked of alcohol and slapped me without any hesitation or saying a single word.
+
+Drinking wasn’t Dad’s only form of escape. He started an affair with a nurse in her 20s. By the time we found out, I had already been suspicious for a while due to his absences during Mum’s night shifts. I didn’t do anything about it, for I quite enjoyed having the apartment to myself.
+
+Even at a young age, I had very low expectations of people, and in doing so, rarely experienced the harsh sting of disappointment. What did puzzle me was how anyone could possibly want to sleep with Dad, who was, objectively speaking, nowhere near attractive and further from wealthy. That was when I realised cheating has absolutely nothing to do with attractiveness or desirability. It’s about values—whether someone thinks cheating is acceptable. Even the most undesirable individuals can, and often do, pay for sex if needed. It seems like a lot of people are completely fine with keeping up the act with their partners while getting something else on the side. Makes me wonder why they still bother with TV dramas, when they themselves are already such good actors in real life.
+
+Dad said he thought the girl was marriage material, and that since his relationship with Mum wasn’t close anymore and I wasn’t talking to him much, he felt depressed. 
+
+That was funny. What exactly am I supposed to talk to him about—alcohol? Alcohol does get people to talk, but I wasn’t drinking then (and still don’t). The only topics I ever wanted to discuss with my parents were workplace gossip and local politics. After their work started to involve deaths, those topics were off the table.
+
+I thought Dad’s situation was one of paying for sex. We later found out that the girl had been sleeping with a bunch of people during night shifts—so much so that some doctors refused to work with her (so I guess there’s still hope for humanity after all?). I doubt she loved Dad—she probably just needed some nice dinners. Mum investigated her and found out she was engaged. She then investigated the fiancé and called him, only to discover he still wanted to marry her. 
+
+Mum originally didn’t want anyone at work to know, for no one wants all their university friends to know their spouse cheated. Unfortunately, one colleague overheard the girl on a crowded bus, saying, “I slept with a doctor in my department named [Dad’s full name]. His wife just found out. What do I do?” Her friend apparently advised her to get some money out of it.
+
+Mum was furious that this girl would dare to air her dirty laundry on a bus. She marched straight into Dad’s department to beat her up. The head of the nurses—whose son went to school with me in the year above—tried to intervene. Mum stopped speaking to her and never picked up her son with me again. 
+
+Dad didn’t lose his job. Where I’m from, people don’t get reprimanded for these things; that’s how the system keeps functioning. He did make me feel gross, but that was just a thought I could block out if I didn’t engage with it. The girl, on the other hand, gave me a physical urge to vomit. The other nurses described her as “slow”, and I’m sure she’s not pretty, for a pretty girl that’s low and slow would have landed someone actually rich. 
+
+I felt she violated the wholesome image of the female gender, and briefly considered removing such a discomfort from planet earth myself. After doing some research on Chinese criminal law, I was pleased to find that there was no criminal prosecution for children under 14, and I was around 12 or 13 at the time (apparently many children did the same research, and the age cut-off had been recently lowered to 12). After much deliberation, I abandoned the plan, for if her fiancé loved her that much, I might need to deal with him as well after her removal, and I just couldn’t be bothered wasting time on stupid people
+
+I wish them happily ever after.
+
+ Part 2
+
+  My parents didn’t divorce, I guess they stayed together for the same old reason “for the kid”. I was in secondary school at the time. As I said, I only agreed to go because Mum threatened my organs would go to waste otherwise. This happened on the first day of class—but before that, we had this orientation week which involved a group bootcamp customary in every Chinese state school called the “military training”. This was essentially just boy/girl scout drills, where we marched in formation under the scorching sun; so let’s just rebrand it as the Scorch Scout (SS).
+
+Although I had long planned not to go to school, I participated in the SS willingly and did not announce my plans until the SS was over. After all, I’d already patiently waited all summer—why not wait a few more days to witness the stupidity of school firsthand, just to prove I was right?
+
+On the first day of SS, Mum asked me to wear a gaudy hair clip, since my then non-permanent 3:7 part was covering my eyes, and she thought that would make a bad impression. For context, my secondary school had a strict hair policy: every girl was required to have short, ear-length bob with straight bangs. The school’s reasoning was that long hair would take too much time to maintain and distract girls from their studies (*fair enough*), and distracted girls would distract boys (*seriously? Teenage boys could be distracted by anything!*). Straight bangs have been the archenemy of my life. I swore I would defend my 3:7 part no matter what. If that entailed taking on the headmaster with that horrible hair clip, so be it.
+
+At the end of the first day of SS, my class head teacher called me into her office for a private conversation. She said:
+
+“You’re here to study, not to seduce boys. I don’t want to see your hair clip tomorrow.”
+
+“Okie!” I replied, though I felt the “seduce boys” inference was utterly unfounded. It was the first time in my life I didn’t argue back when I felt I was wronged. 
+
+My internal script read “*Just another week and I’m out of here, bitch! (smiling, flipping and spitting)*”
+
+Kun exits.
+
+Kun enters.
+
+Unfortunately, since I lost the argument about not going to school, I had to go—and was late on the first day of class. I sat at the last available desk, the one crammed against the broom and bin cupboard at the front of the classroom. Due to the awkward shape of the cupboard, the desk and chair were jammed so close together that only someone skinny could squeeze in. I got moved to a regular seat soon after, since the bin seat with reduced legroom actually cost extra—it was close to the podium, right under the teacher’s nose.
+
+My secondary school ran a seating rotation system: every week, we had to move one row forward or sideways for a “fair opportunity” to sit closer to the teacher, but if someone’s parents were willing to pay our class head teacher the “seat selection fee”, they would be excluded from the rotation and secure that bin seat permanently. Naturally, I didn’t get to retain my first-class bin seat for free. We later nicknamed the teacher Pliers, for she really enjoyed pinching and bruising students. I was spared from this as I was too skinny to be squishy.
+
+Though flying economy on a crowded flight captained by Pliers, who had disliked me since day one, I enjoyed school. After everything that happened, with my parents arguing and despising each other but not divorcing, home felt like a delayed train full of crying babies and screaming Karens. Imagine sitting on this train, would you try to calm your fellow passengers? Probably not, for you knew this would be a lost cause. When the nuisance was really getting to you, the Karens putting their stinky feet on your tray table, the babies pouring drinks on your newly polished boots and freshly pressed suit, would you try to fight it? Maybe yes, and then you would still lose and regret that you tried. It was poor luck that you ended up in this situation, and you must patiently wait for a good escape window to open up.
+
+Secondary’s school’s dullness and repetitiveness was on a whole other level, but I stopped slamming desks and calling out teachers—I had realised this was a systematic issue and had nothing to do with any individual teacher. My protest turned silent: I simply stopped doing homework and was quite often barred from entering the classroom because of it. Pliers would sentence me to run laps around the schoolyard or sweep fallen leaves. To be fair, getting a bit of exercise wasn’t entirely bad, as I was scrawny and had always failed my physical assessments. Thanks to the daily exercise, I got full marks within a few months. The leaf sweeping was also oddly therapeutic. Sisyphean, almost. Especially in autumn, when I had to shovel up sodden leaves from several old sycamore trees. I heard these trees were later cut down because some boys tried running up the trunks to see how far they could go—another Sisyphean effort, I suppose.
+
+Unfortunately, things weren’t so great once you considered that our city had terrible air quality (before Xi’s crackdown on pollution), and the track wasn’t rubber or turf, just bare dirt. Pliers had worse punishments for others. In addition to pinching, she enjoyed making students write “I must not…” lines like Dolores Umbridge. Without the bleeding magic ink, thankfully, but a hundred times over.
+
+At secondary school there was a boy nicknamed Hair—supposedly for body hair, though he wasn’t particularly hairy, so I never figured out what kind. Let’s be cultured and call him Harry. Harry had a creepy way about him. He liked touching girls inappropriately and telling everyone whom he touched and how. He was wandering around me during SS and touched me a few times. I didn’t report him, as he gave off the vibe of someone who couldn’t care less about Pliers, his parents, or any consequences. I suppose People like him don’t necessarily cause damage; they just enjoy watching others taking offence. So I gave him nothing. I just looked at him in boredom, like watching a toddler throw a tantrum. He soon lost interest.
+
+During SS, the school surprised us with an impromptu ranking exam. Harry placed second. I placed third or fourth. We both clearly ranked higher than the other had expected, and he completely left me alone after that.
+
+Sometime in Year 8, the school decided every class should overhaul their seating plans by ditching the traditional rows-and-columns layout in favour of group clusters. Pliers enjoyed the exercise and placed Harry next to me again, along with a few other names from the naughty list. She did sprinkled my group with a couple of lovely girls, but immediately surrounding me—eight seats in total—were all boys.
+
+This was a real disaster for me—our campus was very old and there were no toilets in the classroom buildings. To use the toilet, you had to trek across to the sports field, where a separate toilet building stood like an outpost. It’s quite a trek, and everybody needed a toilet comrade. For girls, this should be any girl in a neighbouring seat. Everyone knew that only losers went to the toilet alone. 
+
+This was Year 8, when I was deeply committed to becoming a cool girl, and a cool girl does not walk past two desks just to ask someone’s hand for the loo. I decided I would go alone.
+
+Pliers overheard me complaining about the new seating arrangement. She came over, smiling, and said, “sorry, I didn’t realise I placed no other girls around you.” 
+
+I guess she figured out I wasn’t there to “seduce boys” after all. Took her long enough.
+
+On one of those forlorn trips to the toilet, just as I was pulling my pants up and heading out, a girl from the year below stopped me. She introduced herself, said she found my hairstyle cool, and wanted to be friends.
+
+I suppose if you’re looking to make new friends, the toilet is just as good a place as any. Some onlookers later described the scene as me receiving a **告白** (confession of love) in the loo.
+
+I didn’t know her, but I knew of her. She was very pretty, with an even prettier voice. Let’s call her Gakki. In my humble opinion, she was the only girl in the entire school who ever truly pulled off that straight bangs hairstyle.
+
+Gakki served as the host for all school events. The school administration seemed to have an uncanny knack for selecting the pretties girls for this sort of thing. Their process worked better than our informal student polls, though I never figured out how. It’s not like they had our headshots on file.
+
+I had on-and-off chats with Gakki over the years, I learned that her parents later sent her to an international school in Israel, and then to the UK for university. A few months ago, she messaged me for advice. She apologised that that much of what she used to say about herself wasn’t true. Then she told me another version: Her father was a notorious figure locally, with ties on both sides of the law. Both she and her mother had long suffered from domestic violence. They never called the police, for her father was the kind of person who couldn’t be jailed—and if jailed, couldn’t be kept there.
+
+She was severely depressed and was expelled from the international school. They were worried something might happen to her and didn’t want it to happen on their premises. She studied from home, signed up for A-level equivalents, but couldn’t complete it due to mental health issues and the difficulty of studying while living with her parents.
+
+Eventually, she ran away. She had done all kinds of jobs “within the boundary of law”, managed to save some money, become mentally operational again, and wanted to see if there was a way to go abroad and possibly go to university.
+
+None of this surprised me. While I didn’t know the details about her father, I could easily picture him. In our hometown, there are many others like him—usually operating in mining, fishing, steel, cement, real estate, private hospitals, or some flexible mix of the above. Her father just sounded like a stereotypical NPC that would spawn in our town. Tackling him would probably be a side quest, not part of the main story line. Truth be told, the whole town would likely sit in one of those fogged-out regions beyond the main map, which doesn’t render unless you fall off some cliff and land there by accident.
+
+I visited my hometown over the holiday season last year. Gakki said she’d be in town too, so we arranged to meet and brainstorm her options. Later, she said she couldn’t make it because of work. I didn’t ask why. I just texted her that I wished her the best. She didn’t reply.
+
+At the time we first spoke, I had no idea that Gakki was the kind of girl who fought.
+
+She was just a pretty girl who smiled.
