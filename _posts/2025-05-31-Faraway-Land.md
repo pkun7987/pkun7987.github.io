@@ -21,9 +21,3 @@ I blocked Mum and the group chat for two years previously—this included the ti
 The messages involved tons of documents, chat records, and voice messages that bore an odd resemblance to a messy evidence bundle from an aggressive client, but since I happened to be working on a trial-summary exercise anyway, I figured I might as well treat it as practice. It was overwhelming at first, but after weeding out Mum’s emotional rambling, the case became quite clear:
 
 The parties are, obviously, my parents, who went to university together and have been working at the same public hospital alongside many of their classmates since graduation. Growing up, I was immersed in over 30 years of gossip involving the same rotating cast of people. The stage is the largest public hospital locally (which, in a Chinese context, means it runs like a government organisation and the doctors are treated as civil servants). 
-
-
-
-
-
-![image-20250531143503402](/assets/blog/2025-05-31-Faraway-Land.assets/image-20250531143503402.png)
