@@ -65,7 +65,9 @@ My hometown is not a shithole per se, but many would agree it’s shitty. If you
 
 Visually, it used to be very grim. The economy was heavily dependent on mining and steel production. It was once one of the most polluted cities in China, with winters that reminded me of Oliver Twist. People often say that if you ranked global steel production, China would come first, my hometown would come second, and my hometown’s illegal overproduction would come third. I’m not sure if that was ever true. It certainly isn’t now, for China has spent the past decade introducing production cuts and cracking down on pollution.
 
-There used to be a lot of rich mine and steel bosses around, on Chinese New Year Eve (Or Lunar New Year, if you so prefer, but the narratives here are about China so I will use Chinese New Year through out), some of them would hire people to set off fireworks all night. It was really a sight. Mum was always busy on those nights, for she’s an ophthalmologist, and had to remove several eyeballs each new year because of defective fireworks or reckless people. She became lifelong friends with many of her patients this way, since she really was a master tailor when it came to stitching people’s faces back together.
+There used to be a lot of rich mine and steel bosses around, on Chinese New Year Eve*, some of them would hire people to set off fireworks all night. It was really a sight. Mum was always busy on those nights, for she’s an ophthalmologist, and had to remove several eyeballs each new year because of defective fireworks or reckless people. She became lifelong friends with many of her patients this way, since she really was a master tailor when it came to stitching people’s faces back together.
+
+`Or Lunar New Year, if you so prefer, but the narratives here are about China so I will use Chinese New Year through out.`
 
 When she was a junior, she trained in Beijing in plastic surgery and saw some of China’s earliest gender reassignment surgeries. These days, she still occasionally performs double eyelid procedures. It’s a one-cut surgery to transform Asian monolids into double lids, mostly for high schoolers applying to performing arts colleges who (or whose parents) believe bigger eyes will give them a better shot.
 
@@ -171,9 +173,7 @@ High school (Year 10-12) is all about preparing for the **Gaokao**, where we com
 
 When it comes to university admissions, each university assigns a different quota to each province, typically reserving a larger share for their home province*. Admissions are, in theory, strictly based on our One Shot rankings (after adding extra marks from a few qualifying schemes), and nothing else. 
 
-`
-*However, if the students from a certain province happen to be particularly attached to their hometown, a larger quota does not necessarily mean less competition.
-`
+`*However, if the students from a certain province happen to be particularly attached to their hometown, a larger quota does not necessarily mean less competition.`
 
 Chinese universities are divided into tiers, which, based on my observation, are widely used as filters in recruiters’ CV screenings. My province, the only one in the country with no top-tier university, receives a pitifully small share of the quota for top-tier admissions. We start the game on hard mode, with every teacher reminding us that a single mark can shift our rank by thousands of places in the One Shot.
 
