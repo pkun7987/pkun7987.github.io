@@ -13,9 +13,9 @@ Typora-root-url: ../../pkun7987.github.io
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 
-## Part 1
+## Part 1 — City of Steel
 
-> They had to be fast, for there were always others.
+> *They had to be fast, for there were always others.*
 
 Just to be clear, both are still alive—provided Dad’s not drunk enough to have fallen asleep on the street somewhere and frozen, and Mum’s not getting a heart attack from it, which has happened before. Considering the pleasant spring all over our northern hemisphere, I guess fatality is unlikely, so all good!
 
@@ -135,9 +135,9 @@ When I was eight or nine, I stumbled upon adult content online. After concluding
 
 After much exploration, I felt gaming was still the way to go (unfortunately, this isn’t one of those stories where the main character taught themselves to code and became a hacking prodigy)—and, much to Mum’s disappointment, I naturally became the first and so far the only person in the extended family to need prescription glasses.
 
-## Part 2
+## Part 2 — Toilet Stories
 
-### This is a test TOC 2
+> *Another Sisyphean effort, I suppose.*
 
 My childhood was largely carefree until I was around eleven or twelve. By then, both my parents had become overworked senior doctors, especially Dad. I don’t think Dad ever had a proper weekend off; he was always up by 6:30 to do his ward rounds. He specialises in a field where patients are often in very serious condition—and sometimes, they don’t make it. His own father died from a disease he specialised in, during the first year he qualified. A grandpa I’d never met. I heard he’s quite sensible. Good to know.
 
@@ -219,9 +219,7 @@ I felt she violated the wholesome image of the female gender, and briefly consid
 
 I wish them happily ever after.
 
- Part 2
-
-  My parents didn’t divorce, I guess they stayed together for the same old reason “for the kid”. I was in secondary school at the time. As I said, I only agreed to go because Mum threatened my organs would go to waste otherwise. This happened on the first day of class—but before that, we had this orientation week which involved a group bootcamp customary in every Chinese state school called the “military training”. This was essentially just boy/girl scout drills, where we marched in formation under the scorching sun; so let’s just rebrand it as the Scorch Scout (SS).
+My parents didn’t divorce, I guess they stayed together for the same old reason “for the kid”. I was in secondary school at the time. As I said, I only agreed to go because Mum threatened my organs would go to waste otherwise. This happened on the first day of class—but before that, we had this orientation week which involved a group bootcamp customary in every Chinese state school called the “military training”. This was essentially just boy/girl scout drills, where we marched in formation under the scorching sun; so let’s just rebrand it as the Scorch Scout (SS).
 
 Although I had long planned not to go to school, I participated in the SS willingly and did not announce my plans until the SS was over. After all, I’d already patiently waited all summer—why not wait a few more days to witness the stupidity of school firsthand, just to prove I was right?
 
@@ -284,3 +282,164 @@ I visited my hometown over the holiday season last year. Gakki said she’d be i
 At the time we first spoke, I had no idea that Gakki was the kind of girl who fought.
 
 She was just a pretty girl who smiled.
+
+## Part 3 — Edge Case
+
+> *If you dare run, we could hang out.*
+
+In Year 8, I began self-study Year 9 material. I’d just learned that the best high school in my hometown ran a selective STEM program admitting 50 local and 50 non-local students through a challenging exam. Roughly 7 or 8 students from my secondary school’s cohort of over 1,000 make it each year. If I got in, I could skip Year 9 and bypass the City Exam to go straight to high school. Grade/year skipping is not uncommon in China. Many people did it in primary school, but it had never crossed my mind until the pain of dealing with Pliers started to outweigh the joy of making new friends in the ladies’ toilet.
+
+By the time I launched this agenda and started reading Year 9 materials in Year 8 classes, I had somehow become friends with Harry, who had long stopped bothering me. Harry turned out to be a great “deskmate” — one of a kind, really. He had no agenda. He didn’t listen in class, but didn’t engage in anything else either, no doodling, no reading novels, no self-study. He just… did nothing other than occasionally bantering with whoever still awake in class. He was perfect for keeping a lookout and nudging me to switch books whenever teachers walked by, helping me stay off Pliers’ radar. He was the only friend who materially contributed to my secret mission. Others just provided the emotional support I didn’t need.
+
+Harry’s grades were no longer good, and he seemed to enjoy it. He famously had a “tiger mum” who’d been pedalling him on her bike to every kind of cram school since daycare. I never saw his dad. At some point, Harry must have decided he’d had enough and checked out entirely.
+
+My parents, while constantly arguing, were unusually supportive of my plans. It took quite a bit of adult-level string-pulling to sort out the logistics of skipping a year of school — no small feat in the bureaucratic labyrinth of local education authorities. I suppose they genuinely wanted to make the marriage work. I was, in a sense, the only thin string still holding everything together.
+
+One night, Dad received a call from his friend whose daughter used to go to school with me. The girl had “fallen” from the building across from my window, and her parents wanted Dad’s help. I didn’t understand why they called — a sprained ankle from a stair tumble didn’t sound particularly difficult or urgent.
+
+I learned next day that she hadn’t “fallen”, for she had texted her classmates “goodbye” beforehand. She survived for a while in ICU, still lucid enough to say that she was cold and thirsty, but never that she wanted to live. Her reasons remain unknown. I suppose her parents never found out. Parents never do.
+
+I guess my parents figured they didn’t want a similar tragedy on top of their dysfunctional marriage. My life at the time was still an unpleasant train ride, but the Karens were only bickering among themselves. That’s good enough. I’ve long been numb to noise, all the more so when it wasn’t aimed at me. I felt no obligation to fix my parents’ relationship. Sometimes one has to acknowledge one’s limitations.
+
+To access more prep materials for the exam, I needed all day access to a computer. I eventually left school entirely to study at home. I don’t remember how long this lasted. A few months? Half a year? I just remember having no human contact besides my parents for quite some time.
+
+I sat the exam. While waiting for the results, I returned to school. Pliers had then learned my agenda, and I was treated as invisible, pure bliss.
+
+The results came out, I placed 56th, not making top 50th; and that’s after my very impressive interview score was added, which meant I probably ranked in the 60s or 70s in the actual STEM exams. The high interview score was a pleasant surprise, considering I had always struggled with speaking clearly and hadn’t had anyone to talk to, but it was the STEM exams that mattered to me. Mum wasn’t having it. She made my case known to the high school headmaster, who was probably impressed but unsettled by the audacity at the same time.
+
+The 50 successful students were invited to a bootcamp at the high school. Thanks to Mum, I was allowed in too, though unofficially. I spoke to no one. It felt odd being the 51st person in the room.
+
+The bootcamp involved STEM, Chinese, and English sessions. The English class was taught by a retired British professor who specialised in architecture or civil engineering. In our small town with virtually no expats, he looked like a Harry Potter character stuck in a Chinese coming-of-age drama after losing his wand. There was no real teaching. He simply spoke, at length, about whatever random topics came to mind. I remember almost none of it, except for one thing: he said that if my hometown were struck by another major earthquake, the building we were in would most certainly collapse.
+
+I was puzzled. My hometown lies on an active seismic belt, and a few decades ago it experienced one of the most devastating earthquakes in modern history. All new buildings in my hometown were supposedly constructed to withstand magnitude 8 earthquakes, as required by national standards. How can the brand-new buildings of the best school possibly collapse? I hoped he was wrong, but I wouldn’t be surprised if he wasn’t.
+
+He also made a few subtle jabs at the Regime, which impressed me. Instead of sounding like the BBC, he actually had some knowledge of the underlying material. It sounded like the school had worked hard to bring him in for this vacation stint.
+
+*Would he be able to secure me a spot on the program?*
+
+For the first time in my life, I wanted to impress someone senior. I was desperate, I didn’t want to return to Pliers as a failure.
+
+He asked questions in class; no one engaged, so I did, mostly because the silence gave me second-hand embarrassment. My English wasn’t particularly good, but after spending too much time reading things I probably shouldn’t have, I could comfortably discuss things I probably shouldn’t be discussing.
+
+I later learned a few of my classmates thought I was an annoying show-off. That’s fair, but when you’re desperate, you don’t have the luxury of staying cool. They were in a summer camp, but I was in a group interview.
+
+During the break, I told the British professor that my future was in a limbo. He said I definitely deserved a place, asked for my name, and promised to write a “reference letter” to the headmaster — the first time I’d ever heard of such a thing.
+
+He did, and I got a confirmed place. Though deep down, I have always known — even if I sometimes refuse to face it — that this is not a system where a spot in a highly selective program can be secured simply because a British professor wrote a letter.
+
+And off I went to high school.
+
+Before leaving for high school, I returned to my secondary school to see some of my friends one last time — only to find the classroom filled with unfamiliar faces. Most of my friends, especially those on Pliers’ naughty list, had gone. Those with well-connected parent transferred to other schools. Others with rich parents moved abroad or to nearby provinces, where their parents had bought properties for the sole purpose of school registration — so their kids could attempt the One Shot there and avoid the brutal competition back in our province.
+
+Harry stayed.
+
+A few years later, drowning in depression over my dysfunctional relationship with my parents — I messaged him. He replied immediately:
+
+“You just need to get used to disappointing them and run away from them. If you dare run, we could hang out.”
+
+I agreed with everything Harry said — up until the comma, and that, weirdly, was the closest I’ve ever come to feeling completely understood. I was lucky that Harry was definitely not gay, because if he had been, I would’ve agreed with all of the above. I agreed so much that I blocked him. It wasn’t the right time to jump the train, and the last thing I needed was some cowboy swinging his lasso from the window.
+
+Starting from high school, my life became a complete train wreck. I was constantly aware that I hadn’t made the top 50 — and so were some of my classmates. I began panicking during exams, and to the quiet amusement of some, my grades were terrible. Luckily, the One Shot was no longer relevant to me: My parents, hardened by my long history of academic rebellion, had long accepted that I wouldn’t survive the One Shot. After visiting the UK and realising that I (back then) preferred wider roads and better weather, I decided to go to the US for university, and I’m forever grateful to my parents for providing the financial support. I later learned that many local American students didn’t have the same privilege.
+
+I figured that without the pressure of the One Shot, I could afford to take some time off from the regular curriculum to learn a new skill. I joined the school’s programming Olympiad team and started spending my days in the computer lab. Given my dismal academic performance, Mum lost trust in me and began nudging me to quit programming, telling me I’d do terribly. She was right — I completely messed up the most important programming contest of year, and in our team, messing up this one meant you were out, period. When I told her the results, she said, “Told you so.”
+
+In hindsight, she was in full panic mode. As I tried to leave our small city, things began slipping beyond her jurisdiction — and I suppose that, for her, was the real emergency.
+
+Soon after first year of high school, I left school again and began self-studying full-time for the exams required for US university applications. This meant, once again, having no human contact other than Mum and Dad. Dad didn’t have much presence at home besides eating and sleeping. I suppose that was his way of escaping from Mum — who, by then, had turned this household into a pig farm. She cooked for me every day and forced me to eat, scolding me for “disrespecting her” if I couldn’t finish, but would later act surprised at how I could eat such an enormous amount. I gained a lot of weight (temporary) and stretch marks (permanent). I hadn’t even noticed them — pigs aren’t supposed to be body-conscious — until one day, she randomly walked into my shower, saw them, and burst out laughing that I’d “turned fat.”
+
+She also randomly handed me a thirty-page document titled *Kun’s Personal Statement*, written in Chinese, opening with lines claiming I had been top of my class since primary school (*not true!*), and all teachers loved me (*for real?*)*…* and demanded I translate it into English to use in university applications. The content was so absurd I didn’t know whether to laugh or cry.
+
+For some light relief, I started experimenting with music production. Occasionally, as I was testing different virtual instruments, sound would leak from my room, and she would laugh at how I “pretended to know” how to operate the software.
+
+Of course, she would pick on Dad as well. She often criticised his noodles for being too watery and would ask me to confirm they were terrible. When I said, quite truthfully, that Dad actually made very good noodles (as expected from someone who had never eaten rice until university), she would throw a fit and accuse me of “siding with him” and gaslighting her. After that, I always tried to make no comment at all, as I didn’t want to lie. I got used to watching Dad get picked on over nothing, and I never helped — just as he never helped me. We both understood this was a slaughterhouse: it was either him or me. Better him than me. Every pig for itself. *Oink oink*~
+
+I won’t bore you much longer with this montage of depression. Years later, Mum accused me of being a hateful and vile person for remembering all this — yet at the same time, she’d tell others I was a genius for… remembering her taking me to a performance when I was two. She just enjoyed judging people and arriving at whatever conclusions made her feel good.
+
+I had long suspected she had mental health issues. That suspicion was somewhat confirmed a few years later, when I returned to China after university to work. She dragged me to what’s widely considered the country’s best psychiatric hospital to figure out why I didn’t want to do a graduate degree in computer science in the US. I couldn’t quite see how everyone outside the CS “Big Four” postgraduate programs had mental health issues, but I cooperated nonetheless, curious about what interesting characters I might meet at the waiting room.
+
+The doctor, after a brief conversation, said I sounded “quite normal” and would happily introduce me to his son who had also graduated from a US university, as he thought we might be compatible. I considered that a huge compliment — especially since he’d already met the potential in-law. That was before Mum slammed the door on him. I was glad the doctor wasn’t like Mum, otherwise, he’d definitely have chased her down the hallway and fought her on the spot (as she once did when a patient accused her of “playing computer games” while she was just typing up his prescription). I wonder how many Mums he sees every day in the adolescent mental health department.
+
+I hardly had any friends in high school, except for girls who sat next to me in class and boys in the programming team. I was especially close to the latter because they spent all day on computers and could chat with me while I wasn’t attending school. That ended in second year, when everyone started focusing on the One Shot.
+
+I fancied a boy in the year below who was also in the programming team. I don’t have a nickname for him; he was just Him. We went to secondary school together and used to be in the same year before I skipped Year 9. He was in another class on the same corridor. I’d liked him since then.
+
+In secondary school, our classes used to take exams together in this big room with desks each sitting two students. He had no interest in being a gentleman and once removed a girl from my desk just so he could sit next to me. Unfortunately, I wasn’t sure if he was available, and I’d seen him being mean to his other classmates in addition to the poor girl. Worse, he seemed to be… a friend of Harry, and being Harry’s friend wasn’t much of an endorsement, even though I considered Harry a friend myself. Anyway, I figured it was better not to get to know him, regardless of how I felt.
+
+He had very good grades, but after sitting next to him during exams, I figured he probably wouldn’t make it into the selective programme I was in. It was weird, but at my secondary school, a few high-performing students used to judge each other based on how quickly we finished the maths paper. It was a thing in the exam room: whoever finished first would drop their pen on the desk with a dramatic bang. I never banged. I just crossed my arms and winked at whoever did.
+
+He wasn’t fast. By the time I’d finished and reviewed both sides of my maths paper, he was still working on the first side. This was a shock to both of us. I remember him scribbling furiously while glancing sideways to check if I was really done. For a brief second, I felt smug, then immediately ashamed — how had I not outgrown the Chinese state school mindset of judging someone by how fast they do maths?
+
+I regretted judging him. Maybe he had better handwriting than me, or just wanted to get everything right the first time. I, on the other hand, rushed through everything, made silly mistakes, and still do today. I think I spent my entire adolescence in a running-for-my-life mode — sprinting through tasks, never developing any real intellectual interests until grad school.
+
+Through my entire first year of high school, I couldn’t see him and tried not to think about him. I didn’t want to be that idiot missing someone I couldn’t see, couldn’t talk to, and couldn’t even find a good reason to appreciate. Unfortunately, the feelings just wouldn’t listen to the reasonings.
+
+When his cohort was about to start high school, I gave in and headed to the bulletin board to check the posted rosters, trying to see which program he’d landed in. It was a busy scene — heads moving up and down, shoulders bumping left and right, everyone scanning for their friends. No one was interested in my program, because only 2 out of the 20 classes belonged to it, and people already knew who had made it. I knew just like me, he ranked out of the top 50 in the program-specific exam. Still, I found myself walking straight to my program’s roster and immediately saw his name. He must have nearly topped the city in the later round of the City Exam and got one of the few spots that opened up after some students left for other cities.
+
+There was nothing to look forward to. I knew I wouldn’t stay in high school for long. I needed to code a program to forget about him. So, the night before the year below joined and we might cross paths again, I told myself: If I don’t see him tomorrow, I’ll stop liking him. An if-else command. Elegant. Simple. Unlike in secondary school, where our classrooms were on the same corridor, we were now in separate intakes, in different buildings, each housing over 1,000 students. There was no way it could happen.
+
+The next morning, I overslept. By the time I got to school, everyone was already in class. I thought I was definitely in the clear. However, as I approached the gate, I realised that it wasn’t empty as expected — there was a lone figure standing there, and I knew exactly who it was. He looked like he was waiting for his parents’ car. Probably forgot something.
+
+Our school gate, like most gates to Chinese public institutions, is wider than the gate to Buckingham Palace. There was nowhere to hide. With my head down, I sprinted like my life depended on it, hoping he hadn’t seen me.
+
+I guess my if-else command failed to consider edge cases. This really wasn’t good.
+
+He also signed up for the programming team. After running into him a few times, I could reasonably conclude, at a decent significance level, that he was interested, and any competition I might have had from secondary school most likely didn’t make it into our high school. I struggled to figure out how to let him know that I would soon “disappear” *once again*, this time for good. It was tricky — thanks to my persistent effort to avoid him, we weren’t even proper acquaintances, and I wasn’t nearly delusional enough to announce my plans like I was someone important. In fact, I almost always keep plans to myself — most of them are simply too unlikely to succeed. I just execute, and let people find out when everything’s done.
+
+One day, I was getting lunch at the market stalls near campus with a few boys from the programming team. It was raining, and I ended up sharing an umbrella with one of them while queueing at the same stall. I remember one voice in my head saying, *“You can’t share an umbrella with a boy! People will gossip!”* and another one saying, *“Seriously? Are you six? It doesn’t mean anything!”* Both voices were silenced the moment I saw him — he faced my direction for half a second and then turned away. I could tell he had made his conclusions.
+
+Just like that, I conveniently got myself out of his head, and didn’t get to run into him in the programming team again. He must have realised the One Shot was more important, good for him.
+
+Some of my friends in the programming team weren’t so lucky. They started focusing on the One Shot a little bit too late. It was unfair, they had simply discovered their passion a little bit earlier than others. People who did well in the One Shot would probably end up training as software engineers anyway.
+
+Not so convenient for me though, for he stayed on my mind for a few more years, but I had worse problems to worry about; that made things a little bit better.
+
+There were many exams I needed to take for US college applications. I sat them in Beijing, Singapore, and Hong Kong. On those trips, I met students from all over China, most of them had far more interesting academic backgrounds and extracurriculars than I did. I’d always expected this, and never once wished to trade my life for theirs, for I can’t imagine a life not knowing my hometown and its many colourful residents. I might have wavered slightly when I met a girl who said she’d spent her summer holiday at a wild animal conservation site in Kenya, but back then I was naively hopeful that humans would head for the better, and biodiversity would recover; I’d be just as happy visiting Kenya at some later point in my life.
+
+On paper, I had never done anything interesting, so I knew I’d be at a disadvantage in college applications. Still, I figured I could get into a fairly good university with my eyes closed. I wasn’t picky. I’d settle anywhere — and anywhere would be better than the pig farm I was in. As my days in the farm dragged on, it started to feel less like a farm and more like a slaughterhouse. I just hoped I could last long enough.
+
+I got fairly good SAT and AP scores, but this was 2014, the year of a major SAT cheating scandal involving test centres in Asia. A university friend once told me they felt life was unfair because some of their friends had seen the exam paper beforehand. My friend didn’t believe it was genuine and didn’t read it, but later felt they deserved to have read it and gone to a better university. Very curious reasoning.
+
+Naturally, instead of looking at standardised test scores, universities in my application cycle put more weight on extracurriculars and high school grades. Many non-international high schools in China — my own included — didn’t have a system producing certified transcripts, and US universities didn’t trust their documents. As a result, I was in a difficult situation, not to mention that I pretty much dropped out of school to prepare for US exams.
+
+Universities usually release admission decisions starting in March, with the less competitive ones releasing first. By the end of March, the Ivy Leagues would have released their decisions, and the cycle ends.
+
+It was March 28th. I had applied to more than 20 universities and had so far received only rejections and waitlists. We knew I was definitely not getting into an Ivy League school. My parents drove me to Beijing to meet some connections who could help send me to the US for high school. They believed that if I got credible transcripts from a US high school, I would almost certainly get into an Ivy League.
+
+That might’ve worked, but I didn’t like the idea of extending high school just for grades and exams, and it sounded expensive, and would likely involve too much logistics from my parents — and at that point, I didn’t want anything more from them. Staying home for longer would probably butcher me for good.
+
+I preferred another option: give up on going abroad, attend a boarding school in another city, repeat Year 12, and attempt the One Shot to get into a good Chinese university.
+
+A Chinese “boarding school” is nothing like a British one. It’s essentially just an ordinary state school where parents pay a minimal fee to place kids in bunk beds in rooms of six or eight as an extension to the usual ordeal. I boarded for a week during the Scorch Scout at high school. It was a strange experience. We weren’t allowed to leave anything outside our lockers. Certain items, like towels, were permitted — if folded and hung in a very specific manner. That said, my high school was known for having the best dorm conditions in the province. I was ready for worse, if that was the price to leave the pig farm.
+
+I knew exactly where to go. Seven hours’ drive from our hometown lies a city with the weakest economy in the province. It’s famous for a school known nationwide as the most inhumane prison in the Chinese education system: Hengshui High School (HHS). I had a few friends who didn’t do well in the One Shot went there to repeat Year 12 and reattempt the exam — and they did improve, massively.
+
+I didn’t know much about HHS. Everything surrounding it was myth. On the internet, it’s called the “Gaokao Factory”, and there are plenty of articles and videos about it. I read that student started their days at 5:30 a.m., studied until 10 p.m., and never had weekends. No one had time to shower, so people washed their hair during the morning class break. When I asked my HHS friends whether it was really that inhumane, none gave examples. They just said, “Yes. It is.”
+
+One friend did tell me that a couple from his time at HHS later got married. That must have been true love. I can’t even look at myself if I don’t have time to wash my hair properly.
+
+A few of my parents’ colleagues’ children had gone. One came back because the lunch break was so short that she developed stomach issues from eating too fast. Another had kidney problems because students weren’t allowed to use the toilet once lights were out.
+
+Boy Kun once went on a tour there — HHS used to invite high-performing students from across the province to try to recruit them. They could usually get at least a handful of students from my hometown on board each year, and thanks to these lovely people, my crush got a spot in my program. I remember Boy Kun coming back encouraged — invigorated, even — by the prospect of having no life beyond study, burning his physical and mental health in exchange for a good university. He didn’t get to go — HHS teachers later had a chat with his parents and told them “rich kids” like him wouldn’t last long.
+
+A few years later, I read that the headmaster of HHS had taken a bureaucratic post in Tibet for a few years. Per local policy, in return for his significant contributions (presumably to local education), he was allowed to register his own son for the One Shot in Tibet — taking advantage of the lower level of competition there. His exam result was later cancelled after the story made the news. It turned out the headmaster hadn’t met the minimum service requirement for the carve-out before he registered his son in Tibet.
+
+The idea of HHS was bleak, but I would’ve settled for it — there was a slim chance I might survive there, but my chances on the pig farm had nearly run out. By then, I had lost all future plans; I just wanted to live.
+
+I felt bad describing home this way, and I appreciated that my parents had tried their best to be functional human beings. It wasn’t easy, given that they had an *Animal Farm* marriage at night and worked in a live-action *1984* during the day, and since they work together, night and day were more or less the same in this Orwellian universe. The hospital’s finances were dire at the time, probably due to corruption and poor administration. Management were cutting doctors’ pay however they could. Any typo in a patient record would mean a pay deduction for the drafting doctor — unless they could spot and report typos from other colleagues’ work first. I started to wonder if we could actually afford to go to a US university. Maybe HHS was for the best. A four-year tuition at the best Chinese university would cost less than a one-year meal plan at a US university.
+
+On the drive back from Beijing, as I was trying to figure out how to convince my parents to send me to HHS instead of a US high school, I felt an urge to check all the application portals one last time — just to make sure. That’s when I saw it, an offer from Carnegie Mellon University (CMU).
+
+The result was shown on the portal, but hadn’t come by email yet, so I didn’t tell my parents until we’d got off the highway and the email came through.
+
+It turned out to be my only offer, but it was the one I needed. CMU is very strong in computer science and, interestingly, in art and music. To be fair, it’s strong in pretty much everything except certain liberal arts subjects an aspiring lawyer might be interested in. It was what I wanted, notwithstanding the fact that I’m now a trainee lawyer. I had never been much of an aspiring lawyer until I started applying for jobs assuming I was one.
+
+I received a physical offer pack sometime later and found a hardback book enclosed: *The Last Lecture*. Sitting on the toilet reading it, I felt a sense of déjà vu. I soon realised I’d watched a video with the same title years ago — probably on one of those no-human-contact days when I was studying at home in secondary school. It was the final lecture from Human-Computer Interaction professor Randy Pausch, delivered after he found out he was terminally ill.
+
+This book is still sitting on our bathroom counter collecting dust, as no one bothered to take care of the home for the past 10 years. It’s no longer my home, so I would leave it where it is. I couldn’t recall anything from the video or the book — only that it was positive. I thought, *This is it. This is my ticket out of here.* At the time, it really did feel that way, though I later realised there is no ticket in life. You just have to move your own ass.
+
+## Part 4 — A Short Video
+
+## Part 5 — My Flower
+
+> *I chose to interpret it romantically, for I was a romantic.*
+
