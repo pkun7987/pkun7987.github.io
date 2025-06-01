@@ -13,7 +13,7 @@ Typora-root-url: ../../pkun7987.github.io
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 
-## Part 1 — City of Steel 
+## Part 1 ✧ Particulars of Claim
 
 > *They had to be fast, for there were always others.*
 
@@ -137,7 +137,7 @@ When I was eight or nine, I stumbled upon adult content online. After concluding
 
 After much exploration, I felt gaming was still the way to go (unfortunately, this isn’t one of those stories where the main character taught themselves to code and became a hacking prodigy)—and, much to Mum’s disappointment, I naturally became the first and so far the only person in the extended family to need prescription glasses.
 
-## Part 2 — Good Acting
+## Part 2 ⋆ Off Script
 
 > *Another Sisyphean effort, I suppose.*
 
@@ -275,7 +275,7 @@ I didn’t know her, but I knew of her. She was very pretty, with an even pretti
 
 Gakki served as the host for all school events. The school administration seemed to have an uncanny knack for selecting the pretties girls for this sort of thing. Their process worked better than our informal student polls, though I never figured out how. It’s not like they had our headshots on file.
 
-I had on-and-off chats with Gakki over the years, I learned that her parents later sent her to an international school in Israel, and then to the UK for university. A few months ago, she messaged me for advice. She apologised that that much of what she used to say about herself wasn’t true. Then she told me another version: Her father was a notorious figure locally, with ties on both sides of the law. Both she and her mother had long suffered from domestic violence. They never called the police, for her father was the kind of person who couldn’t be jailed—and if jailed, couldn’t be kept there.
+I had on-and-off chats with Gakki over the years, I learned that her parents later sent her to an international school in Israel, and then to the UK for university. A few months ago, she messaged me for advice. She apologised that much of what she used to say about herself wasn’t true. Then she told me another version: Her father was a notorious figure locally, with ties on both sides of the law. Both she and her mother had long suffered from domestic violence. They never called the police, for her father was the kind of person who couldn’t be jailed—and if jailed, couldn’t be kept there.
 
 She was severely depressed and was expelled from the international school. They were worried something might happen to her and didn’t want it to happen on their premises. She studied from home, signed up for A-level equivalents, but couldn’t complete it due to mental health issues and the difficulty of studying while living with her parents.
 
@@ -289,7 +289,7 @@ At the time we first spoke, I had no idea that Gakki was the kind of girl who fo
 
 She was just a pretty girl who smiled.
 
-## Part 3 - Edge Case
+## Part 3 ⋆ Edge Case
 
 > *If you dare run, we could hang out.*
 
@@ -451,7 +451,7 @@ I received a physical offer pack sometime later and found a hardback book enclos
 
 This book is still sitting on our bathroom counter collecting dust, as no one bothered to take care of the home for the past 10 years. It’s no longer my home, so I would leave it where it is. I couldn’t recall anything from the video or the book — only that it was positive. I thought, *This is it. This is my ticket out of here.* At the time, it really did feel that way, though I later realised there is no ticket in life. You just have to move your own ass.
 
-## Part 4 — Full Mental Alchemist
+## Part 4 ⋆ Full Mental Alchemist
 
 > *If every component crashes, this code must still execute.*
 
@@ -591,7 +591,7 @@ Around the same time, long after leaving university, I started getting curious a
 
 I spent a few months wondering around Beijing, observing humans, and then got headhunted for a very random opportunity to work in Mexico. It was a chance to work with a type of people I had never personally dealt with before, and it would be valuable insight. So, after working remotely in Beijing for a few months, shortly before Chinese New Year 2021, off to Mexico I went.
 
-## Part 5 — My Flower
+## Part 5 ⋆ My Flower
 
 > *I chose to interpret it romantically, for I was a romantic.*
 
@@ -721,7 +721,7 @@ I joked lightly “well I figured it must have been a goner by now”— and cri
 
 She was My flower that never bloomed.
 
-## Afterword
+## Part 6 ⋆ Afterword
 
 ### Update: May 31st, Evening
 
