@@ -13,11 +13,11 @@ Typora-root-url: ../../pkun7987.github.io
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 
-## Part 1 ✧ Particulars of Claim
+# Part 1 ⋆ Particulars of Claim
 
 > *They had to be fast, for there were always others.*
 
-### 1.1
+## 1.1
 
 Just to be clear, both my parents are still alive—provided Dad’s not drunk enough to have fallen asleep on the street somewhere and frozen, and Mum’s not getting a heart attack from it, which has happened before. Considering the pleasant spring all over our northern hemisphere, I guess fatality is unlikely, so all good!
 
