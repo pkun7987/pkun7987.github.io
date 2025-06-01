@@ -13,11 +13,13 @@ Typora-root-url: ../../pkun7987.github.io
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 
-## Part 1 — City of Steel
+## Part 1 — City of Steel 
 
 > *They had to be fast, for there were always others.*
 
-Just to be clear, both are still alive—provided Dad’s not drunk enough to have fallen asleep on the street somewhere and frozen, and Mum’s not getting a heart attack from it, which has happened before. Considering the pleasant spring all over our northern hemisphere, I guess fatality is unlikely, so all good!
+### 1.1
+
+Just to be clear, both my parents are still alive—provided Dad’s not drunk enough to have fallen asleep on the street somewhere and frozen, and Mum’s not getting a heart attack from it, which has happened before. Considering the pleasant spring all over our northern hemisphere, I guess fatality is unlikely, so all good!
 
 Last week I saw tons of private messages from Mum, which was unusual. For context, I barely message my parents and we never call each other (which I think is for the best). The three of us do have a group chat where they share gossip about who slept with whom at work, which managers just got arrested, what crazy assets turned up when the government raided their homes, and how much money they paid to the Regime to get released, but nothing more than that (Yes, my parents work at the same place, and no, it’s not a good idea).
 
@@ -26,8 +28,6 @@ I skimmed through Mum’s messages, no arrests, no scandals, boring, just Dad’
 I blocked Mum and the group chat for two years previously—this included the time I was working in Mexico—during which she (as she put it) sensed through “telepathic connection” that I had returned to China at some point. She “called some friends” and located all my immigration history, flight details, and possibly other travel records, which she was kind enough not to let me know about. She used to talk about this endeavour with great enthusiasm, often in front of others, to demonstrate how much she “loved me”. Considering she hasn’t done that to Dad, I guess the love between them really is gone—and to be fair, its shelf life had already far exceeded my expectations.
 
 The messages involved tons of documents, chat records, and voice messages that bore an odd resemblance to a messy evidence bundle from an aggressive client, but since I happened to be working on a trial-summary exercise anyway, I figured I might as well treat it as practice. It was overwhelming at first, but after weeding out Mum’s emotional rambling, the case became quite clear:
-
-The parties are, obviously, my parents, who went to university together and have been working at the same public hospital alongside many of their classmates since graduation. Growing up, I was immersed in over 30 years of gossip involving the same rotating cast of people. The stage is the largest public hospital locally (which, in a Chinese context, means it runs like a government organisation and the doctors are treated as civil servants). 
 
 The parties are, obviously, my parents, who went to university together and have been working at the same public hospital alongside many of their classmates since graduation. Growing up, I was immersed in over 30 years of gossip involving the same rotating cast of people. The stage is the largest public hospital locally (which, in a Chinese context, means it runs like a government organisation and the doctors are treated as civil servants). 
 
@@ -59,6 +59,8 @@ So I wanted to write things down—before my robotic brain carries out its sched
 
 This content will probably be very boring to most. If you happened to stumble across it, feel free to read it as fiction rather than non-fiction—for real lives are no more planned than fictional ones. If our parents know each other, I guess there’s a reason we’ve stayed friends for this long, and I’d really appreciate it if you could please pretend you didn’t see this, for none of my rambling would be new to you anyway.
 
+### 1.2
+
  I grew up in a northern Chinese city. It’s in the province surrounding Beijing, but not Beijing. A friend from Beijing once summed up my hometown as the “Sin City” of China. As you will see later, this is somewhat accurate, but a more accurate description should be the “Beijing’s masturbation cup”— credit to some random netizen. However, the discourse around the intercourse between Beijing and its neighbours, and the disposal of the capital’s bodily fluid shall not be the topic of this essay.
 
 My hometown is not a shithole per se, but many would agree it’s shitty. If you search the city’s name on YouTube in Mandarin, every result is about a few girls getting publicly beaten up by hooligans for refusing their advances. When I last visited home, this incident was a hot topic at dinner tables, for people were excited that we “went viral”. Most were very interested in whether the girls worked at nightclubs, and if so, which one. No one seemed to care much about the actual beating. People here are very used to incidents, but not to going viral, because news can’t really get out of this town, and probing eyes can’t get in.
@@ -67,7 +69,7 @@ Visually, it used to be very grim. The economy was heavily dependent on mining a
 
 There used to be a lot of rich mine and steel bosses around, on Chinese New Year Eve*, some of them would hire people to set off fireworks all night. It was really a sight. Mum was always busy on those nights, for she’s an ophthalmologist, and had to remove several eyeballs each new year because of defective fireworks or reckless people. She became lifelong friends with many of her patients this way, since she really was a master tailor when it came to stitching people’s faces back together.
 
-`Or Lunar New Year, if you so prefer, but the narratives here are about China so I will use Chinese New Year through out.`
+`*Or Lunar New Year, if you so prefer, but the narratives here are about China so I will use Chinese New Year through out.`
 
 When she was a junior, she trained in Beijing in plastic surgery and saw some of China’s earliest gender reassignment surgeries. These days, she still occasionally performs double eyelid procedures. It’s a one-cut surgery to transform Asian monolids into double lids, mostly for high schoolers applying to performing arts colleges who (or whose parents) believe bigger eyes will give them a better shot.
 
@@ -135,9 +137,11 @@ When I was eight or nine, I stumbled upon adult content online. After concluding
 
 After much exploration, I felt gaming was still the way to go (unfortunately, this isn’t one of those stories where the main character taught themselves to code and became a hacking prodigy)—and, much to Mum’s disappointment, I naturally became the first and so far the only person in the extended family to need prescription glasses.
 
-## Part 2 — Toilet Stories
+## Part 2 — Good Acting
 
 > *Another Sisyphean effort, I suppose.*
+
+### 2.1
 
 My childhood was largely carefree until I was around eleven or twelve. By then, both my parents had become overworked senior doctors, especially Dad. I don’t think Dad ever had a proper weekend off; he was always up by 6:30 to do his ward rounds. He specialises in a field where patients are often in very serious condition—and sometimes, they don’t make it. His own father died from a disease he specialised in, during the first year he qualified. A grandpa I’d never met. I heard he’s quite sensible. Good to know.
 
@@ -219,6 +223,8 @@ I felt she violated the wholesome image of the female gender, and briefly consid
 
 I wish them happily ever after.
 
+### 2.2
+
 My parents didn’t divorce, I guess they stayed together for the same old reason “for the kid”. I was in secondary school at the time. As I said, I only agreed to go because Mum threatened my organs would go to waste otherwise. This happened on the first day of class—but before that, we had this orientation week which involved a group bootcamp customary in every Chinese state school called the “military training”. This was essentially just boy/girl scout drills, where we marched in formation under the scorching sun; so let’s just rebrand it as the Scorch Scout (SS).
 
 Although I had long planned not to go to school, I participated in the SS willingly and did not announce my plans until the SS was over. After all, I’d already patiently waited all summer—why not wait a few more days to witness the stupidity of school firsthand, just to prove I was right?
@@ -283,9 +289,11 @@ At the time we first spoke, I had no idea that Gakki was the kind of girl who fo
 
 She was just a pretty girl who smiled.
 
-## Part 3 — Edge Case
+## Part 3 - Edge Case
 
 > *If you dare run, we could hang out.*
+
+### 3.1
 
 In Year 8, I began self-study Year 9 material. I’d just learned that the best high school in my hometown ran a selective STEM program admitting 50 local and 50 non-local students through a challenging exam. Roughly 7 or 8 students from my secondary school’s cohort of over 1,000 make it each year. If I got in, I could skip Year 9 and bypass the City Exam to go straight to high school. Grade/year skipping is not uncommon in China. Many people did it in primary school, but it had never crossed my mind until the pain of dealing with Pliers started to outweigh the joy of making new friends in the ladies’ toilet.
 
@@ -338,6 +346,8 @@ A few years later, drowning in depression over my dysfunctional relationship wit
 “You just need to get used to disappointing them and run away from them. If you dare run, we could hang out.”
 
 I agreed with everything Harry said — up until the comma, and that, weirdly, was the closest I’ve ever come to feeling completely understood. I was lucky that Harry was definitely not gay, because if he had been, I would’ve agreed with all of the above. I agreed so much that I blocked him. It wasn’t the right time to jump the train, and the last thing I needed was some cowboy swinging his lasso from the window.
+
+### 3.2
 
 Starting from high school, my life became a complete train wreck. I was constantly aware that I hadn’t made the top 50 — and so were some of my classmates. I began panicking during exams, and to the quiet amusement of some, my grades were terrible. Luckily, the One Shot was no longer relevant to me: My parents, hardened by my long history of academic rebellion, had long accepted that I wouldn’t survive the One Shot. After visiting the UK and realising that I (back then) preferred wider roads and better weather, I decided to go to the US for university, and I’m forever grateful to my parents for providing the financial support. I later learned that many local American students didn’t have the same privilege.
 
@@ -393,6 +403,8 @@ Some of my friends in the programming team weren’t so lucky. They started focu
 
 Not so convenient for me though, for he stayed on my mind for a few more years, but I had worse problems to worry about; that made things a little bit better.
 
+### 3.3
+
 There were many exams I needed to take for US college applications. I sat them in Beijing, Singapore, and Hong Kong. On those trips, I met students from all over China, most of them had far more interesting academic backgrounds and extracurriculars than I did. I’d always expected this, and never once wished to trade my life for theirs, for I can’t imagine a life not knowing my hometown and its many colourful residents. I might have wavered slightly when I met a girl who said she’d spent her summer holiday at a wild animal conservation site in Kenya, but back then I was naively hopeful that humans would head for the better, and biodiversity would recover; I’d be just as happy visiting Kenya at some later point in my life.
 
 On paper, I had never done anything interesting, so I knew I’d be at a disadvantage in college applications. Still, I figured I could get into a fairly good university with my eyes closed. I wasn’t picky. I’d settle anywhere — and anywhere would be better than the pig farm I was in. As my days in the farm dragged on, it started to feel less like a farm and more like a slaughterhouse. I just hoped I could last long enough.
@@ -419,7 +431,9 @@ One friend did tell me that a couple from his time at HHS later got married. Tha
 
 A few of my parents’ colleagues’ children had gone. One came back because the lunch break was so short that she developed stomach issues from eating too fast. Another had kidney problems because students weren’t allowed to use the toilet once lights were out.
 
-Boy Kun once went on a tour there — HHS used to invite high-performing students from across the province to try to recruit them. They could usually get at least a handful of students from my hometown on board each year, and thanks to these lovely people, my crush got a spot in my program. I remember Boy Kun coming back encouraged — invigorated, even — by the prospect of having no life beyond study, burning his physical and mental health in exchange for a good university. He didn’t get to go — HHS teachers later had a chat with his parents and told them “rich kids” like him wouldn’t last long.
+Boy Kun once went on a tour there — HHS used to invite high-performing students from across the province to try to recruit them. They could usually get at least a handful of students from my hometown on board each year, and thanks to these lovely people, my crush got a spot in my program.
+
+I remember Boy Kun coming back encouraged — invigorated, even — by the prospect of having no life beyond study, burning his physical and mental health in exchange for a good university. He didn’t get to go — HHS teachers later had a chat with his parents and told them “rich kids” like him wouldn’t last long.
 
 A few years later, I read that the headmaster of HHS had taken a bureaucratic post in Tibet for a few years. Per local policy, in return for his significant contributions (presumably to local education), he was allowed to register his own son for the One Shot in Tibet — taking advantage of the lower level of competition there. His exam result was later cancelled after the story made the news. It turned out the headmaster hadn’t met the minimum service requirement for the carve-out before he registered his son in Tibet.
 
@@ -437,9 +451,280 @@ I received a physical offer pack sometime later and found a hardback book enclos
 
 This book is still sitting on our bathroom counter collecting dust, as no one bothered to take care of the home for the past 10 years. It’s no longer my home, so I would leave it where it is. I couldn’t recall anything from the video or the book — only that it was positive. I thought, *This is it. This is my ticket out of here.* At the time, it really did feel that way, though I later realised there is no ticket in life. You just have to move your own ass.
 
-## Part 4 — A Short Video
+## Part 4 — Full Mental Alchemist
+
+> *If every component crashes, this code must still execute.*
+
+### 4.1
+
+University was a massive improvement from high school, in the sense that I was no longer under the immediate threat of being butchered, but I guess once you’ve been a domesticated animal, it’s hard to ever gallop freely again. After all, the whole point of domestication is to eliminate the prospect of rewilding.
+
+I still felt tethered to home. After making my first-year course selections, my first instinct was to share my calendar my parents — fully aware they would complain that the calendar, which included some general education courses required for all freshmen, wasn’t rigorous enough. As expected, they did complain. When you refuse to give up completely on family, no amount of foresight and reasoning can help.
+
+They also noticed that my academic and career interests had started to deviate from the typical (Chinese) expectation from a CMU graduate. I didn’t do maths/computer science 24/7 and took some courses in music and cognitive science, and Mum began sending me long, rambling messages expressing her disappointment. I won’t reproduce any of here — don’t want to unnecessarily trigger any content warnings and get my posts flagged. I feel sorry for our family friends who were forwarded these messages at 2AM when Mum couldn’t get any reply out of me.
+
+Not replying does not mean not reading. I’d always had the habit of reading everything, relevant or not, and that didn’t help. Each message from Mum would send me into a depressive episode: I couldn’t get myself to leave the dorm, eat, attend class, or turn in assignments. My weight would drop within days, and I collapsed several times from low blood sugar. 
+
+I never understood how what used to be a mental issue turned physical, and why a strong desire to be normal couldn’t fix it. The confusion was overwhelming. In order to deal with it while my systems were already failing, I hard-coded into my core a single rule: the number one principle is to live. If every optimisation fails, this principle must still hold, If every component crashes, this code must still execute.
+
+Running on a broken system, I rushed through university. Instead of finishing my degree in four years, I planned my course selections carefully to stealthily graduate in three years, without telling my parents. If they had known, they would’ve started messaging me dictating what I should be doing and how I shoud prepare, and I would’ve stopped functioning again. I couldn’t afford that — not then. It would’ve cost me my degree. 
+
+Luckily, since most of my classes weighted grades across multiple assignments and exams, there was plenty of room for mess-ups, and none of mine ended up fatal. Not showing up for my photography class final exhibition was supposed to be fatal. I had worked hard in the darkroom all semester but when the big day came, I wasn’t in any shape to leave my dorm. Instead of failing me, the professor just gave me a B — always knew I could trust a guy who admitted no one buys his photos but still likes what he does. My grades didn’t stand out among Asian international students, but they were still quite okay. Mum was later really proud that I graduated with honours, though the only reason I didn’t lose that was because I ejected her from my head when I had to.
+
+I also struggled socially and talked to almost no one. Even when I ran into someone I knew, it took me several seconds to process their face and decide whether to say hi. That moment of delay was usually enough for both of us to pretend we hadn’t noticed each other. I also seemed to have levelled and acquired a passive skill of getting people to shut up when I walked into a conversation. Can’t complain — this used to be a much-needed skill. I was a generally awkward presence, but luckily, my roommate was very social, and I made a few friends through her and group assignments.
+
+Academically, I never talked to professors unless I absolutely had to. I remember walking into one professor’s office to hand in a paper. He was very old and one of the top scholars in his field. As I was leaving, we had this conversation:
+
+**Professor:** Just wanted to let you know your program scored the best in class.
+
+**Me(orally):** Oh.
+
+**Me(silently):** Of course it should — I patched it with loads of if-else statements and made sure to account for *edge cases* this time. If you’d actually read the code you’d know it was ugly programming.
+
+**Professor:** And I saw that you signed up for my class next semester as well.
+
+**Me:** Yes.
+
+I left the office, and dropped his class next semester after the first session — it really was very dry and I couldn’t focus at all. If were in this conversation now, I would at least yap with him to see what the class was like, and drop it earlier to free my calendar for other things.
+
+Still, I did take some initiative. I tried therapy once.
+
+My therapist seemed genuinely confused by how I could be experiencing so many strange symptoms at once. She looked like she didn’t know what to do. I completely understood. I wouldn’t have known what to do with me either. If I had, I would’ve dealt with it myself.
+
+Nevertheless, it was very clear to her that I had to confirm I wasn’t suicidal, and she asked for that confirmation several times at the end of the session — if I was, she’d be under duty to report it to the university.
+
+I wasn’t suicidal. In fact, it was clearer than ever to me what it feels like to live. Suicide is for those who have stopped feeling.
+
+I also signed up for an elective from the Department of History — on my own initiative — and even attended its office hour once. Back then, it felt like a major achievement, since I used to stay away from liberal arts subjects. 
+
+The course was on climate change and climate justice. It was a topic I knew nothing about, so I went to the office hour to learn more. I didn’t say anything. I just listened to other students ask questions. That was when I realised I could get a much better marginal return on my time by learning about topics and perspectives I knew nothing about.
+
+This realisation was at my last year at CMU, so it didn’t change the course of my undergraduate education, but it's now part of the fundamental principle of my programming.
+
+Years later, when I was applying to graduate school trying to switch my background from STEM to the humanities, I couldn’t find a single humanities professor to write me a reference. So I emailed the climate justice professor: *I was in your class ages ago. I’m sure you don’t remember me, but wanna give me a rec letter?*
+
+He did.
+
+One time, after several days of not leaving my bed, I ran out of food. I’d always eaten just for sustenance. When I lived in the dorms, I got the same grilled chicken breast sandwich from the canteen every day. After I moved into an off-campus apartment, I either cooked simple vegetables or got the same instant ramen from the Korean mom-and-pop grocery store downstairs — especially when I wasn’t in a condition to cook. I liked this Korean place, for the owners only greeted Koreans, and I didn’t have to experience any pressure to respond to unsolicited smiles.
+
+That day, my go-to instant ramen was out of stock. It took ages for me to decide on something else, and I walked out of the shop feeling lost and exhausted. Then something strange happened. I was suddenly woken up by the blossoms outside — I realised that while I had been lying in bed, the seasons had changed. It was now spring. 
+
+I realised I wanted to see more seasons come and go. I wanted to feel how time passes, instead of just the void it leaves when it’s stolen from me.
+
+I graduated with two friends attending my ceremony and then realised I needed a job, so I spent the summer applying for jobs.  I admit I could’ve been more organised, but it didn’t seem like a problem — I’d never heard of any recent graduate having trouble finding work.
+
+I ruled out data science and software engineering careers after a research internship in my sophomore year. I did software engineering and data modelling. While I enjoyed building the project from scratch, every week spent improving and upgrading it felt dull. On the engineering side, I was building the software with only one other student and the modelling was entirely my work. I guess working in a larger team doing similar work will probably be even less fulfilling. 
+
+I enjoy groundbreaking 0-to-1 work more than incremental 85-to-100 work, but 0-to-1 is very rare in modern STEM studies, especially at below-PhD level. Gone are the days when you can get hit by an apple and come up with something grand, and my stronger background in data science over natural science means the 85-to-100 work I can get my hands on is unlikely to push the boundary of science enough for me to find it exciting. 
+
+To be fair, data science is applicable in virtually any research field, and I’d definitely recommend it as a university major. Everyone can dump big data into a furnace and hope the alchemy spits out a new drug, a new cosmological theory, or a lucrative trade.
+
+Unfortunately, for my own sanity, I needed to either know what I was handling or understand what happens inside the furnace. The former refers to the big data itself — but if it’s fully comprehensible to humans, it’s no longer “big” data, so that wasn’t an option. The latter is the domain of truly gifted natural scientists, and I’m not one of them. If I were, I would leave any job immediately to become an alchemist.
+
+It seems like the only possible role for me would be furnace maintenance. A crucial role, but not my role.
+
+*Not ideal.*
+
+So I decided to explore my hobbies instead. I’d always been interested in music and the creative industry in general. Returning to China and finding a music-related job seemed like the best option. Around that time, many Chinese tech companies had just started investing heavily in music, and fresh grads with no experience could still get a surprising amount of responsibility. My parents would probably find that more acceptable than a job in some underground studio across the Pacific.
+
+In hindsight, it was indeed a good idea to start one’s first job in China with an undergraduate degree in 2018. If you spent another 2 or 3 years on a graduate degree, you’d be entering the job market in 2020–2021 — more graduates, fewer jobs. If you were lucky, you might land a job not much worse than your peer’s 2018 position — assuming you didn’t mind that they were now your manager. 
+
+My roommate left for a summer internship, and kindly tasked her partner with checking on my wellbeing while she’s away. It was a peaceful summer, I didn’t do much other than experimenting with music and casually applying for jobs. I never paid attention to career events and didn’t even know what a“grad scheme” was. I applied for a job at TikTok Shanghai, which turned out to be an experienced-hire position, but I suppose the HR appreciated my lack of interest in salary negotiation. I landed in their global music team, where I would later work across data, product, and music content.
+
+A few days before returning to China, I informed my parents that I was no longer a student. This came as a shock to them. Mum asked me to mail most of my luggage to Maryland to store in her friend’s basement. She was confident I’d be returning to the US for a computer science master’s in the near future. Those suitcases were mailed back to China five years later, when her friend decided to relocate to China for work and sold the house.
+
+I also told my parents that I had mental health issues and was experiencing physical symptoms. This wasn’t true, by that summer, I had already overcome the physical symptoms I was aware of, but I still said so, just to give them a reason to leave me alone. 
+
+This led to the episode I mentioned earlier, where I was sent to a psychiatric hospital — not for depression, but for no longer wanting to study. I later learned that depression can cause irreversible organic changes in the brain, including, among other things, hippocampal atrophy, which may affect cognitive ability. I don’t want to find out whether I’ve been affected. If I were, I wasn’t aware. 
+
+### 4.2
+
+I later worked in both Shanghai and Beijing—Shanghai was a five-hour train ride from my hometown, the latter just one hour. Most of my school friends went back home quite often. I visited maybe once or twice a year.
+
+My work involved a lot of drama — nothing too exciting for a 20-year-old, and nothing as interesting as what used to happen at home, although neither really matters in the grand scheme of things. There were several cliques, and I was part of the one that seemed more interested in music than in digital nonsense. I’m pretty sure the other cliques would say the same about themselves. It all comes down to: *My taste is better than yours!*
+
+As per tradition in some Chinese tech companies, we had to work every other Sunday. but there wasn’t much to do — international offices that we work with all had full weekends, so everything slowed down on Sundays. I often found myself doing odd things to pass the time.
+
+One thing I particularly enjoyed was working with indie artists. If negotiation with major music labels feels like divorce proceedings, collaboration with indie artists feels like arranging a first date. I mainly work with Latin American indie artists. Most didn’t speak English, and often found themselves stuck in exploitative contracts with managers or record labels. Many had no idea who owned the rights to their music and had no control over their own social media accounts. Some lost access to their TikTok accounts and fans after falling out with their managers. I’d go out of my way to recover those accounts for them and sniff out shady figures lurking in their email chains.
+
+I later realised that despite my help, many artists would soon found themselves in the same situation again. I started to lose interest in these side quests — I’ve never been a fan or rogue-like games. I guess you can’t change someone’s trajectory if they’re not keen on steering themselves.
+
+I also came to accept that I couldn’t be friends with everyone. I couldn’t get digital nonsense enthusiasts to prioritise music, nor could I change how certain people think. My team had many workstreams progressing in parallel, and people often disagreed with each other. It is still “in character” for me to try to win in these situations — but honestly, that’s too much effort for 15-second videos. 
+
+Every now and then we would receive a newsletter listing colleagues arrested for white-collar crime. The initial investigations were internal, usually lead by this guy who used to be a civil servant in the Anti-Corruption Bureau. I wished I could reach out to him and join his team; I’d be the perfect candidate for identifying suspicious activities through numbers. I once saw a colleague who was particularly annoying to work with reported on primetime TV for his crime, but the sum reported was nowhere near what I’d imagined. Boring. In the past few years, many members of the management at my parents' hospital were arrested for either bribery or corruption. The sums in my ex-colleagues’ cases were petty cash compared to theirs. 
+
+Imagine trying to win these colleagues over or trying to win against them, neither sounds particularly interesting. I cannot conclude that me and my friends have the most “correct” understanding of what is the best approach to work with music, as there are so many different parties and different priorities involved, but it’s worth mentioning that none of the people I enjoyed working with made the newsletters or primetime TV.
+
+I much prefer the work at law firms, at least at a junior level. When client come with concrete problems, we solve it; when there’s not much client work to do, we just do research, BD or just enjoy our lives. No client pays us to invent problems that don’t exist to make themselves look important — at least not at our rate.
+
+I guess people’s choices are like the output of a function with a lot of variables. Our interactions with someone’s life are so minimal that trying to make an impact on others is like trying to alter the output of a function without changing any of the inputs, and most of those inputs aren’t even about the person’s intrinsic character — they are about the extrinsic context that sharped one’s life, and those often weigh more heavily than anything intrnsic.
+
+Tough. I like people who jitter around. There are more possibilities in people who are still trying to introduce new variables into their lives. Just like the alchemy of big data applications, dump as many variables as you can and there’s a good chance you will get something out of the furnance.
+
+I finally realised I couldn’t change my parents — I’d better try to live with the way they are. I tried to get closer to them and booked a trip to Tibet for Mum and me over the 2020 Chinese New Year holidays. I didn’t include Dad because his default was to never take annual leave as doing so would mean discharging all patients and stop admitting new ones. He would never do that. 
+
+Shortly before that, on one of my Sunday shifts, I watched a Vice News documentary and decided to go on a solo trip to Kashgar, Xinjiang, to see the local communities. I must admit I watched YouTube (and TikTok, from the back-end) quite often at this job, partly because I needed to keep up with trends, partly because most of my work required my very specific skillset, and I could always work at my own pace.
+
+I didn’t tell my parents about the trip — I wasn’t planning to. I took the trip during the (non-Chinese) New Year holiday, and it sounded bizarre to spend one’s New Year holiday alone in some faraway province during the freezing off-season.
+
+I didn’t learn what I wanted from the trip, but as I’d always been a social media photography peacock, I posted some photos. Seconds after posting, I realised I’d forgotten to moderate the post’s visibility. It was too late. Clearly, I was a peacock in a zoo — no attention from mates, but loads of aunties watching. One of Mum’s besties saw the post and immediately reported it to her.
+
+Mum felt Kashgar was a bit too exotic, and she couldn’t see any reason why anyone should be interested in there, if not for the beautiful summer and sweet fruit. She demanded that from then on, I must report to the grown-ups (大人) when I travel, and said she would refuse to go to Tibet with me unless I agreed.
+
+She must have been delusional to entertain the idea of me agreeing. She might as well dream about me marrying her.
+
+I cancelled the Tibet booking immediately and lost a 25% cancellation fee. I lost big, because that was the Chinese New Year when COVID first hit, and eventually everything got cancelled with a full refund.
+
+I refused to go home for Chinese New Year, even though it was just a little more than one hour away by train, it would take much longer for many of my local Beijing colleagues’ to commute.
+
+One of my managers, who was also from my hometown, saw me working late on Chinese New Year Eve. He asked if it was because I couldn’t get a train ticket. I said it was just Mum. He couldn’t believe it and offered to give me a lift. I refused. 
+
+He was shocked. He used to refer to me an “emotionless robot” at work — and meant it as a compliment. I guess he didn’t expect me to have such strong opinions about anything. He gave up.
+
+That turned out to be a good call — a lifesaving one. Visiting home for Chinese New Year would’ve meant quarantining with my parents. Many statistics showed that there was a surge in divorce rates across the world during the pandemic; I suspect it’s because people were spending too much time together. One couldn’t divorce one’s parents, so I guess my only exit would have to be the window. We lived in a typical Chinese high rise, and there was quite a way down. I knew I had hard-coded that I must try to live, but in some occasions, like being trapped in a burning building, options can be very limited.
+
+During COVID, my work responsibilities headed to an unexpected direction, and it was no longer my thing. To be fair, my work had always been chaotic, yet fascinating. This was the era of China's tech industry's exponential growth, a one-time-only opportunity where everyone could get something out of it. Soon, the industry will enter an era of market saturation and incremental gains, one more user for you means one less user for me. I doubt this kind of growth will ever return, and young people may never again experience the excitement of breaking new ground in primordial chaos, at least not before the next industrial revolution.
+
+The recent developments in GenAI is exciting, but I just don’t see how it can create loads of new jobs, and those who can work in GenAI would have landed a good job pre-GenAI anyway. Many products labelled as AI are either just a repackaging of existing models, or a basic computer software rebranded as AI in PPTs to attract investors.
+
+Around the same time, long after leaving university, I started getting curious about things again and wanted to go to graduate school. This time, I wanted to make sure I’d be in a big city, and actually live there, not just breathe. Unfortunately, everywhere was still teaching remotely, and I didn’t know what to do. I did sign up for a weekend master’s at Renmin University majoring in International Politics, but the purpose was mainly to see what the kind of people attended and what the syllabus looked like. I didn’t complete this degree.
+
+I spent a few months wondering around Beijing, observing humans, and then got headhunted for a very random opportunity to work in Mexico. It was a chance to work with a type of people I had never personally dealt with before, and it would be valuable insight. So, after working remotely in Beijing for a few months, shortly before Chinese New Year 2021, off to Mexico I went.
 
 ## Part 5 — My Flower
 
 > *I chose to interpret it romantically, for I was a romantic.*
 
+Before going to Mexico, I had to sort out a lot of life admin. A few hours before my flight, I hired a driver through an app and sent all my belongings to self-storage. I booked a cleaner—also via app—to handle the move-out and return the keys. I checked out with my landlord through an app as well. I even arranged a rider to deliver some of my plants to a high school friend who’d recently started working and mentioned wanting to make friends with some greenery.
+
+Everything ran smoothly. It was the kind of efficiency you could only experience in China.
+
+I had no attachment to any of the above—except for the plants I sent to my friend. Because among them, I left My Flower.
+
+My Flower—more precisely, my Desert Rose —was a small potted plant. I’m not sure why, but whenever I think of her, the phrase “My Flower”, not “Desert Rose” comes to mind. By the time I gave her away, I had kept her for around ten years. Desert Roses are common enough, but My Flower was one of its kind.
+
+As you might have seen, I moved a lot over the years. I couldn’t bring her to the U.S., but I brought her almost everywhere else I went. Every time I moved, I picked up new plants — but no matter how many I bought, there was only one *her*.
+
+I got her during my first or second year of secondary school. Mum and I bought her from a tricycle vendor on one of our evening walks. I’m pretty sure the appeal was that this plant — which looked like a small green radish with a funky hairdo — required almost no watering. She was a small, skinny thing — light green stems with a few stubborn leaves. If I ever had a sister, this is how she would’ve looked like.
+
+My Flower was under my sole care — not that she needed much. I left her in a corner near the window and watered her every week or two. She never had any substantial growth. Even after years, her trunk stayed thin. Every now and then she’d grow one thick leaf, but it would fall off before turning fully green.
+
+Still, no matter how sad she looked, there was always a sprout somewhere, and I had the peace of mind that she would never die.
+
+On one of my no-human-contact days, self-studying at home, I remember wondering if all my friends had forgotten about me. Then a surprise came: two of my classmates visited me over the summer and even brought a birthday present — it took me many years to receive another one.
+
+They pointed at My Flower and asked what that radish-looking thing was. I told them it was a Desert Rose. One of them asked, “If it’s called a desert rose, can it bloom?”
+
+That’s when I realised I had never considered that question. I decided to do some research, and learned that desert roses not only could bloom, but that their flowers were supposed to be very beautiful. Worse, from the pictures online, I saw that My Flower looked significantly more underdeveloped than others her age.
+
+I felt guilty and resolved to take better care of her—which mostly meant moving her into a bigger pot and hoping she knew what to do.
+
+Then I moved to the US for university — returning home twice during the three years I was there. By that point, I felt I had completely forgotten about My Flower. I did try to buy a replacement in the US, but desert roses were considered exotic and hard to come by. I got a succulent instead. It died around my second year.
+
+Then I moved to Shanghai for work. I went back home for Chinese New Year in 2019—which, to this day, is the only New Year I’ve spent at home since leaving in 2015.
+
+That holiday didn’t go well. My old phone still has pictures from the train ride from Shanghai to my hometown and the ride back. There were ten days in between, but I only took one photo: a steel plant in a magnificent smog. I don’t remember what I was doing there.
+
+What I do remember is Mum opening my suitcase and finding a cheap jumper I’d bought online. She mocked the 100% polyester fabric and said it looked like my face—an unpeeled potato. She told me not to bring “garbage like that” home again.
+
+I didn’t think much of it. I just thought the unpeeled potato metaphor was gold. I’ve always been down-to-earth, and there’s not much I can do about it.
+
+I also remember spending the rest of that New Year wandering around the apartment like a zombie—until I noticed My Flower on the balcony.
+
+All her leaves had fallen off. The soil underneath had turned into a layer of dry dust, the kind you’d wash off an unpeeled potato. Her pot was filled with trash. Instead of looking like a green radish, she now looked like proper garbage and had clearly been treated that way for a long time.
+
+The other plants on the balcony were still thriving. Clearly, someone had been watering them.
+
+In our household, watering plants was Mum’s job. She would bring out a big bucket from the kitchen and go plant by plant. The tall, leafy “tree of happiness” always got the biggest share. The rest were watered depending on how leafy they looked. If something looked dead enough, she’d stop watering it altogether — until it dried out completely and could be thrown away.
+
+Many of them were still breathing when pronounced dead. I remember once moving a plant she’d given up on into my bathroom. It got no sunlight, but I watered it, and in a month, it came back to life. Mum never noticed it went missing.
+
+That plant had a little green left. My Flower didn’t. She was the same colour as the soil. Even I felt she didn’t look out of place in a bin.
+
+Still, without hesitation, I dug her out, wrapped her in damp tissue, and stuffed her in my backpack.
+
+*You will live with me in Shanghai.*
+
+I remember holding her in my hands, looking closely. She didn’t look how I remembered. Her trunk had thickened significantly. She must have fought for years.
+
+“If she was going to die, she’d die with me,” I promised myself.
+
+Shanghai really wasn’t the best place for plant revival—especially in winter. Unlike my hometown in northern China, Shanghai was in the south and didn’t have central heating. Around January, right before Chinese New Year, there was a long stretch of cold, rainy days. My flat didn’t get much sun. When I returned to Shanghai, two of my previously healthy plants had died — one probably from the cold, and another from root rot due to trapped moisture. That one was a succulent. It must have died very quickly, because when I saw it, all its leaves were still bright green — like summer. I didn’t notice it was dead at first, but when I touched it, everything above the surface just fell off. On the surface, it looked like it was holding on. Inside, it was long gone.
+
+At the time, I was renting an old, broken-down flat—one Mum had picked for me. I could’ve found a place myself, but she didn’t trust me to do that. I wasn’t in Shanghai when the lease was signed, and she hadn’t seen the flat either. She was told it was “old,” but the location was very good. She didn’t want me “wasting time” flat-hunting.
+
+Mum’s idea of “old” was nothing like Shanghai old. Most of our hometown had been obliterated in the 1976 earthquake, so people there weren’t exactly conditioned to recognise what a genuinely old building looked like.
+
+This apartment was so old it didn’t even have proper rubbish collection—people just left trash bags on the street to be picked up. Every morning, I was woken by the sound of locals playing mahjong downstairs. At night, I was haunted by stray cats in heat. I actually got quite good at talking back to them — though I often wished I could learn some more cultured vocabulary.
+
+My air conditioner leaked water downstairs several times. Building management made me leave work to fix it, which was actually a nice break. Air conditioners are not the only things that leaked in this place. One time, I was sitting on my toilet, contemplating the meaning of life and the secrets of the universe, I felt a cool splash on my head. It turned out the upstairs toilet was leaking. I was glad the splash felt cold.
+
+The upstairs tenant was another working girl like me. She was nice about it. Her landlord eventually moved her out and remodelled the bathroom—which meant I lived with renovation noise for weeks.
+
+Dead plants weren’t the only thing that had gone wrong that New Year. When I walked in, I was hit by a foul smell. The fridge had died, and some frozen food had gone off. I cleaned everything up, but the smell wouldn’t go away.
+
+I immediately took more annual leave and went flat-hunting. I moved into a serviced apartment that cost 70% of my monthly salary — but it didn’t matter. I had no hobbies, no social life, and ate all three meals at TikTok’s free canteen. I had no personal expenses. 
+
+I hadn’t turned 21 yet. Happy times.
+
+Meanwhile, My Flower was doing surprisingly well. I bought her a huge orchid pot with the engraving *“The fragrance of plum blossoms originates from the bitter cold.”* It was definitely oversized for her, but I was confident she’d grow into it.
+
+*It’s you and I against the world now.*
+
+Thankfully, the weather warmed up after the holiday. Within a couple of days of arriving in Shanghai, she started sprouting. I saw one bud grew into a full leaf within a week. By March, she had two new leaves—both heart-shaped.
+
+I read online that when plants go too long without growing, changes in auxin levels can cause strange leaf shapes. I chose to interpret it romantically, for I was a romantic. 
+
+My serviced flat didn’t have a balcony, and the lighting wasn’t great. Still, My Flower kept growing. I even bought her some fertiliser. Her canopy started filling out, and for the first time, she began to look like the Desert Roses I’d seen online.
+
+My parents didn’t notice she was missing until they visited me in Shanghai a few months later. They said she looked “familiar”.
+
+I’ve always had this strange feeling that My Flower’s condition depended more on how much I thought about her than how well I cared for her. My goal was to get her to bloom within two years. Based on how she was growing then, I really believed she could.
+
+Soon after moving into the serviced apartment, I had to start the paperwork to transfer my residency from my hometown to Shanghai.
+
+“Residency/Hukou 户口” is a uniquely Chinese system. In mega cities like Beijing and Shanghai, only people with local residency are eligible for certain benefits. I qualified because I had graduated from a high-ranking university and had paid tax for the required duration. I didn’t need the status, but it made sense to apply. One requirement for the application was a proper residential address. The serviced apartment didn’t count — it was technically a hotel. So, I moved into a cheap one-bedroom flat in the suburbs. It had a real balcony, which meant I could finally keep plants properly.
+
+I didn’t get to live there long. TikTok restructured, and our whole team was transferred to Beijing.
+
+My Flower thrived in Beijing for a while. Then life changed again — Covid hit, I resigned, weighed my options, and Mexico called.
+
+I flew to Mexico shortly before Chinese New Year in 2021. It was January, and freezing. As I scrambled to tie up my relocation logistics, I realised the hardest part was figuring out what to do with the plants I’d collected over the years.
+
+I divided them into two large boxes. I thought about whom I could give them to. It couldn’t be my parents. By this time, the “tree of happiness” had been given away, and the rest of my parents’ plants had withered and died.
+
+I had two other options. One was my high school friend, a busy Big Law trainee who was always travelling but had once said she wanted to try keeping plants. The other was a guy from work who liked me. He’d never mentioned anything about plants, but he gave the impression that he’d be good with small creatures—flowers, cats, dogs. I had already made it clear I couldn’t return his feelings, so giving him my stuff felt inappropriate. 
+
+In the end, I gave one of the boxes to my high school friend, I didn’t trust her to be particularly good with plants, but since it was impossible for My Flower to die, they would probably get on.
+
+I had to leave the other box with all my fertilisers, dressing stones, draining stones, and random gadgets for passersbys to pick up. I placed the box in the entrance area of my apartment building, where a bit of sunlight could leak through the door to warm the plants up. At the time, I was living on the sixth floor of a Soviet-style apartment building with no lifts. The neighbourhood was affiliated with the University of Agriculture, and the nearby supermarket used to sell all kinds of good-looking produce — supposedly someone’s doctorate thesis. I figured the box would end up in good hands and started to daydream about a retired professor taking good care of its contents.
+
+Still, I was worried no one would want to take it — I had to see them ending up in good hands. I came up with this plan to leave the box on the ground floor and wait at the stairs above to listen for it anyone would pick it up. Didn’t know why I bothered, not that I can give them a home if no one wants them. 
+
+I executed the first part quickly, partly because it was really cold on the stairs, partly because I didn’t want to be seen, for Beijing aunties are very chatty, and I didn’t feel like explaining why I was giving my plants away. It would make me sound pathetic. 
+
+*I am anything but pathetic.*
+
+Luckily, I didn’t even make it back to the sixth floor before an auntie from the second floor walked by. She exclaimed in excitement “wow, “free plants!” and adopted the whole box. 
+
+That was efficient, not in the way I expect Beijing to be, but efficient,
+
+As the delivery rider I hired picked up the box containing My Flower to go to my friend, for the first time during my series of relocation, I felt, sad. For I knew this was truly goodbye.
+
+And she seemed to have vanished from my mind.
+
+Two years later, on a late autumn evening, while sitting in my studio in London, I was suddenly struck by a wave of sadness, and for the first time in two years, I thought about My Flower. It was an unsettling feeling. I immediately messaged my friend to ask if My Flower was still alive. There was no reply. Later, my friend said she’d have to check with her mum, for she had left the Beijing law firm and relocated to Shenzhen a thousand miles away south. My Flower was left behind, and taken back to our hometown by her mum with the rest of her belongings meant the a crisp winter of the north instead of the humid summer of the south.
+
+A few months later, in January 2024, I followed up again, she told me My Flower had indeed died. I asked when. She wasn’t sure, her mum said it was “late last year”. 
+
+I joked lightly “well I figured it must have been a goner by now”— and cried uncontrollably. I knew for me, home was no more.
+
+She was My flower that never bloomed.
+
+## Afterword
+
+### Update: May 31st, Evening
+
+
+
+![image-20250601034149444](/assets/blog/2025-05-31-faraway-land.assets/image-20250601034149444.png){: w="200"}
