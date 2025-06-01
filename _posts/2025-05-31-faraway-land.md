@@ -599,19 +599,19 @@ I spent a few months wondering around Beijing, observing humans, and then got he
 
 ## Part 5 ⋆ My Flower
 
-> *I chose to interpret it romantically, for I was a romantic.*
+> *I interpreted the heart shape romantically, for I was a romantic.*
 
-Before leaving for Mexico, I had to sort out a lot of life admin. A few hours before my flight, I hired a driver through an app and sent all my belongings to self-storage. I booked a cleaner - also via app - to handle the move-out and return the keys. I checked out with my landlord through an app as well. I even arranged a rider to deliver some of my plants to a high school friend who’d recently started working and mentioned wanting to make friends with some greenery.
+Before leaving for Mexico, I had a lot of life admin to sort, and I completed everything all in the few hours before my flight: I hired a van through an app and sent all my belongings to self-storage. I booked a cleaner - also via app - to handle the move-out process while I watched her livestream. I checked out with my landlord through an app as well. I even arranged a driver to deliver some of my plants to a high school friend who'd recently started working and mentioned she wanted to make friends with some greenery.
 
 Everything ran smoothly. It was the kind of efficiency you could only experience in China.
 
-I had no attachment to any of the above—except for the plants I sent to my friend. Because among them, I left My Flower.
+I had no attachment to any of the above - except for the plants I sent to my friend. Because among them, I left My Flower.
 
-My Flower—more precisely, my Desert Rose —was a small potted plant. I’m not sure why, but whenever I think of her, the phrase “My Flower”, not “Desert Rose” comes to mind. By the time I gave her away, I had kept her for around ten years. Desert Roses are common enough, but My Flower was one of its kind.
+My Flower - more precisely, my Desert Rose - was a small potted plant. I’m not sure why, but whenever I think of her, the phrase “My Flower”, not “Desert Rose” comes to mind. By the time I gave her away, I had kept her for around ten years. Desert Roses are common enough, but My Flower was one of its kind.
 
-As you might have seen, I moved a lot over the years. I couldn’t bring her to the U.S., but I brought her almost everywhere else I went. Every time I moved, I picked up new plants — but no matter how many I bought, there was only one *her*.
+As you might have seen, I moved a lot over the years. I couldn’t take My Flower with me internationally., but I brought her almost everywhere else I went. Every time I moved, I picked up new plants - but no matter how many more plants I came to own, there was only one *Her*.
 
-I got her during my first or second year of secondary school. Mum and I bought her from a tricycle vendor on one of our evening walks. I’m pretty sure the appeal was that this plant — which looked like a small green radish with a funky hairdo — required almost no watering. She was a small, skinny thing — light green stems with a few stubborn leaves. If I ever had a sister, this is how she would’ve looked like.
+I got her during my first or second year of secondary school. Mum and I bought her from a tricycle vendor on one of our evening walks. I’m pretty sure the appeal was that this plant - which looked like a small green radish with a funky hairdo - required almost no watering. She was a small, skinny thing - light green stems with a few stubborn leaves. If I ever had a sister, this is how she would’ve looked like.
 
 My Flower was under my sole care — not that she needed much. I left her in a corner near the window and watered her every week or two. She never had any substantial growth. Even after years, her trunk stayed thin. Every now and then she’d grow one thick leaf, but it would fall off before turning fully green.
 
@@ -619,33 +619,40 @@ Still, no matter how sad she looked, there was always a sprout somewhere, and I 
 
 On one of my no-human-contact days, self-studying at home, I remember wondering if all my friends had forgotten about me. Then a surprise came: two of my classmates visited me over the summer and even brought a birthday present — it took me many years to receive another one.
 
-They pointed at My Flower and asked what that radish-looking thing was. I told them it was a Desert Rose. One of them asked, “If it’s called a desert rose, can it bloom?”
+They pointed at My Flower and asked what this radish-looking thing was. I told them it was a Desert Rose. One of them asked, “If it’s called a Desert Rose, can it bloom?”
 
-That’s when I realised I had never considered that question. I decided to do some research, and learned that desert roses not only could bloom, but that their flowers were supposed to be very beautiful. Worse, from the pictures online, I saw that My Flower looked significantly more underdeveloped than others her age.
+That’s when I realised I had never considered that question. I did some research, and learned that Desert Roses not only could bloom, but were supposed to have very beautiful flowers. Worse, from the pictures online, it was clear that My Flower looked significantly more underdeveloped than others her age.
 
-I felt guilty and resolved to take better care of her—which mostly meant moving her into a bigger pot and hoping she knew what to do.
+I felt guilty and resolved to take better care of her - which mostly meant moving her into a bigger pot and hoping she knew what to do.
 
-Then I moved to the US for university — returning home twice during the three years I was there. By that point, I felt I had completely forgotten about My Flower. I did try to buy a replacement in the US, but desert roses were considered exotic and hard to come by. I got a succulent instead. It died around my second year.
 
-Then I moved to Shanghai for work. I went back home for Chinese New Year in 2019—which, to this day, is the only New Year I’ve spent at home since leaving in 2015.
 
-That holiday didn’t go well. My old phone still has pictures from the train ride from Shanghai to my hometown and the ride back. There were ten days in between, but I only took one photo: a steel plant in a magnificent smog. I don’t remember what I was doing there.
+![1905684572](/assets/blog/2025-05-31-faraway-land.assets/1905684572.jpeg){: w="250"}
+_My Flower in High School_
 
-What I do remember is Mum opening my suitcase and finding a cheap jumper I’d bought online. She mocked the 100% polyester fabric and said it looked like my face—an unpeeled potato. She told me not to bring “garbage like that” home again.
+
+
+Then I moved to the US for university — returning home twice during the three years I was there. By that point, it seemed I had completely forgotten about My Flower. I did try to buy a replacement in the US, but Desert Roses were considered exotic there and hard to come by. I got a succulent instead. It died around my second year.
+
+Then I moved to Shanghai for work. I went back home for Chinese New Year in 2019 - which, to this day, is the only Chinese New Year I’ve spent at home since leaving in 2015.
+
+That holiday didn’t go well. My old phone still has pictures from the train ride from Shanghai to my hometown and the ride back. There were ten days in between, but I only took one photo: a steel plant in magnificent smog. I don’t remember what I was doing there.
+
+What I do remember is Mum opening my suitcase and finding a cheap jumper I’d bought online. She mocked the 100% polyester fabric and said it looked like my face - an unpeeled potato. She told me not to bring “garbage like that” home again.
 
 I didn’t think much of it. I just thought the unpeeled potato metaphor was gold. I’ve always been down-to-earth, and there’s not much I can do about it.
 
-I also remember spending the rest of that New Year wandering around the apartment like a zombie—until I noticed My Flower on the balcony.
+I also remember spending the rest of that New Year wandering around the apartment like a zombie - until I noticed My Flower on the balcony.
 
-All her leaves had fallen off. The soil underneath had turned into a layer of dry dust, the kind you’d wash off an unpeeled potato. Her pot was filled with trash. Instead of looking like a green radish, she now looked like proper garbage and had clearly been treated that way for a long time.
+All her leaves had fallen off. The soil underneath had turned into a layer of dry dust, the kind you’d wash off an unpeeled potato. Her pot was filled with trash. Instead of looking like a green radish, she now looked like proper garbage and had clearly been treated as such for a long time.
 
 The other plants on the balcony were still thriving. Clearly, someone had been watering them.
 
-In our household, watering plants was Mum’s job. She would bring out a big bucket from the kitchen and go plant by plant. The tall, leafy “tree of happiness” always got the biggest share. The rest were watered depending on how leafy they looked. If something looked dead enough, she’d stop watering it altogether — until it dried out completely and could be thrown away.
+In our household, watering was Mum’s job. She would fill a big bucket from the kitchen and go plant by plant. The tall, leafy “tree of happiness” always got the biggest share. The rest were watered depending on how leafy they looked. If something looked dead enough, she’d stop watering it altogether - until it dried out completely and could be thrown away.
 
 Many of them were still breathing when pronounced dead. I remember once moving a plant she’d given up on into my bathroom. It got no sunlight, but I watered it, and in a month, it came back to life. Mum never noticed it went missing.
 
-That plant had a little green left. My Flower didn’t. She was the same colour as the soil. Even I felt she didn’t look out of place in a bin.
+That plant had a little green left. My Flower didn’t. She was the same colour as the soil. Even I must admit she didn’t look out of place in a bin.
 
 Still, without hesitation, I dug her out, wrapped her in damp tissue, and stuffed her in my backpack.
 
@@ -655,45 +662,51 @@ I remember holding her in my hands, looking closely. She didn’t look how I rem
 
 “If she was going to die, she’d die with me,” I promised myself.
 
-Shanghai really wasn’t the best place for plant revival—especially in winter. Unlike my hometown in northern China, Shanghai was in the south and didn’t have central heating. Around January, right before Chinese New Year, there was a long stretch of cold, rainy days. My flat didn’t get much sun. When I returned to Shanghai, two of my previously healthy plants had died — one probably from the cold, and another from root rot due to trapped moisture. That one was a succulent. It must have died very quickly, because when I saw it, all its leaves were still bright green — like summer. I didn’t notice it was dead at first, but when I touched it, everything above the surface just fell off. On the surface, it looked like it was holding on. Inside, it was long gone.
+Shanghai really wasn’t the best place for plant revival - especially in winter. Unlike my hometown in northern China, Shanghai was in the south and didn’t have central heating. Around January, right before Chinese New Year, there was a long stretch of cold, rainy days. My flat didn’t get much sun. When I returned to Shanghai, two of my previously healthy plants had died — one probably from the cold, and the other from root rot due to trapped moisture. That one was a succulent. It must have died very quickly, because when it died, all its leaves were still bright green — like summer. I didn’t notice it was dead at first, but when I touched it, everything above the root just fell off. On the surface, it looked like it was holding on. Inside, it was long gone.
 
-At the time, I was renting an old, broken-down flat—one Mum had picked for me. I could’ve found a place myself, but she didn’t trust me to do that. I wasn’t in Shanghai when the lease was signed, and she hadn’t seen the flat either. She was told it was “old,” but the location was very good. She didn’t want me “wasting time” flat-hunting.
+At the time, I was renting an old, run-down flat - one Mum had picked for me. I could’ve found a place myself, but she didn’t trust me and didn't want me to "waste time" flat-hunting. I wasn’t in Shanghai when the lease was signed, and she hadn’t viewed the flat carefully either. She was told it was “old,” but the location was very good.
 
-Mum’s idea of “old” was nothing like Shanghai old. Most of our hometown had been obliterated in the 1976 earthquake, so people there weren’t exactly conditioned to recognise what a genuinely old building looked like.
+Mum’s idea of “old” was nothing like Shanghai old. 50 years ago, an earthquake obliterated almost every building in my hometnwn, so people there had long forgotten what a genuinely old building looked like.
 
-This apartment was so old it didn’t even have proper rubbish collection—people just left trash bags on the street to be picked up. Every morning, I was woken by the sound of locals playing mahjong downstairs. At night, I was haunted by stray cats in heat. I actually got quite good at talking back to them — though I often wished I could learn some more cultured vocabulary.
+This whole neighbourhood was so old it didn’t even have proper rubbish collection - people just left trash bags on the street to be picked up. In the morning, I was often woken by the sound of Shanghai natives playing mahjong downstairs. At night, my dreams often sounded like stray cats in heat. I actually got quite good at talking back to them — though I wasn't sure if the vocabulary was appropriate.
 
-My air conditioner leaked water downstairs several times. Building management made me leave work to fix it, which was actually a nice break. Air conditioners are not the only things that leaked in this place. One time, I was sitting on my toilet, contemplating the meaning of life and the secrets of the universe, I felt a cool splash on my head. It turned out the upstairs toilet was leaking. I was glad the splash felt cold.
+My air conditioner leaked water downstairs several times. Neighbourhood management made me leave work to fix it, which was actually a nice break. The air conditioner wasn’t the only thing that leaked in this place. One time, as I was sitting on the toilet, contemplating the meaning of life and the secrets of the universe, I felt a cool splash on my head. It turned out the upstairs toilet was leaking. I was glad the splash wasn't a warm one.
 
-The upstairs tenant was another working girl like me. She was nice about it. Her landlord eventually moved her out and remodelled the bathroom—which meant I lived with renovation noise for weeks.
+The upstairs tenant was a girl my age. She was nice about it. Her landlord eventually moved her out and remodelled the bathroom - replacing the rhythmic drips with the distorted sustains from a power drill. 
 
-Dead plants weren’t the only thing that had gone wrong that New Year. When I walked in, I was hit by a foul smell. The fridge had died, and some frozen food had gone off. I cleaned everything up, but the smell wouldn’t go away.
+Dead plants weren’t the only thing that greated me upon my return that New Year. When I walked in, I was engulfed by a foul smell - The fridge had died, and some frozen food had gone off. I cleaned everything up, but the smell wouldn’t go away.
 
 I immediately took more annual leave and went flat-hunting. I moved into a serviced apartment that cost 70% of my monthly salary — but it didn’t matter. I had no hobbies, no social life, and ate all three meals at TikTok’s free canteen. I had no personal expenses. 
 
-I hadn’t turned 21 yet. Happy times.
+I hadn’t even turned 21. 
 
-Meanwhile, My Flower was doing surprisingly well. I bought her a huge orchid pot with the engraving *“The fragrance of plum blossoms originates from the bitter cold.”* It was definitely oversized for her, but I was confident she’d grow into it.
+Happy times.
+
+Meanwhile, My Flower was doing surprisingly well. I bought her a huge orchid pot engraved with the phrase *“The fragrance of plum blossoms originates from the bitter cold.(梅花香自苦寒来)”* It was definitely oversized for her, but I was confident she’d grow into it.
 
 *It’s you and I against the world now.*
 
-Thankfully, the weather warmed up after the holiday. Within a couple of days of arriving in Shanghai, she started sprouting. I saw one bud grew into a full leaf within a week. By March, she had two new leaves—both heart-shaped.
+Thankfully, the weather warmed up after the New Year. Within a couple of days of arriving in Shanghai, My Flower started sprouting. I saw one bud grew into a full leaf within a week. By March, she had grown two new leaves - both heart-shaped.
 
-I read online that when plants go too long without growing, changes in auxin levels can cause strange leaf shapes. I chose to interpret it romantically, for I was a romantic. 
+I read online that when plants go too long without growing, uneven surges in auxin levels can cause unusual leaf shapes. I interpreted the heart shape romantically, for I was a romantic. 
 
-My serviced flat didn’t have a balcony, and the lighting wasn’t great. Still, My Flower kept growing. I even bought her some fertiliser. Her canopy started filling out, and for the first time, she began to look like the Desert Roses I’d seen online.
+The serviced flat didn’t have a balcony and lacked natural light. Still, My Flower kept growing. I even bought her some fertiliser. Her canopy started filling out, and for the first time, she began to look like the Desert Roses I’d seen online.
 
-My parents didn’t notice she was missing until they visited me in Shanghai a few months later. They said she looked “familiar”.
+My parents didn’t notice she went missing until they visited me in Shanghai a few months later. They said she looked “familiar”.
 
-I’ve always had this strange feeling that My Flower’s condition depended more on how much I thought about her than how well I cared for her. My goal was to get her to bloom within two years. Based on how she was growing then, I really believed she could.
+I’ve always had this strange feeling that My Flower’s condition depended less on how I cared for her and more on how much I thought about her. My goal was to get her to bloom within two years. Judging by how she was growing, I really believed she could.
+
+---------
+
+
 
 Soon after moving into the serviced apartment, I had to start the paperwork to transfer my residency from my hometown to Shanghai.
 
-“Residency/Hukou 户口” is a uniquely Chinese system. In mega cities like Beijing and Shanghai, only people with local residency are eligible for certain benefits. I qualified because I had graduated from a high-ranking university and had paid tax for the required duration. I didn’t need the status, but it made sense to apply. One requirement for the application was a proper residential address. The serviced apartment didn’t count — it was technically a hotel. So, I moved into a cheap one-bedroom flat in the suburbs. It had a real balcony, which meant I could finally keep plants properly.
+“Residency/Hukou 户口” is a uniquely Chinese system. For me, it felt like an immigration visa system, but domestic. In mega cities like Beijing and Shanghai, only people with local residency are eligible for certain benefits. I qualified because I had graduated from a high-ranking university and had paid tax for the required duration. I didn’t need the status, but it made sense to apply. One requirement for the application was a proper residential address. The serviced apartment didn’t count - it was technically a hotel. So, I moved into a cheap one-bedroom flat in the suburbs. It had a real balcony, which meant I could finally keep plants properly.
 
 I didn’t get to live there long. TikTok restructured, and our whole team was transferred to Beijing.
 
-My Flower thrived in Beijing for a while. Then life changed again — Covid hit, I resigned, weighed my options, and Mexico called.
+My Flower thrived in Beijing for a while. Then life changed again - COVID hit, I resigned, weighed my options, and Mexico called.
 
 I flew to Mexico shortly before Chinese New Year in 2021. It was January, and freezing. As I scrambled to tie up my relocation logistics, I realised the hardest part was figuring out what to do with the plants I’d collected over the years.
 
@@ -717,9 +730,9 @@ That was efficient, not in the way I expect Beijing to be, but efficient,
 
 As the delivery rider I hired picked up the box containing My Flower to go to my friend, for the first time during my series of relocation, I felt, sad. For I knew this was truly goodbye.
 
-Should people get blamed for empty promises? 
-
 And she seemed to have vanished from my mind.
+
+I made so many promises to her, none was kept. People often frawn upon empty promises, but I guess on the moment one promises forever, most do meant it. It on that moment they do picture eternity, but people hardly have any control over the present, not to mention future, or forever.
 
 Two years later, on a late autumn evening, while sitting in my studio in London, I was suddenly struck by a wave of sadness, and for the first time in two years, I thought about My Flower. It was an unsettling feeling. I immediately messaged my friend to ask if My Flower was still alive. There was no reply. Later, my friend said she’d have to check with her mum, for she had left the Beijing law firm and relocated to Shenzhen a thousand miles away south. My Flower was left behind, and taken back to our hometown by her mum with the rest of her belongings meant the a crisp winter of the north instead of the humid summer of the south.
 
