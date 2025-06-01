@@ -561,39 +561,39 @@ That being said, there was one thing that always got everyone entertained and ex
 
 Imagine trying to win these colleagues over or trying to win against them, neither sounds particularly interesting. I cannot conclude that me and my friends had the most “correct” understanding of how to work with music, as there were too many many stakeholders, each with their own priorities, but it’s worth mentioning that none of the people I enjoyed working with made the newsletters or appeared on primetime TV.
 
-I much prefer the work at law firms, at least at a junior level. When clients come with concrete problems, we solve it; when there’s not much client work to do, we carry out research, BD or just enjoy our lives. No client pays us to invent problems that don’t exist to make themselves look important — at least not at our rate.
+I much prefer the work at law firms, at least at a junior level. When clients come with concrete problems, we solve it; when there’s not much client work to do, we carry out research, BD or just enjoy our lives. No client pays us to invent problems that don’t exist to make themselves look important - at least not at our rate.
 
 I guess people’s choices are like the output of a function with a lot of variables. Our interactions with someone’s life are so minimal that trying to make an impact on others is like trying to alter the output of a function without changing any of the inputs, and most of those inputs aren’t even about the person’s intrinsic character — they are about the extrinsic context that sharped one’s life, and those often weigh more heavily than anything intrnsic.
 
 Tough. I like people who jitter around. There are more possibilities in those still trying to introduce new variables into their lives. Just like the alchemy of big data applications, dump as many variables as you can, and there’s a good chance you will get some gold out of the furnance.
 
-I finally realised I couldn’t change my parents — I’d better try to live with the way they are. I tried to get closer to them and booked a trip to Tibet for Mum and me over the 2020 Chinese New Year holidays. I didn’t include Dad because his default was to never take annual leave as doing so would mean discharging all patients and stop admitting new ones. He would never do that. 
+I finally accepted that I couldn’t change my parents - I’d better try to live with the way they are. I tried to get closer to them and booked a trip to Tibet for Mum and me over the 2020 Chinese New Year holidays. I didn’t include Dad because his default was to never take annual leave as doing so would mean discharging all patients and stop admitting new ones. He would never do that. 
 
 Shortly before that, on one of my Sunday shifts, I watched a Vice News documentary and decided to go on a solo trip to Kashgar, Xinjiang, to see the local communities. I must admit I watched YouTube (and TikTok, from the back-end) quite often at this job, partly because I needed to keep up with trends, partly because most of my work required my very specific skillset, and I could always work at my own pace.
 
-I didn’t tell my parents about the trip — I wasn’t planning to. I took the trip during the (non-Chinese) New Year holiday, and it sounded bizarre to spend one’s New Year holiday alone in some faraway province during the freezing off-season.
+I didn’t tell my parents about the trip - I wasn’t planning to. I took the trip during the (non-Chinese) New Year holiday, and it sounded bizarre to spend one’s New Year holiday alone in some faraway province during the freezing off-season.
 
-I didn’t learn what I wanted from the trip, but as I’d always been a social media photography peacock, I posted some photos. Seconds after posting, I realised I’d forgotten to moderate the post’s visibility. It was too late. Clearly, I was a peacock in a zoo — no attention from mates, but loads of aunties watching. One of Mum’s besties saw the post and immediately reported it to her.
+I didn’t learn what I wanted from the trip, but as I’d always been a social media photography peacock, I posted some photos. Seconds after posting, I realised I’d forgotten to moderate the post’s visibility. It was too late. Clearly, I was a peacock in a zoo - no attention from mates, but loads of aunties watching. One of Mum’s besties saw the post and immediately reported it to her.
 
-Mum felt Kashgar was a bit too exotic, and she couldn’t see any reason why anyone should be interested in there, if not for the beautiful summer and sweet fruit. She demanded that from then on, I must report to the grown-ups (大人) when I travel, and said she would refuse to go to Tibet with me unless I agreed.
+Mum felt Kashgar was a bit too exotic, and she couldn’t see any reason why anyone would be interested in going, if not for the sweet fruits. She demanded that from then on, I must report to the grown-ups (大人) when I travel, and said she would not go to Tibet with me unless I agreed.
 
 She must have been delusional to entertain the idea of me agreeing. She might as well dream about me marrying her.
 
-I cancelled the Tibet booking immediately and lost a 25% cancellation fee. I lost big, because that was the Chinese New Year when COVID first hit, and eventually everything got cancelled with a full refund.
+I cancelled the Tibet booking immediately and lost a 25% cancellation fee. I lost big, because this was the Chinese New Year when COVID first hit. Wuhan went into lockdown the day before Chinese New Year’s Eve, and soon after, everything was cancelled with a full refund.
 
-I refused to go home for Chinese New Year, even though it was just a little more than one hour away by train, it would take much longer for many of my local Beijing colleagues’ to commute.
+I refused to go home for Chinese New Year, even though it was just a little over an hour away by train — much shorter than many of my local Beijing colleagues' usual commute.
 
-One of my managers, who was also from my hometown, saw me working late on Chinese New Year Eve. He asked if it was because I couldn’t get a train ticket. I said it was just Mum. He couldn’t believe it and offered to give me a lift. I refused. 
+he day Wuhan went into lockdown was the last working day before the holidays. Everyone had left early. By dinnertime, only one of my managers - who was also from my hometown - and I were still in the office. He saw me working late and asked if it was because I couldn’t get a train ticket. I said I’d had an argument with Mum. He thought that was a terrible reason not to go home and offered to give me a lift. I refused.
 
-He was shocked. He used to refer to me an “emotionless robot” at work — and meant it as a compliment. I guess he didn’t expect me to have such strong opinions about anything. He gave up.
+He was shocked. He used to refer to me an “emotionless robot” at work - and meant it as a compliment. I guess he didn’t expect me to have such strong opinions on anything. He gave up. I was lucky that my manager was a man because a woman would've definitely stuffed into the car like a sack of New Year shopping. Making sure everyone gets to go home for this 7-day holiday is every Chinese person's duty, there is no such thing as "meddling in others' business" on this matter.
 
-That turned out to be a good call — a lifesaving one. Visiting home for Chinese New Year would’ve meant quarantining with my parents. Many statistics showed that there was a surge in divorce rates across the world during the pandemic; I suspect it’s because people were spending too much time together. One couldn’t divorce one’s parents, so I guess my only exit would have to be the window. We lived in a typical Chinese high rise, and there was quite a way down. I knew I had hard-coded that I must try to live, but in some occasions, like being trapped in a burning building, options can be very limited.
+That turned out to be a good call — a lifesaving one. Visiting home for Chinese New Year would’ve meant quarantining with my parents. Many statistics showed that there was a surge in divorce rates across the world during the pandemic; I suspect it’s because people were spending too much time together. One couldn’t divorce one’s parents, so I guess my only exit would have to be the window. We lived in a typical Chinese high rise, and there was quite a way down. I knew I had hard-coded that I must try to live, but in some situations, like being trapped in a burning building, options can be very limited.
 
 During COVID, my work responsibilities headed to an unexpected direction, and it was no longer my thing. To be fair, my work had always been chaotic, yet fascinating. This was the era of China's tech industry's exponential growth, a one-time-only opportunity where everyone could get something out of it. Soon, the industry will enter an era of market saturation and incremental gains, one more user for you means one less user for me. I doubt this kind of growth will ever return, and young people may never again experience the excitement of breaking new ground in primordial chaos, at least not before the next industrial revolution.
 
 The recent developments in GenAI is exciting, but I just don’t see how it can create loads of new jobs, and those who can work in GenAI would have landed a good job pre-GenAI anyway. Many products labelled as AI are either just a repackaging of existing models, or a basic computer software rebranded as AI in PPTs to attract investors.
 
-Around the same time, long after leaving university, I started getting curious about things again and wanted to go to graduate school. This time, I wanted to make sure I’d be in a big city, and actually live there, not just breathe. Unfortunately, everywhere was still teaching remotely, and I didn’t know what to do. I did sign up for a weekend master’s at Renmin University majoring in International Politics, but the purpose was mainly to see what the kind of people attended and what the syllabus looked like. I didn’t complete this degree.
+Around the same time, long after leaving university, I started getting curious about things again and wanted to go to graduate school. This time, I wanted to make sure I’d be in a big city, and actually live there, not just breathe. Unfortunately, everywhere was still teaching remotely, and I didn’t know what else to do. I did sign up for a weekend master’s at Renmin University majoring in International Politics, but the purpose was mainly to see what the kind of people attended and what the syllabus looked like. I didn’t complete this degree.
 
 I spent a few months wondering around Beijing, observing humans, and then got headhunted for a very random opportunity to work in Mexico. It was a chance to work with a type of people I had never personally dealt with before, and it would be valuable insight. So, after working remotely in Beijing for a few months, shortly before Chinese New Year 2021, off to Mexico I went.
 
@@ -601,7 +601,7 @@ I spent a few months wondering around Beijing, observing humans, and then got he
 
 > *I chose to interpret it romantically, for I was a romantic.*
 
-Before going to Mexico, I had to sort out a lot of life admin. A few hours before my flight, I hired a driver through an app and sent all my belongings to self-storage. I booked a cleaner—also via app—to handle the move-out and return the keys. I checked out with my landlord through an app as well. I even arranged a rider to deliver some of my plants to a high school friend who’d recently started working and mentioned wanting to make friends with some greenery.
+Before leaving for Mexico, I had to sort out a lot of life admin. A few hours before my flight, I hired a driver through an app and sent all my belongings to self-storage. I booked a cleaner - also via app - to handle the move-out and return the keys. I checked out with my landlord through an app as well. I even arranged a rider to deliver some of my plants to a high school friend who’d recently started working and mentioned wanting to make friends with some greenery.
 
 Everything ran smoothly. It was the kind of efficiency you could only experience in China.
 
@@ -717,6 +717,8 @@ That was efficient, not in the way I expect Beijing to be, but efficient,
 
 As the delivery rider I hired picked up the box containing My Flower to go to my friend, for the first time during my series of relocation, I felt, sad. For I knew this was truly goodbye.
 
+Should people get blamed for empty promises? 
+
 And she seemed to have vanished from my mind.
 
 Two years later, on a late autumn evening, while sitting in my studio in London, I was suddenly struck by a wave of sadness, and for the first time in two years, I thought about My Flower. It was an unsettling feeling. I immediately messaged my friend to ask if My Flower was still alive. There was no reply. Later, my friend said she’d have to check with her mum, for she had left the Beijing law firm and relocated to Shenzhen a thousand miles away south. My Flower was left behind, and taken back to our hometown by her mum with the rest of her belongings meant the a crisp winter of the north instead of the humid summer of the south.
@@ -727,14 +729,23 @@ I joked lightly “well I figured it must have been a goner by now”— and cri
 
 She was My flower that never bloomed.
 
+![1905684572](/assets/blog/2025-05-31-faraway-land.assets/1905684572.jpeg){: w="250"}
+_My Flower in High School_
+
+
+
+![IMG_20210129_165355](/assets/blog/2025-05-31-faraway-land.assets/IMG_20210129_165355.jpg){: w="250"}
+_My Storage Unit in Beijing_
+
 ## Part 6 ⋆ Afterword
 
 ### Update: May 31st, Evening
 
 After working Mexico, I came to the UK and did a master degree at LSE and, after completing some trainings courses, started to work as a trainee solicitor here. My life in the UK has been uneventful. I started (and pretty much finished) writing this during Easter 2025 after reading Mum’s messages, but wasn’t sure how to conclude it. 
 
-You may have noticed that the closer the timeline is to the present, the less detailed the content is. This was a pity, as during my time working in China, Mexico, and the UK, there are still lots of material relevant to the theme of this essay, though most of these materials are hearsay due to the growing distance between me and the Faraway Land.  
+You may have noticed that the closer the timeline is to the present, the less detailed the content is. This was a pity, as during my time working in China, Mexico, and the UK, there are still some, if not more material relevant to the theme of this essay, though most of these materials are hearsay due to the growing distance between me and the Faraway Land.  
 
 Due to the recency of these events, unlike childhood memories, they are still relevant to my life and probably my work, and as such I cannot cover them at the level of details I would like and had to remove these episodes. I shared the first part of this essay via personal social media on the 26th April and have since been struggling to finish the last part of the essay. 
 
 ![image-20250601034149444](/assets/blog/2025-05-31-faraway-land.assets/image-20250601034149444.png){: w="500"}
+
