@@ -732,8 +732,7 @@ She was My flower that never bloomed.
 ![1905684572](/assets/blog/2025-05-31-faraway-land.assets/1905684572.jpeg){: w="250"}
 _My Flower in High School_
 
-
-testing why this image is not working
+<br>
 ![20210129165355](/assets/blog/2025-05-31-faraway-land.assets/20210129165355.jpg){: w="250"}
 _My Storage Unit in Beijing_
 
