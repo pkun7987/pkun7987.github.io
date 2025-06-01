@@ -13,11 +13,11 @@ Typora-root-url: ../../pkun7987.github.io
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 
-# Part 1 ⋆ Particulars of Claim
+## Part 1 ⋆ Particulars of Claim
 
 > *They had to be fast, for there were always others.*
 
-## 1.1
+### 1.1
 
 Just to be clear, both my parents are still alive—provided Dad’s not drunk enough to have fallen asleep on the street somewhere and frozen, and Mum’s not getting a heart attack from it, which has happened before. Considering the pleasant spring all over our northern hemisphere, I guess fatality is unlikely, so all good!
 
@@ -459,17 +459,17 @@ This book is still sitting on our bathroom counter collecting dust, as no one bo
 
 University was a massive improvement from high school, in the sense that I was no longer under the immediate threat of being butchered, but I guess once you’ve been a domesticated animal, it’s hard to ever gallop freely again. After all, the whole point of domestication is to eliminate the prospect of rewilding.
 
-I still felt tethered to home. After making my first-year course selections, my first instinct was to share my calendar my parents — fully aware they would complain that the calendar, which included some general education courses required for all freshmen, wasn’t rigorous enough. As expected, they did complain. When you refuse to give up completely on family, no amount of foresight and reasoning can help.
+I still felt tethered to home. After making my first-year course selections, my first instinct was to share my timetable my parents — fully aware they would complain that the calendar, which included some general education courses required for all freshmen, wasn’t rigorous enough. As expected, they did complain. When you refuse to give up completely on family, no amount of foresight and reasoning can help.
 
-They also noticed that my academic and career interests had started to deviate from the typical (Chinese) expectation from a CMU graduate. I didn’t do maths/computer science 24/7 and took some courses in music and cognitive science, and Mum began sending me long, rambling messages expressing her disappointment. I won’t reproduce any of here — don’t want to unnecessarily trigger any content warnings and get my posts flagged. I feel sorry for our family friends who were forwarded these messages at 2AM when Mum couldn’t get any reply out of me.
+They also noticed that my academic and career interests had started to deviate from the typical (Chinese) expectation from a CMU graduate. I didn’t do maths/computer science 24/7 and took some courses in music and cognitive science, and Mum began sending me long, rambling messages expressing her disappointment. I won’t reproduce any here — don’t want to unnecessarily trigger any content warnings and get my posts flagged. I feel sorry for our family friends who were forwarded these messages at 2AM when Mum couldn’t get any reply out of me.
 
 Not replying does not mean not reading. I’d always had the habit of reading everything, relevant or not, and that didn’t help. Each message from Mum would send me into a depressive episode: I couldn’t get myself to leave the dorm, eat, attend class, or turn in assignments. My weight would drop within days, and I collapsed several times from low blood sugar. 
 
-I never understood how what used to be a mental issue turned physical, and why a strong desire to be normal couldn’t fix it. The confusion was overwhelming. In order to deal with it while my systems were already failing, I hard-coded into my core a single rule: the number one principle is to live. If every optimisation fails, this principle must still hold, If every component crashes, this code must still execute.
+I never understood how what used to be a mental issue turned physical, and why a strong desire to be normal couldn’t fix it. The confusion was overwhelming. In order to deal with it while my systems were already failing, I hard-coded into my core key principle: try whatever it takes to live. If every optimisation fails, this principle must still hold, If every component crashes, this code must still execute.
 
 Running on a broken system, I rushed through university. Instead of finishing my degree in four years, I planned my course selections carefully to stealthily graduate in three years, without telling my parents. If they had known, they would’ve started messaging me dictating what I should be doing and how I shoud prepare, and I would’ve stopped functioning again. I couldn’t afford that — not then. It would’ve cost me my degree. 
 
-Luckily, since most of my classes weighted grades across multiple assignments and exams, there was plenty of room for mess-ups, and none of mine ended up fatal. Not showing up for my photography class final exhibition was supposed to be fatal. I had worked hard in the darkroom all semester but when the big day came, I wasn’t in any shape to leave my dorm. Instead of failing me, the professor just gave me a B — always knew I could trust a guy who admitted no one buys his photos but still likes what he does. My grades didn’t stand out among Asian international students, but they were still quite okay. Mum was later really proud that I graduated with honours, though the only reason I didn’t lose that was because I ejected her from my head when I had to.
+Luckily, since most of my classes weighted grades across multiple assignments and exams, there was plenty of room for mess-ups, and none of mine ended up fatal. Not showing up for my photography class final exhibition was supposed to be fatal. I had worked hard in the darkroom all semester but when the big day came, I wasn’t in any shape to leave my dorm. Instead of failing me, the professor just gave me a B — always knew I could trust a guy who admitted no one buys his photos but still likes what he does. My grades didn’t stand out among Asian international students, but they were still quite okay. Mum was later really proud that I graduated with honours, though the only reason I managed to do so was because I ejected her from my head when I had to.
 
 I also struggled socially and talked to almost no one. Even when I ran into someone I knew, it took me several seconds to process their face and decide whether to say hi. That moment of delay was usually enough for both of us to pretend we hadn’t noticed each other. I also seemed to have levelled and acquired a passive skill of getting people to shut up when I walked into a conversation. Can’t complain — this used to be a much-needed skill. I was a generally awkward presence, but luckily, my roommate was very social, and I made a few friends through her and group assignments.
 
@@ -489,29 +489,31 @@ I left the office, and dropped his class next semester after the first session �
 
 Still, I did take some initiative. I tried therapy once.
 
-My therapist seemed genuinely confused by how I could be experiencing so many strange symptoms at once. She looked like she didn’t know what to do. I completely understood. I wouldn’t have known what to do with me either. If I had, I would’ve dealt with it myself.
+My therapist seemed genuinely confused by all the strange symptoms I was experiencing. She looked like she didn’t know what to do. I completely understood. I wouldn’t have known what to do with me either. If I had, I would’ve dealt with it myself.
 
 Nevertheless, it was very clear to her that I had to confirm I wasn’t suicidal, and she asked for that confirmation several times at the end of the session — if I was, she’d be under duty to report it to the university.
 
 I wasn’t suicidal. In fact, it was clearer than ever to me what it feels like to live. Suicide is for those who have stopped feeling.
 
-I also signed up for an elective from the Department of History — on my own initiative — and even attended its office hour once. Back then, it felt like a major achievement, since I used to stay away from liberal arts subjects. 
+I also signed up for an elective from the Department of History, and even attended its office hours once. Back then, it felt like a major achievement, since I used to stay away from liberal arts subjects and had never been to any office hours that wasn't about begging the TAs to debug my code. 
 
-The course was on climate change and climate justice. It was a topic I knew nothing about, so I went to the office hour to learn more. I didn’t say anything. I just listened to other students ask questions. That was when I realised I could get a much better marginal return on my time by learning about topics and perspectives I knew nothing about.
+I can’t say I chose the course out of a desire to step outside my comfort zone. I only enrolled after dropping the dry course I mentioned earlier, and by then, all the popular courses were full. Among the remaining options, I initially signed up for the most interesting-looking one - a course on security - military , not cyber. Most of my classmates looked at veterans and I could tell the presence of a very Chinese-looking Chinese made both the instructor and the students a bit uneasy. I dropped that one too, then picked the one that covered a topic which was completely new to me: climate change and climate justice.  
 
-This realisation was at my last year at CMU, so it didn’t change the course of my undergraduate education, but it's now part of the fundamental principle of my programming.
+Since I knew nothing about it, I went to the office hour to learn more. I didn’t say anything, just listened to other students ask questions. That was when I realised I could get a much better marginal return on my time by learning about topics and perspectives that were new to me.
 
-Years later, when I was applying to graduate school trying to switch my background from STEM to the humanities, I couldn’t find a single humanities professor to write me a reference. So I emailed the climate justice professor: *I was in your class ages ago. I’m sure you don’t remember me, but wanna give me a rec letter?*
+This realisation came in my last semester at CMU, so it didn’t change the course of my undergraduate education, but it's now part of the fundamental principle of my programming.
+
+Years later, when I was applying to graduate school trying to switch my background from STEM to the humanities, I couldn’t find a single humanities professor to write me a reference. So I emailed the climate justice professor: *I was in your class ages ago and my final project was the attached poster on glacial retreat in the Himalayas and its environmental, social and political impacts. I’m sure you don’t remember me, but your course was the only non-mandatory humanities course I took, and I got Bs in all the mandatory ones. Wanna give me a rec letter?*
 
 He did.
 
-One time, after several days of not leaving my bed, I ran out of food. I’d always eaten just for sustenance. When I lived in the dorms, I got the same grilled chicken breast sandwich from the canteen every day. After I moved into an off-campus apartment, I either cooked simple vegetables or got the same instant ramen from the Korean mom-and-pop grocery store downstairs — especially when I wasn’t in a condition to cook. I liked this Korean place, for the owners only greeted Koreans, and I didn’t have to experience any pressure to respond to unsolicited smiles.
+One time, after several days of not leaving my bed, I ran out of food. I’d always eaten just for sustenance. When I lived in the dorms, I got the same grilled chicken breast sandwich from the canteen every day. After I moved into an off-campus apartment, I either cooked simple vegetables or got the same instant ramen from the Korean mom-and-pop grocery store downstairs, especially when I wasn’t in a condition to cook. I liked this Korean place — the owners only greeted Koreans, no pressure for me to respond to unsolicited smiles.
 
-That day, my go-to instant ramen was out of stock. It took ages for me to decide on something else, and I walked out of the shop feeling lost and exhausted. Then something strange happened. I was suddenly woken up by the blossoms outside — I realised that while I had been lying in bed, the seasons had changed. It was now spring. 
+That day, my go-to instant ramen was out of stock. It took me ages to decide on something else, and I walked out of the shop feeling lost and exhausted. Then something strange happened. I was suddenly woken up by the blossoms outside - I realised that while I had been lying in bed, the seasons had changed. It was now spring. 
 
-I realised I wanted to see more seasons come and go. I wanted to feel how time passes, instead of just the void it leaves when it’s stolen from me.
+I realised I wanted to see more seasons come and go. I wanted to feel the passage of time in it's dynamic form, not just the void it leaves when it’s stolen from me.
 
-I graduated with two friends attending my ceremony and then realised I needed a job, so I spent the summer applying for jobs.  I admit I could’ve been more organised, but it didn’t seem like a problem — I’d never heard of any recent graduate having trouble finding work.
+I graduated with two friends attending my ceremony and then realised I needed a job, so I spent the summer applying for jobs.  I admit I could’ve been more organised, but it didn’t seem like a problem - I’d never heard of any recent graduate having trouble finding work.
 
 I ruled out data science and software engineering careers after a research internship in my sophomore year. I did software engineering and data modelling. While I enjoyed building the project from scratch, every week spent improving and upgrading it felt dull. On the engineering side, I was building the software with only one other student and the modelling was entirely my work. I guess working in a larger team doing similar work will probably be even less fulfilling. 
 
@@ -519,47 +521,51 @@ I enjoy groundbreaking 0-to-1 work more than incremental 85-to-100 work, but 0-t
 
 To be fair, data science is applicable in virtually any research field, and I’d definitely recommend it as a university major. Everyone can dump big data into a furnace and hope the alchemy spits out a new drug, a new cosmological theory, or a lucrative trade.
 
-Unfortunately, for my own sanity, I needed to either know what I was handling or understand what happens inside the furnace. The former refers to the big data itself — but if it’s fully comprehensible to humans, it’s no longer “big” data, so that wasn’t an option. The latter is the domain of truly gifted natural scientists, and I’m not one of them. If I were, I would leave any job immediately to become an alchemist.
+Unfortunately, for my own sanity, I needed to either know what I was handling or understand what happens inside the furnace. The former refers to the big data itself - but if it's fully comprehensible to humans, it's no longer be “big” data, so that wasn’t an option. The latter is the domain of truly gifted natural scientists, and I’m not one of them. If I were, I would leave any job immediately to become an alchemist.
 
-It seems like the only possible role for me would be furnace maintenance. A crucial role, but not my role.
+That left me with one possible role: furnace maintenance. A crucial role, but not my role.
 
 *Not ideal.*
 
 So I decided to explore my hobbies instead. I’d always been interested in music and the creative industry in general. Returning to China and finding a music-related job seemed like the best option. Around that time, many Chinese tech companies had just started investing heavily in music, and fresh grads with no experience could still get a surprising amount of responsibility. My parents would probably find that more acceptable than a job in some underground studio across the Pacific.
 
-In hindsight, it was indeed a good idea to start one’s first job in China with an undergraduate degree in 2018. If you spent another 2 or 3 years on a graduate degree, you’d be entering the job market in 2020–2021 — more graduates, fewer jobs. If you were lucky, you might land a job not much worse than your peer’s 2018 position — assuming you didn’t mind that they were now your manager. 
+In hindsight, it was indeed a good idea to start one’s first job in China with an undergraduate degree in 2018. If you spent another 2 or 3 years on a graduate degree, you’d be entering the job market in 2020–2021 - more graduates, fewer jobs. If you were lucky, you might land a job not much worse than your peer’s 2018 position - assuming you didn’t mind that they were now your manager. 
 
 My roommate left for a summer internship, and kindly tasked her partner with checking on my wellbeing while she’s away. It was a peaceful summer, I didn’t do much other than experimenting with music and casually applying for jobs. I never paid attention to career events and didn’t even know what a“grad scheme” was. I applied for a job at TikTok Shanghai, which turned out to be an experienced-hire position, but I suppose the HR appreciated my lack of interest in salary negotiation. I landed in their global music team, where I would later work across data, product, and music content.
 
 A few days before returning to China, I informed my parents that I was no longer a student. This came as a shock to them. Mum asked me to mail most of my luggage to Maryland to store in her friend’s basement. She was confident I’d be returning to the US for a computer science master’s in the near future. Those suitcases were mailed back to China five years later, when her friend decided to relocate to China for work and sold the house.
 
-I also told my parents that I had mental health issues and was experiencing physical symptoms. This wasn’t true, by that summer, I had already overcome the physical symptoms I was aware of, but I still said so, just to give them a reason to leave me alone. 
+I also told my parents that I had mental health issues and was experiencing physical symptoms. This wasn’t true - by that summer, I had already overcome the physical symptoms I was aware of, but I still said so, just to give them a reason to leave me alone. 
 
 This led to the episode I mentioned earlier, where I was sent to a psychiatric hospital — not for depression, but for no longer wanting to study. I later learned that depression can cause irreversible organic changes in the brain, including, among other things, hippocampal atrophy, which may affect cognitive ability. I don’t want to find out whether I’ve been affected. If I were, I wasn’t aware. 
 
+------
+
+
+
 ### 4.2
 
-I later worked in both Shanghai and Beijing—Shanghai was a five-hour train ride from my hometown, the latter just one hour. Most of my school friends went back home quite often. I visited maybe once or twice a year.
+I later worked in both Shanghai and Beijing - the former was a five-hour train ride from my hometown, the latter just one hour. Most of my school friends went back home quite often. I visited maybe once or twice a year.
 
-My work involved a lot of drama — nothing too exciting for a 20-year-old, and nothing as interesting as what used to happen at home, although neither really matters in the grand scheme of things. There were several cliques, and I was part of the one that seemed more interested in music than in digital nonsense. I’m pretty sure the other cliques would say the same about themselves. It all comes down to: *My taste is better than yours!*
+My work involved a lot of drama - nothing too exciting for a 20-year-old, and nothing as interesting as what used to happen at home, although neither really matters in the grand scheme of things. There were several cliques, and I was part of the one that seemed more interested in music than in digital nonsense. I’m pretty sure the other cliques would say the same about themselves. It all came down to: *My taste is better than yours!*
 
-As per tradition in some Chinese tech companies, we had to work every other Sunday. but there wasn’t much to do — international offices that we work with all had full weekends, so everything slowed down on Sundays. I often found myself doing odd things to pass the time.
+As per tradition in some Chinese tech companies, we had to work every other Sunday. There wasn’t much to do — international offices that we work with all had full weekends, so everything slowed down on Sundays. I often found myself doing odd things to pass the time.
 
 One thing I particularly enjoyed was working with indie artists. If negotiation with major music labels feels like divorce proceedings, collaboration with indie artists feels like arranging a first date. I mainly work with Latin American indie artists. Most didn’t speak English, and often found themselves stuck in exploitative contracts with managers or record labels. Many had no idea who owned the rights to their music and had no control over their own social media accounts. Some lost access to their TikTok accounts and fans after falling out with their managers. I’d go out of my way to recover those accounts for them and sniff out shady figures lurking in their email chains.
 
-I later realised that despite my help, many artists would soon found themselves in the same situation again. I started to lose interest in these side quests — I’ve never been a fan or rogue-like games. I guess you can’t change someone’s trajectory if they’re not keen on steering themselves.
+I later realised that despite my help, many artists would soon found themselves in the same situation again. I started to lose interest in these side quests - I’ve never been a fan of rogue-like games. I guess you can’t change someone’s trajectory if they’re not keen on steering themselves.
 
-I also came to accept that I couldn’t be friends with everyone. I couldn’t get digital nonsense enthusiasts to prioritise music, nor could I change how certain people think. My team had many workstreams progressing in parallel, and people often disagreed with each other. It is still “in character” for me to try to win in these situations — but honestly, that’s too much effort for 15-second videos. 
+I also came to accept that I couldn’t be friends with everyone. I couldn’t get digital nonsense enthusiasts to prioritise music, nor could I change how certain people think. My team had many workstreams progressing in parallel, and both internal and external disagreements were common. It is still “in character” for me to try to win in these situations — but honestly, that’s too much effort for 15-second videos. 
 
-Every now and then we would receive a newsletter listing colleagues arrested for white-collar crime. The initial investigations were internal, usually lead by this guy who used to be a civil servant in the Anti-Corruption Bureau. I wished I could reach out to him and join his team; I’d be the perfect candidate for identifying suspicious activities through numbers. I once saw a colleague who was particularly annoying to work with reported on primetime TV for his crime, but the sum reported was nowhere near what I’d imagined. Boring. In the past few years, many members of the management at my parents' hospital were arrested for either bribery or corruption. The sums in my ex-colleagues’ cases were petty cash compared to theirs. 
+That being said, there was one thing that always got everyone entertained and excited: Every now and then we would receive a newsletter listing colleagues arrested for white-collar crime. The initial investigations were internal, usually led by this guy who used to be a civil servant in the Anti-Corruption Bureau. I always thought I should've reached out to him and joined his team; I could have been the perfect candidate for identifying suspicious activities through numbers. I once saw a colleague who was particularly annoying to work with reported on primetime TV for his crime, but the sum reported was nowhere near what I’d imagined. Boring. In the past few years, many members of the management at my parents' hospital were arrested for either bribery or corruption. The sums in my ex-colleagues’ cases were petty cash compared to theirs. 
 
-Imagine trying to win these colleagues over or trying to win against them, neither sounds particularly interesting. I cannot conclude that me and my friends have the most “correct” understanding of what is the best approach to work with music, as there are so many different parties and different priorities involved, but it’s worth mentioning that none of the people I enjoyed working with made the newsletters or primetime TV.
+Imagine trying to win these colleagues over or trying to win against them, neither sounds particularly interesting. I cannot conclude that me and my friends had the most “correct” understanding of how to work with music, as there were too many many stakeholders, each with their own priorities, but it’s worth mentioning that none of the people I enjoyed working with made the newsletters or appeared on primetime TV.
 
-I much prefer the work at law firms, at least at a junior level. When client come with concrete problems, we solve it; when there’s not much client work to do, we just do research, BD or just enjoy our lives. No client pays us to invent problems that don’t exist to make themselves look important — at least not at our rate.
+I much prefer the work at law firms, at least at a junior level. When clients come with concrete problems, we solve it; when there’s not much client work to do, we carry out research, BD or just enjoy our lives. No client pays us to invent problems that don’t exist to make themselves look important — at least not at our rate.
 
 I guess people’s choices are like the output of a function with a lot of variables. Our interactions with someone’s life are so minimal that trying to make an impact on others is like trying to alter the output of a function without changing any of the inputs, and most of those inputs aren’t even about the person’s intrinsic character — they are about the extrinsic context that sharped one’s life, and those often weigh more heavily than anything intrnsic.
 
-Tough. I like people who jitter around. There are more possibilities in people who are still trying to introduce new variables into their lives. Just like the alchemy of big data applications, dump as many variables as you can and there’s a good chance you will get something out of the furnance.
+Tough. I like people who jitter around. There are more possibilities in those still trying to introduce new variables into their lives. Just like the alchemy of big data applications, dump as many variables as you can, and there’s a good chance you will get some gold out of the furnance.
 
 I finally realised I couldn’t change my parents — I’d better try to live with the way they are. I tried to get closer to them and booked a trip to Tibet for Mum and me over the 2020 Chinese New Year holidays. I didn’t include Dad because his default was to never take annual leave as doing so would mean discharging all patients and stop admitting new ones. He would never do that. 
 
@@ -725,6 +731,10 @@ She was My flower that never bloomed.
 
 ### Update: May 31st, Evening
 
+After working Mexico, I came to the UK and did a master degree at LSE and, after completing some trainings courses, started to work as a trainee solicitor here. My life in the UK has been uneventful. I started (and pretty much finished) writing this during Easter 2025 after reading Mum’s messages, but wasn’t sure how to conclude it. 
 
+You may have noticed that the closer the timeline is to the present, the less detailed the content is. This was a pity, as during my time working in China, Mexico, and the UK, there are still lots of material relevant to the theme of this essay, though most of these materials are hearsay due to the growing distance between me and the Faraway Land.  
 
-![image-20250601034149444](/assets/blog/2025-05-31-faraway-land.assets/image-20250601034149444.png){: w="200"}
+Due to the recency of these events, unlike childhood memories, they are still relevant to my life and probably my work, and as such I cannot cover them at the level of details I would like and had to remove these episodes. I shared the first part of this essay via personal social media on the 26th April and have since been struggling to finish the last part of the essay. 
+
+![image-20250601034149444](/assets/blog/2025-05-31-faraway-land.assets/image-20250601034149444.png){: w="500"}
