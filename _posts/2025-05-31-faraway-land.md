@@ -727,4 +727,4 @@ She was My flower that never bloomed.
 
 
 
-![](/assets/blog/2025-05-31-faraway-land.assets/image-20250601034149444.png){: w="200"}
+![image-20250601034149444](/assets/blog/2025-05-31-faraway-land.assets/image-20250601034149444.png){: w="200"}
