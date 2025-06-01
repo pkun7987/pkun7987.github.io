@@ -601,7 +601,7 @@ I spent a few months wondering around Beijing, observing humans, and then got he
 
 > *I interpreted the heart shape romantically, for I was a romantic.*
 
-Before leaving for Mexico, I had a lot of life admin to sort, and I completed everything all in the few hours before my flight: I hired a van through an app and sent all my belongings to self-storage. I booked a cleaner - also via app - to handle the move-out process while I watched her livestream. I checked out with my landlord through an app as well. I even arranged a driver to deliver some of my plants to a high school friend who'd recently started working and mentioned she wanted to make friends with some greenery.
+Before leaving for Mexico, I had a lot of life admin to sort, and I completed everything all in the few hours before my flight: I hired a van through an app and sent all my belongings to self-storage. I booked a cleaner - also via app - to handle the move-out process while I watched her livestream. I checked out with my landlord through an app as well. I even arranged a driver to deliver some of my plants to a friend.
 
 Everything ran smoothly. It was the kind of efficiency you could only experience in China.
 
@@ -702,7 +702,7 @@ I’ve always had this strange feeling that My Flower’s condition depended les
 
 Soon after moving into the serviced apartment, I had to start the paperwork to transfer my residency from my hometown to Shanghai.
 
-“Residency/Hukou 户口” is a uniquely Chinese system. For me, it felt like an immigration visa system, but domestic. In mega cities like Beijing and Shanghai, only people with local residency are eligible for certain benefits. I qualified because I had graduated from a high-ranking university and had paid tax for the required duration. I didn’t need the status, but it made sense to apply. One requirement for the application was a proper residential address. The serviced apartment didn’t count - it was technically a hotel. So, I moved into a cheap one-bedroom flat in the suburbs. It had a real balcony, which meant I could finally keep plants properly.
+“Residency (Hukou/户口)” is a uniquely Chinese system. To me, it felt like a domestic immigration visa system. In megacities like Beijing and Shanghai, only people with local residency are eligible for certain activities such as registering for the One Shot locally and purchasing residential properties. I qualified because I had graduated from a university that met the ranking requirement and had paid taxes for the required duration. None of the benefits were particularly relevant to broke, single young professionals, but it made sense to apply. One requirement for the application was a proper residential address. The serviced apartment didn’t count - it was technically a hotel. So, I moved into a cheap one-bedroom flat in the suburbs. It was a newly built flat with a real balcony, and My Flower finally had the proper home she deserved.
 
 I didn’t get to live there long. TikTok restructured, and our whole team was transferred to Beijing.
 
@@ -710,37 +710,41 @@ My Flower thrived in Beijing for a while. Then life changed again - COVID hit, I
 
 I flew to Mexico shortly before Chinese New Year in 2021. It was January, and freezing. As I scrambled to tie up my relocation logistics, I realised the hardest part was figuring out what to do with the plants I’d collected over the years.
 
-I divided them into two large boxes. I thought about whom I could give them to. It couldn’t be my parents. By this time, the “tree of happiness” had been given away, and the rest of my parents’ plants had withered and died.
+I divided them into two large boxes and thought about whom I could give them to. It couldn’t be my parents. By this time, the “tree of happiness” had been given away, and the rest of my their plants had withered and died.
 
-I had two other options. One was my high school friend, a busy Big Law trainee who was always travelling but had once said she wanted to try keeping plants. The other was a guy from work who liked me. He’d never mentioned anything about plants, but he gave the impression that he’d be good with small creatures—flowers, cats, dogs. I had already made it clear I couldn’t return his feelings, so giving him my stuff felt inappropriate. 
+I had two other options. One was my high school friend, a busy Big Law trainee who was always travelling but had once said she wanted to make friends with some greenery. The other was a male colleague who liked me. He’d never mentioned anything about plants, but he gave the impression that he’d be good with small creatures—flowers, cats, dogs. I had already made it clear I couldn’t return his feelings, so giving him my stuff felt inappropriate. 
 
-In the end, I gave one of the boxes to my high school friend, I didn’t trust her to be particularly good with plants, but since it was impossible for My Flower to die, they would probably get on.
+In the end, I gave one of the boxes to my high school friend. I didn’t trust her to be particularly good with plants, but since  not even Mum could kill My Flower, I figured they would probably get on.
 
-I had to leave the other box with all my fertilisers, dressing stones, draining stones, and random gadgets for passersbys to pick up. I placed the box in the entrance area of my apartment building, where a bit of sunlight could leak through the door to warm the plants up. At the time, I was living on the sixth floor of a Soviet-style apartment building with no lifts. The neighbourhood was affiliated with the University of Agriculture, and the nearby supermarket used to sell all kinds of good-looking produce — supposedly someone’s doctorate thesis. I figured the box would end up in good hands and started to daydream about a retired professor taking good care of its contents.
+The other box, along with all my fertilisers, dressing stones, draining stones, and random gadgets, I had to leave for passersby to pick up. I placed the box in the entrance area of my apartment building, where a bit of sunlight could leak through the seams of the metal door to warm the plants up. At the time, I was living on the sixth floor of a Soviet-style apartment building with no lifts in neighbourhood affiliated with the University of Agriculture. There's a university supermarket nearby that used to sell all kinds of good-looking produce - supposedly someone’s doctorate thesis. I found myself daydreaming the box ending in good hands, a retired professor perhaps, taking meticulous care of its contents.
 
-Still, I was worried no one would want to take it — I had to see them ending up in good hands. I came up with this plan to leave the box on the ground floor and wait at the stairs above to listen for it anyone would pick it up. Didn’t know why I bothered, not that I can give them a home if no one wants them. 
+Still, I was worried no one would take it - I had to know what would happen to them. After leaving the box on the ground floor, I rushed upstairs to wait and listen for movements. Didn’t know why I bothered, not that I could still give them a home if no one wanted them. 
 
-I executed the first part quickly, partly because it was really cold on the stairs, partly because I didn’t want to be seen, for Beijing aunties are very chatty, and I didn’t feel like explaining why I was giving my plants away. It would make me sound pathetic. 
+I tried my best to run upstairs lightfooted, partly because it was really freezing, partly because I didn’t want to be seen. Beijing aunties are very chatty, and I didn’t want to explain to them why I was giving my plants away. It would make me sound pathetic. 
 
 *I am anything but pathetic.*
 
-Luckily, I didn’t even make it back to the sixth floor before an auntie from the second floor walked by. She exclaimed in excitement “wow, “free plants!” and adopted the whole box. 
+Luckily, I didn’t even make it back to the sixth floor before an auntie from the second floor walked by. She exclaimed with excitement, “Wow, free plants!” and adopted the whole box. 
 
-That was efficient, not in the way I expect Beijing to be, but efficient,
+That was efficient, not the kind of efficiency I expected from Beijing, but efficient nonetheless.
 
-As the delivery rider I hired picked up the box containing My Flower to go to my friend, for the first time during my series of relocation, I felt, sad. For I knew this was truly goodbye.
+As the delivery rider I hired picked up the other box - the one containing My Flower - to deliver to my friend, for the first time during my series of relocation, I felt, sad, because I knew this time, it was truly goodbye.
 
-And she seemed to have vanished from my mind.
+During all these life admin I was still working remotely for the Mexico role and dialing into meetings, by the time I had finished everything and got on a taxi to the airport, I was exhausted and sleep-deprived. Both my hands were covered in cuts and I got a stye so swollen I could barely open my eyes. Not a great look, but it didn't matter, for there was no one around. The airport was nearly empty, with only a handful of other passengers, all in hazmat suits. I was the only passenger just wearing a surgical mask.
 
-I made so many promises to her, none was kept. People often frawn upon empty promises, but I guess on the moment one promises forever, most do meant it. It on that moment they do picture eternity, but people hardly have any control over the present, not to mention future, or forever.
+The flight took off, and I fell into a deep slumber. As I closed my eyes, China vanished into the clouds, and My Flower vanished from my mind.
 
-Two years later, on a late autumn evening, while sitting in my studio in London, I was suddenly struck by a wave of sadness, and for the first time in two years, I thought about My Flower. It was an unsettling feeling. I immediately messaged my friend to ask if My Flower was still alive. There was no reply. Later, my friend said she’d have to check with her mum, for she had left the Beijing law firm and relocated to Shenzhen a thousand miles away south. My Flower was left behind, and taken back to our hometown by her mum with the rest of her belongings meant the a crisp winter of the north instead of the humid summer of the south.
+I had made so many promises to her, none were kept. People often write sad songs about empty promises, but I guess when someone promises forever, they are not trying to deceive - *in that moment*, they really do picture eternity. Unfortunately, people hardly have control over the present, let alone the future, or forever.
 
-A few months later, in January 2024, I followed up again, she told me My Flower had indeed died. I asked when. She wasn’t sure, her mum said it was “late last year”. 
+Two years later, on a late autumn evening, while cleaning small rental studio in London, I was suddenly struck by a wave of sadness, and for the first time in two years, I thought of My Flower. It was an unsettling feeling. I immediately messaged my friend, asking if My Flower was still alive. There was no reply. 
 
-I joked lightly “well I figured it must have been a goner by now”— and cried uncontrollably. I knew for me, home was no more.
+Weeks later, my friend said she’d have to check with her mum, for she had left the Beijing law firm and relocated to Shenzhen, a thousand miles away south. My Flower was left behind, and taken back to our hometown by her mum, along with the rest of her belongings - all meant for the a crisp winters of the north, not the humid summers of the south.
 
-She was My flower that never bloomed.
+A few months later, in January 2024, I followed up again. This time she gave me a definitive answer - My Flower had indeed died. I asked when. She wasn’t sure - her mum said it was “late last year”. 
+
+I joked lightly, “Well, I figured it must have been a goner by now” - and cried uncontrollably. I knew that for me, home was no more.
+
+She was my flower that never bloomed.
 
 ![1905684572](/assets/blog/2025-05-31-faraway-land.assets/1905684572.jpeg){: w="250"}
 _My Flower in High School_
@@ -752,11 +756,7 @@ _My Storage Unit in Beijing_
 
 ## Part 6 ⋆ Afterword
 
-### Update: May 31st, Evening
+### Update: 31 May, Evening
 
-After working Mexico, I came to the UK and did a master degree at LSE and, after completing some trainings courses, started to work as a trainee solicitor here. My life in the UK has been uneventful. I started (and pretty much finished) writing this during Easter 2025 after reading Mum’s messages, but wasn’t sure how to conclude it. 
 
-You may have noticed that the closer the timeline is to the present, the less detailed the content is. This was a pity, as during my time working in China, Mexico, and the UK, there are still some, if not more material relevant to the theme of this essay, though most of these materials are hearsay due to the growing distance between me and the Faraway Land.  
-
-Due to the recency of these events, unlike childhood memories, they are still relevant to my life and probably my work, and as such I cannot cover them at the level of details I would like and had to remove these episodes. I shared the first part of this essay via personal social media on the 26th April and have since been struggling to finish the last part of the essay. 
 
