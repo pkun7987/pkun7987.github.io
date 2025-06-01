@@ -57,11 +57,11 @@ img {
 }
 
 blockquote {
-  border-left: 0.125rem solid var(--blockquote-border-color);
+  border-left: 0.125rem solid var(#249D9F);
   padding-left: 1rem;
   color: var(--blockquote-text-color);
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 
   > p:last-child {
     margin-bottom: 0;
