@@ -737,6 +737,7 @@ _My Flower in High School_
 ![IMG_20210129_165355](/assets/blog/2025-05-31-faraway-land.assets/IMG_20210129_165355.jpg){: w="250"}
 _My Storage Unit in Beijing_
 
+
 ## Part 6 ⋆ Afterword
 
 ### Update: May 31st, Evening
@@ -746,5 +747,4 @@ After working Mexico, I came to the UK and did a master degree at LSE and, after
 You may have noticed that the closer the timeline is to the present, the less detailed the content is. This was a pity, as during my time working in China, Mexico, and the UK, there are still some, if not more material relevant to the theme of this essay, though most of these materials are hearsay due to the growing distance between me and the Faraway Land.  
 
 Due to the recency of these events, unlike childhood memories, they are still relevant to my life and probably my work, and as such I cannot cover them at the level of details I would like and had to remove these episodes. I shared the first part of this essay via personal social media on the 26th April and have since been struggling to finish the last part of the essay. 
-	
 
