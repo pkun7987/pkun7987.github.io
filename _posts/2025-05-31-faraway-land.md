@@ -702,19 +702,19 @@ My parents didn’t notice she went missing until they visited me in Shanghai a 
 
 I’ve always had this strange feeling that My Flower’s condition depended less on how I cared for her and more on how much I thought about her. My goal was to get her to bloom within two years. Judging by how she was growing, I really believed she could.
 
-![shbj](/assets/blog/2025-05-31-faraway-land.assets/shbj.jpg){: w="250"}
+![shbj](/assets/blog/2025-05-31-faraway-land.assets/shbj.jpg){: w="600"}
 _Train Ride: Shanghai to Home_
 
 ![home](/assets/blog/2025-05-31-faraway-land.assets/home.jpg){: w="250"}
 _Home_
 
-![bjsh](/assets/blog/2025-05-31-faraway-land.assets/bjsh.jpg){: w="250"}
+![bjsh](/assets/blog/2025-05-31-faraway-land.assets/bjsh.jpg){: w="600"}
 _Train Ride: Home to Shanghai_
 
 ![sh01](/assets/blog/2025-05-31-faraway-land.assets/sh01.jpg){: w="250"}
 _My Flower, Revived in Shanghai_
 
-![sh01_1](/assets/blog/2025-05-31-faraway-land.assets/sh01_1.jpg){: w="250"}
+![sh04](/assets/blog/2025-05-31-faraway-land.assets/sh04.jpg){: w="250"}
 _My Flower in Her New Pot_
 
 ![sh](/assets/blog/2025-05-31-faraway-land.assets/sh.jpg){: w="250"}
@@ -791,9 +791,9 @@ After Mexico, I came to the UK for a master’s at LSE and, following some train
 
 You may have noticed that the closer the timeline gets to the present, the less detailed the writing becomes. The story slowly shifts from tales of a Faraway Land into a mini-autobiography, which is not what I intended - I’m just a nobody, and my stories are supposed to be background only. 
 
-During my time working in China, Mexico, and the UK, there has been just as much - if not more - material relevant to my parents and the Faraway Land. Unfortunately, when I tried to return to the main storyline, I struggled to piece the fragments together. Unlike childhood memories, these recent events remain relevant to my life and probably my work.  I didn’t enjoy writing about them, and the language came out dull, probably due to my inability to narrate them from a detached distance. It didn’t help that the distance between me and the main stage and the main characters has grown. My relationship with my parents, especially Mum, got worse. We rarely text, if at all.
+During my time working in China, Mexico, and the UK, there has been just as much - if not more - material relevant to my parents and the Faraway Land. Unfortunately, when I tried to return to the main storyline, I struggled to piece the fragments together. Unlike childhood memories, these recent events remain relevant to my life and probably my work.  I didn’t enjoy writing about them, and the language came out dull, probably due to my inability to narrate them from a detached distance. It didn’t help that the distance between me and the main stage where the actions took place had grown. My relationship with my parents, especially Mum, got worse. We rarely text, if at all.
 
-I shared the first part of this essay on personal social media on 26 April; been working on it during weekends but still couldn't find a good story to wrap it up. Stalling is not a good feeling since I’d never written a real essay until my master’s and hadn't tried to improve my writing until I received the interview invite for this trainee solicitor job. As such, when writing, I always feel an urgent need to improve, and it’s not the best way to spend one’s weekend.
+I shared the first part of this essay on personal social media on 26 April; been working on it during weekends but still couldn't find a good story to wrap it up. Stalling is not a good feeling since I’d never written a real essay until my master’s and hadn't tried to improve my writing until I received the interview invite for this trainee solicitor job. As such, when writing, I always feel an urgent need to improve, and it’s not the best way to spend one’s weekends.
 
 On 27 May, while I was preparing a folder of documents for my supervisor, I noticed with frustration that my firm’s IT department had removed `cmd` access for cybersecurity reasons. I could no longer run a prompt I often used to speed up my admin tasks and save time for more interesting work. I picked up my phone, wanted to check with my friends on whether they agree there are significant risks associated with  `cmd`  , and just then, I received a call from a family friend.
 
@@ -837,7 +837,7 @@ I don’t mind if my parents divorce; I don’t mind if they stay together eithe
 
 This matter has consumed the last month of my life. An colleague work once told me the not-so-nice part of being a litigator is getting stuck on a case you don’t like, because once you’re looped in on a matter, it’s very difficult to get off, and this is EXACTLY my situation. I can't imagine sitting through a 30-day hearing on this case, but I’d feel even worse if it just got settled, with all my hours, days, even years spent on it leading to an anticlimactic end.
 
-I felt like I was happily sailing on the peaceful waters of the East Blue, and just as my ship was about to enter the Grand Line, I got sucked into a whirlpool and stranded near the Faraway Land and its familiar, muddy waters. Cannons fired from the Faraway Land are probably the only things in this world that can still scratch my hull. I was too full of myself - I thought I could drift into these waters and navigate my way out with ease, but I was, once again, humbled.
+I felt like I was happily sailing on the peaceful waters of the East Blue, and just as my ship was about to enter the Grand Line, I got sucked into a whirlpool and stranded near the Faraway Land and its familiar, muddy waters. Cannons fired from the Faraway Land are probably the only things in this world that can still scratch my hull, and last month, for the first time in years, an old itch crept upon me. I was too full of myself - I thought I could drift into these waters and navigate my way out with ease, but I was, once again, humbled.
 
 I guess it is time.
 
