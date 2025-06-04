@@ -59,6 +59,8 @@ So I wanted to write things down - before my robotic brain carries out its sched
 
 This content will probably be very boring to most. If you happened to stumble across it, feel free to read it as fiction rather than non-fiction - for real lives are no more planned than fictional ones. If our parents know each other, I guess there’s a reason we’ve stayed friends for this long, and I’d really appreciate it if you could please pretend you didn’t see this, for none of my rambling would be new to you anyway.
 
+------
+
 ### 1.2
 
  I grew up in a northern Chinese city. It’s in the province surrounding Beijing, but not Beijing. A friend from Beijing once summed up my hometown as the “Sin City” of China. As you will see later, this is somewhat accurate, but a more accurate description should be the “Beijing’s masturbation cup” -  credit to some random netizen. However, the discourse around the intercourse between Beijing and its neighbours, and the disposal of the capital’s bodily fluid shall not be the topic of this essay.
@@ -351,6 +353,8 @@ A few years later, drowning in depression over my dysfunctional relationship wit
 
 I agreed with everything Harry said  -  up until the comma, and that, weirdly, was the closest I’ve ever come to feeling completely understood. I was lucky that Harry was definitely not gay, because if he had been, I would’ve agreed with all of the above. I agreed so much that I blocked him. It wasn’t the right time to jump the train, and the last thing I needed was some cowboy swinging his lasso from the window.
 
+------
+
 ### 3.2
 
 Starting from high school, my life became a complete train wreck. I was constantly aware that I hadn’t made the top 50  -  and so were some of my classmates. I began panicking during exams, and to the quiet amusement of some, my grades were terrible. Luckily, the One Shot was no longer relevant to me: My parents, hardened by my long history of academic rebellion, had long accepted that I wouldn’t survive the One Shot. After visiting the UK and realising that I (back then) preferred wider roads and better weather, I decided to go to the US for university, and I’m forever grateful to my parents for providing the financial support. I later learned that many local American students didn’t have the same privilege.
@@ -408,6 +412,8 @@ Just like that, I conveniently got myself out of his head, and didn’t get to r
 Some of my friends in the programming team weren’t so lucky. They started focusing on the One Shot a little bit too late. It was unfair, they had simply discovered their passion a little bit earlier than others. People who did well in the One Shot would probably end up training as software engineers anyway.
 
 Not so convenient for me though, for he stayed on my mind for a few more years, but I had worse problems to worry about; that made things a little bit better.
+
+------
 
 ### 3.3
 
@@ -485,7 +491,7 @@ Years later, I realised I could actually be engaging and energetic at networking
 
 Academically, I never talked to professors unless I absolutely had to. I remember walking into one professor’s office to hand in a paper. He was very old and one of the top scholars in his field. As I was leaving, we had this conversation:
 
-**Professor:** Just wanted to let you know your program scored the best in class.
+**Professor:** Just wanted to let you know your program scored the highest in class.
 
 **Me(orally):** Oh.
 
@@ -525,7 +531,7 @@ I realised I wanted to see more seasons come and go. I wanted to feel the passag
 
 I graduated with two friends attending my ceremony and then realised I needed a job, so I spent the summer applying for jobs.  I admit I could’ve been more organised, but it didn’t seem like a problem - I’d never heard of any recent graduate having trouble finding work.
 
-I ruled out data science and software engineering careers after a research internship in my sophomore year. I did software engineering and data modelling. While I enjoyed building the project from scratch, every week spent improving and upgrading it felt dull. On the engineering side, I was building the software with only one other student and the modelling was entirely my work. I guess working in a larger team doing similar work will probably be even less fulfilling. 
+I ruled out data science and software engineering careers after a research internship in my sophomore year. I did software engineering and data modelling. While I enjoyed building the project from scratch, every week spent improving and upgrading it felt dull. On the engineering side, I was building the software with only one other student and the modelling was entirely my work. I guess working in a larger team doing similar work with less responsibility will probably be even less fulfilling. 
 
 I enjoy groundbreaking 0-to-1 work more than incremental 85-to-100 work, but 0-to-1 is very rare in modern STEM studies, especially at below-PhD level. Gone are the days when you can get hit by an apple and come up with something grand, and my stronger background in data science over natural science means the 85-to-100 work I can get my hands on is unlikely to push the boundary of science enough for me to find it exciting. 
 
@@ -548,6 +554,10 @@ A few days before returning to China, I informed my parents that I was no longer
 I also told my parents that I had mental health issues and was experiencing physical symptoms. This wasn’t true - by that summer, I had already overcome the physical symptoms I was aware of, but I still said so, just to give them a reason to leave me alone. 
 
 This led to the episode I mentioned earlier, where I was sent to a psychiatric hospital - not for depression, but for no longer wanting to study. I later learned that depression can cause irreversible organic changes in the brain, including, among other things, hippocampal atrophy, which may affect cognitive ability. I don’t want to find out whether I’ve been affected. If I were, I wasn’t aware. 
+
+Before I started working, the three of us went on a family trip for some team building. I was hopeful, but from the very first day, I knew it was futile. While driving our rental car, Dad nearly ran a red light. I joked that my flatmate at university did the same thing the day she got her licence. Mum said, “Your flatmate must be a useless piece of trash. If she weren’t, she wouldn’t be your flatmate. (你室友就是个废物，不是废物也不至于和你做室友。)"
+
+The bonding was still a success overall — because I didn’t respond to any of her countless remarks.
 
 ------
 
@@ -595,7 +605,7 @@ I refused to go home for Chinese New Year, even though it was just a little over
 
 The day Wuhan went into lockdown was the last working day before the holidays. Everyone had left early. By dinnertime, only one of my managers - who was also from my hometown - and I were still in the office. He saw me working late and asked if it was because I couldn’t get a train ticket. I said I’d had an argument with Mum. He thought that was a terrible reason not to go home and offered a lift. I refused.
 
-He was shocked. He used to refer to me an “emotionless robot” at work - and meant it as a compliment. I guess he didn’t expect me to have such strong opinions on anything. He gave up. I was lucky that my manager was a man because a woman would've definitely stuffed into the car like a sack of New Year shopping. Making sure everyone gets to go home for this 7-day holiday is every Chinese person's duty, there is no such thing as "meddling in others' business" on this matter.
+He was shocked. He used to refer to me an “emotionless robot” at work - and meant it as a compliment. I guess he didn’t expect me to have such strong opinions on anything. He gave up. I was lucky that my manager was a man because a woman would've definitely stuffed me into the car like a sack of New Year shopping. Making sure everyone gets to go home for this 7-day holiday is every Chinese person's duty, there is no such thing as "meddling in others' business" on this matter.
 
 That turned out to be a good call - a lifesaving one. Visiting home for Chinese New Year would’ve meant quarantining with my parents. Many statistics showed that there was a surge in divorce rates across the world during the pandemic; I suspect it’s because people were spending too much time together. One couldn’t divorce one’s parents, so I guess my only exit would have to be the window. We lived in a typical Chinese high rise, and there was quite a way down. I knew I had hard-coded that I must try to live, but in some situations, like being trapped in a burning building, options can be very limited.
 
@@ -603,7 +613,7 @@ During COVID, my work responsibilities headed to an unexpected direction, and it
 
 The recent developments in GenAI is exciting, but I just don’t see how it can create loads of new jobs, and those who can work in GenAI would have landed a good job pre-GenAI anyway. Many products labelled as AI are either just a repackaging of existing models, or a basic computer software rebranded as AI in PPTs to attract investors.
 
-Around the same time, long after leaving university, I started getting curious about things again and wanted to go to graduate school. This time, I wanted to make sure I’d be in a big city, and actually live there, not just breathe. Unfortunately, everywhere was still teaching remotely, and I didn’t know what else to do. I did sign up for a weekend master’s at Renmin University majoring in International Politics, but the purpose was mainly to see what the kind of people attended and what the syllabus looked like. I didn’t complete this degree.
+Around the same time, long after leaving university, I started getting curious about things again and wanted to go to graduate school. This time, I wanted to make sure I’d be in a big city, and actually live there, not just breathe. Unfortunately, everywhere was still teaching remotely, and I didn’t know what else to do. I did sign up for a weekend master’s at Renmin University majoring in International Politics, but the purpose was mainly to see what kind of people attended and what the syllabus looked like. I didn’t complete this degree.
 
 I spent a few months wondering around Beijing, observing humans, and then got headhunted for a very random opportunity to work for a Chinese company in Mexico. It was a chance to work with a type of Chinese I had never personally dealt with before, and it would be valuable insight. So, after working remotely in Beijing for a few months, shortly before Chinese New Year 2021, off to Mexico I went.
 
@@ -817,13 +827,15 @@ I didn’t intervene. I’m not the kind of person who messes with other people�
 
 The “cooling-off” period is a relatively new provision introduced to reduce impulsive divorces and help address China’s declining birth rate. When I first heard about its introduction and the rationale behind it, I thought whoever came up with it must have been an evil genius who'd read too many poorly written dramas. I never expected it to be relevant to me.
 
-The next day, there was no update - just Dad sharing a photo of a giant liver hemangioma he’d removed, and Mum forwarding viral TikTok videos, usually of someone complaining about life and other people, or teaching you how you should be wary of others. I often look at Dad’s photos closely but never click on Mum’s videos. I assume the process concluded uneventfully. I do feel bad for their friends, though. They used to be able to call one of my parents and get medical advice from two departments. Now it’s just one advice per call. 
+The next day, there was no update - just Dad sharing a photo of a giant liver hemangioma he’d removed, and Mum forwarding viral TikTok videos, usually of someone complaining about life or others, or teaching you not to trust anyone, which has always been her attitude towards every single one of my friends. I often look at Dad’s photos closely but never click on Mum’s videos. I assume the process concluded uneventfully. I do feel bad for their friends, though. They used to be able to call one of my parents and get medical advice from two departments. Now it’s just one advice per call. 
 
 I guess this fictional story has now reached its end. 
 
 For me it’s a relief. I feel ungrateful saying this, but I no longer want anything to do with the Faraway Land - at least not until I can recount its stories with full detachment, like an AI analysing a closed case.
 
 I’ve always enjoyed travelling around East Asia but haven’t got a chance to do so as extensively as I wished. It felt wrong to fly all the way to another Asian country or other parts of China without going home first. That meant every travel plan had to be built around a visit I never wanted. Each time, I’d bring back a few documents or childhood items of personal value, as I couldn’t shake the feeling that one day I would no longer be able to convince myself to return. Last Christmas, I took my Chinese driver’s licence - the final item I needed. With home dissolved, anchor gone, I suppose I’ll be drifting to some unfamiliar waters.
+
+------
 
 ###  Update - 1 June 2025
 
