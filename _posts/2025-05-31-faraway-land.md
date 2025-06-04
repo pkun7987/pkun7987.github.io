@@ -755,7 +755,7 @@ _My Storage Unit in Beijing_
 
 ## Part 6 ⋆ Afterword
 
-### Update: 31 May 2025
+### Update - 31 May 2025
 
 After working Mexico, I came to the UK and did a master degree at LSE and, after completing some trainings courses, After Mexico, I came to the UK for a master’s at LSE and, following some training courses, started working as a trainee solicitor. My life in the UK has been uneventful. Life here has been uneventful. I started (and mostly finished) writing this during Easter 2025 after reading Mum’s messages but wasn’t sure how to conclude it.
 
@@ -779,7 +779,7 @@ For me it’s a relief. I feel ungrateful saying this, but I no longer want anyt
 
 I’ve always enjoyed travelling around East Asia but haven’t got a chance to do so as extensively as I wished. It felt wrong to fly all the way to another Asian country or other parts of China without going home first. That meant every travel plan had to be built around a visit I never wanted. Each time, I’d bring back a few documents or childhood items of personal value, preparing for the potential situation where I could never return. preparing for the day I might never return. Last Christmas, I took my Chinese driver’s licence — the final item I needed. With home dissolved, anchor gone, I suppose I’ll be drifting to some unfamiliar waters.
 
-###  Update 1 June 2025
+###  Update - 1 June 2025
 
 I started to receive queries from people about the status of my parents. For some reason, they all assume I have a clear answer and should be responsible for keeping everyone updated. I guess they know I’m the only member of this family who will at least give them a corporate smile emoji rather than just tell them to fuck off, which is what my parents usually do.
 
