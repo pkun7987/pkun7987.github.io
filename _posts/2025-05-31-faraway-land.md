@@ -730,7 +730,7 @@ That was efficient, not the kind of efficiency I expected from Beijing, but effi
 
 As the delivery rider I hired picked up the other box - the one containing My Flower - to deliver to my friend, for the first time during my series of relocation, I felt, sad, because I knew this time, it was truly goodbye.
 
-During all these life admin I was still working remotely for the Mexico role and dialing into meetings, by the time I had finished everything and got on a taxi to the airport, I was exhausted and sleep-deprived. Both my hands were covered in cuts and I got a stye so swollen I could barely open my eyes. Not a great look, but it didn't matter, for there was no one around. The airport was nearly empty, with only a handful of other passengers, all in hazmat suits. I was the only passenger just wearing a surgical mask.
+During all these life admin I was still working remotely for the Mexico role and dialing into meetings, by the time I had finished everything and got on a taxi to the airport, I was exhausted and sleep-deprived. Both my hands were covered in cuts and I got a stye so swollen I could barely open my eyes. Not a great look, but it didn't matter, for there was no one  else around. The airport was nearly empty, with only a handful of other passengers, all in hazmat suits. I was the only passenger just wearing a surgical mask.
 
 The flight took off, and I fell into a deep slumber. As I closed my eyes, China vanished into the clouds, and My Flower vanished from my mind.
 
@@ -747,7 +747,6 @@ I joked lightly, “Well, I figured it must have been a goner by now” - and cr
 She was my flower that never bloomed.
 
 ![1905684572](/assets/blog/2025-05-31-faraway-land.assets/1905684572.jpeg){: w="250"}
-_My Flower in High School_
 
 <br>
 ![20210129165355](/assets/blog/2025-05-31-faraway-land.assets/20210129165355.jpg){: w="250"}
@@ -756,7 +755,61 @@ _My Storage Unit in Beijing_
 
 ## Part 6 ⋆ Afterword
 
-### Update: 31 May, Evening
+### Update: 31 May 2025
+
+After working Mexico, I came to the UK and did a master degree at LSE and, after completing some trainings courses, After Mexico, I came to the UK for a master’s at LSE and, following some training courses, started working as a trainee solicitor. My life in the UK has been uneventful. Life here has been uneventful. I started (and mostly finished) writing this during Easter 2025 after reading Mum’s messages but wasn’t sure how to conclude it.
+
+You may have noticed that the closer the timeline gets to the present, the less detailed the writing becomes. The story slowly shifts from tales of a Faraway Land into a mini-autobiography, which is not what I intended as I’m just a nobody. It’s a shame, because during my time working in China, Mexico, and the UK, there has been just as much, if not more, material relevant to my parents and the Faraway Land. Unfortunately, putting these stories together has been challenging due to the growing distance between me and the environment that made me. My relationship with my parents, especially Mum, has deteriorated further. We rarely text, if at all.
+
+Unlike childhood memories, these recent events remain relevant to my life and probably my work. I didn’t enjoy covering them and the language was dull, probably due to my inability to narrate them from a detached distance. I shared the first part of this essay on personal social media on 26 April; been working on it during weekends but have stalled on finishing it. Stalling is not a good feeling since I’ve never written a real essay until my master’s and have never tried to improve my writing until I received the interview invite for my current job. As such, when writing, I always feel an urgent need to improve, and it’s not the best way to spend one’s weekend.
+
+On 27 May, while I was preparing a folder of documents for my supervisor, I noticed with frustration that my firm’s IT department has removed cmd access for everyone for cyber security reasons, and I can no longer use a prompt I often used to make my admin task faster and save me time for more interesting tasks. I opened my phone, wanted to find someone to rant, then received this urgent call from a family friend. No one ever calls me. Last time I received an unscheduled call was months ago, from the FCA, in relation to a draft prospectus we submitted. I knew something must have happened.
+
+The family friend told me my parents had filed for divorce on 28 April. After a one-month statutory “cooling-off” period. Their divorce would be finalised on 28 May.
+
+The “cooling-off” period is a new provision introduced to reduce impulsive divorces and improve China’s declining birth rate. When I first heard this, I just thought whoever that came up with this must have been an evil genius who’ve written too much poorly written drama. I never expected it to be relevant to me.
+
+The friend desperately begged me to intervene as she believed both my parents would regret it. I didn’t. I’m not the kind of person who messes with other people’s karmic entanglements. I simply messaged in our family group chat to say I’d been informed.
+
+The next day, there was no update - just Dad sharing a photo of a giant liver hemangioma he’d removed, and Mum forwarding TikTok viral videos. I often look at Dad’s photos closely but never click on Mum’s videos. I assume the process concluded uneventfully. I do feel bad for their friends, though. They used to be able to call one of my parents and get medical advice from two departments. Now it’s just one advice per call. 
+
+I guess this fictional story has now reached its end. 
+
+For me it’s a relief. I feel ungrateful saying this, but I no longer want anything to do with the Faraway Land - at least not until I can recount its stories with full detachment, like an AI analysing a closed case.
+
+I’ve always enjoyed travelling around East Asia but haven’t got a chance to do so as extensively as I wished. It felt wrong to fly all the way to another Asian country or other parts of China without going home first. That meant every travel plan had to be built around a visit I never wanted. Each time, I’d bring back a few documents or childhood items of personal value, preparing for the potential situation where I could never return. preparing for the day I might never return. Last Christmas, I took my Chinese driver’s licence — the final item I needed. With home dissolved, anchor gone, I suppose I’ll be drifting to some unfamiliar waters.
+
+###  Update 1 June 2025
+
+I started to receive queries from people about the status of my parents. For some reason, they all assume I have a clear answer and should be responsible for keeping everyone updated. I guess they know I’m the only member of this family who will at least give them a corporate smile emoji rather than just tell them to fuck off, which is what my parents usually do.
+
+After persistent questions from family friends, I messaged in our group chat: “You guys still married or not?”
+
+Mum replied: "The divorce certificate’s been issued, but your dad’s too busy to pick it up."
+
+*What does that even mean?*
+
+For the first time in my life, I looked up the Civil Code of the People’s Republic of China and found:
+
+> **Article 1077**: Within 30 days from the date on which the marriage registration authority receives an application for divorce registration, either party may withdraw the application by notifying the authority.
+>
+> Within 30 days following the expiration of the aforementioned period, both parties shall apply in person to the marriage registration authority for the issuance of a divorce certificate; failure to do so shall be deemed a withdrawal of the divorce registration application.
+
+TLDR: so the calm down period is 60 days, not 30 days. 
+
+I feel sorry for those whose lives have been so messy that not even divorces can be clean.
+
+I don’t mind if my parents divorce; I don’t mind if they stay together either, but this in-between status … is not good. It has turned into a George R. R. Martin situation. I wouldn’t mind watching a comet hit Westeros or fast-forwarding the last few episodes of a long TV show, but I need closure.
+
+This matter has consumed the last month of my life. An colleague work once told me the not-so-nice part of being a litigator is getting stuck on a case you don’t like, because once you’re looped in on a matter, it’s very difficult to get off, and this is EXACTLY my situation. I can't imagine sitting through a 30-day hearing on this case, but I’d feel even worse if it just got settled, with all my hours, days, even years spent on it leading to an anticlimactic end.
+
+I felt like I was happily sailing on the peaceful waters of the East Blue, and just as my ship was about to enter the Grand Line, I got sucked into a whirlpool and stranded near the Faraway Land and its familiar, muddy waters. Cannons fired from the Faraway Land are probably the only things in this world that can still scratch my hull. I was too full of myself - I thought I could drift into these waters and navigate my way out with ease, but I was, once again, humbled.
+
+I guess it is time.
+
+Full Ahead.
+
+ 
 
 
 
