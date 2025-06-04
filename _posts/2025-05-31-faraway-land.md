@@ -17,6 +17,8 @@ Typora-root-url: ../../pkun7987.github.io
 
 > *They had to be fast, for there were always others.*
 
+------
+
 ### 1.1
 
 Just to be clear, both my parents are still alive - provided Dad’s not drunk enough to have fallen asleep on the street somewhere and frozen, and Mum’s not getting a heart attack from it, which has happened before. Considering the pleasant spring all over our northern hemisphere, I guess fatality is unlikely, so all good!
@@ -141,10 +143,13 @@ When I was around eleven, I started noticing China’s Great Firewall being depl
 
 After much exploration, I felt gaming was still the way to go (unfortunately, this isn’t one of those stories where the main character taught themselves to code and became a hacking prodigy) - and, much to Mum’s disappointment, I naturally became the first and so far the only person in the extended family to need prescription glasses.
 
+------
+
 ## Part 2 ⋆ Off Script
 
 > *Another Sisyphean effort, I suppose.*
 
+------
 ### 2.1
 
 My childhood was largely carefree until I was around eleven or twelve. By then, both my parents had become overworked senior doctors, especially Dad. I don’t think Dad ever had a proper weekend off; he was always up by 6:30 to do his ward rounds. He specialises in a field where patients are often in very serious condition - and sometimes, they don’t make it. His own father died from a disease he specialised in, during the first year he qualified. A grandpa I’d never met. I heard he’s quite sensible. Good to know.
@@ -227,6 +232,8 @@ I felt she violated the wholesome image of the female gender, and briefly consid
 
 I wish them happily ever after.
 
+------
+
 ### 2.2
 
 My parents didn’t divorce, I guess they stayed together for the same old reason “for the kid”. I was in secondary school at the time. As I said, I only agreed to go because Mum threatened my organs would go to waste otherwise. This happened on the first day of class - but before that, we had this orientation week which involved a group bootcamp customary in every Chinese state school called the “military training”. This was essentially just boy/girl scout drills, where we marched in formation under the scorching sun; so let’s just rebrand it as the Scorch Scout (SS).
@@ -295,10 +302,13 @@ At the time we first spoke, I had no idea that Gakki was the kind of girl who fo
 
 She was just a pretty girl who smiled.
 
+------
+
 ## Part 3 ⋆ Edge Case
 
 > *If you dare run, we could hang out.*
 
+------
 ### 3.1
 
 In Year 8, I began self-study Year 9 material. I’d just learned that the best high school in my hometown ran a selective STEM program admitting 50 local and 50 non-local students through a challenging exam. Roughly 7 or 8 students from my secondary school’s cohort of over 1,000 make it each year. If I got in, I could skip Year 9 and bypass the City Exam to go straight to high school. Grade/year skipping is not uncommon in China. Many people did it in primary school, but it had never crossed my mind until the pain of dealing with Pliers started to outweigh the joy of making new friends in the ladies’ toilet.
@@ -463,10 +473,13 @@ I received a physical offer pack sometime later and found a hardback book enclos
 
 This book is still sitting on our bathroom counter collecting dust, as no one bothered to take care of the home for the past 10 years. It’s no longer my home, so I would leave it where it is. I couldn’t recall anything from the video or the book  -  only that it was positive. I thought, *This is it. This is my ticket out of here.* At the time, it really did feel that way, though I later realised there is no ticket in life. You just have to move your own ass.
 
+------
+
 ## Part 4 ⋆ Full Mental Alchemist
 
 > *If every component crashes, this code must still execute.*
 
+------
 ### 4.1
 
 University was a massive improvement from high school, in the sense that I was no longer under the immediate threat of being butchered, but I guess once you’ve been a domesticated animal, it’s hard to ever gallop freely again. After all, the whole point of domestication is to eliminate the prospect of rewilding.
@@ -617,10 +630,14 @@ Around the same time, long after leaving university, I started getting curious a
 
 I spent a few months wondering around Beijing, observing humans, and then got headhunted for a very random opportunity to work for a Chinese company in Mexico. It was a chance to work with a type of Chinese I had never personally dealt with before, and it would be valuable insight. So, after working remotely in Beijing for a few months, shortly before Chinese New Year 2021, off to Mexico I went.
 
+------
+
 ## Part 5 ⋆ My Flower
+
 
 > *I nevertheless interpreted the heart shape romantically, for I was a romantic.*
 
+------
 Before leaving for Mexico, I had a lot of life admin to sort, and I managed to tick everything off in the few hours before my flight: I hired a van through an app and sent all my belongings to self-storage. I booked a cleaner - also via app - to handle the move-out process while I watched her livestream. I checked out with my landlord through an app as well. I even arranged a driver to deliver some of my plants to a friend.
 
 Everything ran smoothly. It was the kind of efficiency you could only experience in China.
@@ -799,6 +816,8 @@ _My Plants, on the Move_
 _My Flower at My Friend’s (I’d been too busy - she wasn’t in great shape - my last photo of her)_
 
 
+
+------
 ## Part 6 ⋆ Afterword (It's All Rambling From Here)
 
 ### Update - 31 May 2025
