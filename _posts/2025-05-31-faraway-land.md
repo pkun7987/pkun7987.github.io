@@ -546,7 +546,9 @@ I graduated with two friends attending my ceremony and then realised I needed a 
 
 I ruled out data science and software engineering careers after a research internship in my sophomore year. I did software engineering and data modelling. While I enjoyed building the project from scratch, every week spent improving and upgrading it felt dull. On the engineering side, I was building the software with only one other student and the modelling was entirely my work. I guess working in a larger team doing similar work with less responsibility will probably be even less fulfilling. 
 
-I enjoy groundbreaking 0-to-1 work more than incremental 85-to-100 work, but 0-to-1 is very rare in modern STEM studies, especially at below-PhD level. Gone are the days when you can get hit by an apple and come up with something grand, and my stronger background in data science over natural science means the 85-to-100 work I can get my hands on is unlikely to push the boundary of science enough for me to find it exciting. 
+I enjoy groundbreaking 0-to-1 work more than incremental 85-to-100 work, but 0-to-1 is very rare in modern STEM studies, especially at below-PhD level. Gone are the days when you can get hit by an apple and come up with something grand*, and my stronger background in data science over natural science means the 85-to-100 work I can get my hands on is unlikely to push the boundary of science enough for me to find it exciting. 
+
+`*Update 09 June: I recently came across Patrick Collison’s earlier comments on the slowing pace of scientific discovery. I share this concern, and wish I had encountered his views sooner, as I’ve recently felt a growing anxiety over the incremental nature of scientific progress. This frustration has made me more uncertain about what I want to pursue in the future. I’ve yet to explore his further thoughts on treating science as a system that can be improved.`
 
 To be fair, data science is applicable in virtually any research field, and I’d definitely recommend it as a university major. Everyone can dump big data into a furnace and hope the alchemy spits out a new drug, a new cosmological theory, or a lucrative trade.
 
