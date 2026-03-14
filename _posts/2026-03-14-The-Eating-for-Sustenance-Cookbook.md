@@ -71,8 +71,7 @@ If you want precision, eating for sustenance is not for you. Although it is prob
 
 `Named it New Year sandwich given I had it for the last consecutive Chinese New Year eves. Live Laugh Love Law.`
 
-![eggsando](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/eggsando.jpg){: w="400"}
-_New Year Eve Egg Sandwich_
+
 
 ------
 
@@ -248,8 +247,6 @@ _Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子_
 
 - I added Greek yoghurt in the picture below but it is unnecessary.
 
-![shuka](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/shuka.jpg){: w="250"}
-_Fakeshouka_
 
 
 ------
