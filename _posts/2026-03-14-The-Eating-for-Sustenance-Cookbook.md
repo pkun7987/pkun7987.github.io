@@ -15,7 +15,7 @@ Typora-root-url: ../../pkun7987.github.io
 
 ## 📖 ⋆ Foreword
 
-Welcome to the Eating for Sustenance Cookbook. Please ask yourself why you unnecessarily tumbled upon this page. This is a recipe blog from a lazy person who lost their zest for life long ago but still feels a lingering obligation to respect the opportunity of being alive. As such, cooking is essential. This cookbook may be amended and restated from time to time.
+Welcome to the Eating for Sustenance Cookbook. Please ask yourself why you unnecessarily stumbled upon this page when there are so many interesting things to do. This is a recipe blog from a lazy person who lost their zest for life long ago but still feels a lingering obligation to respect the opportunity of being alive. As such, cooking is essential. This cookbook may be amended and restated from time to time.
 
 
 <div style="text-align: center;">
@@ -29,7 +29,7 @@ Welcome to the Eating for Sustenance Cookbook. Please ask yourself why you unnec
 
 I have always been a self-proclaimed good cook (to the extent that a Chinese vegetarian can cook). I became a vegetarian during my undergraduate years. I graze (now) and photosynthesise (before moving to the UK), but in my freshman year I was still a carnivore. I remember making Coca-Cola chicken in the shared kitchen in my dorm building. The chicken was okay, but I had some leftover sauce that I did not want to waste, so I cooked it with leftover beef from my friend. Oh lord, it did not taste good. That remains the only kitchen disaster in the 27 glorious years I have lived so far.
 
-The residential assistant saw me cooking and insisted on trying it despite my warning. She tried the beef and said it was good. Then came the 2016 Year of the Monkey celebration, when the RA invited every Chinese student to cook for our dorm social except me. Ehhh, why cannot people just be honest with me?
+The residential assistant saw me cooking and insisted on trying it despite my word of caution. She tried the beef and said it was good. Then came the 2016 Year of the Monkey celebration, when the RA invited every Chinese student to cook for our dorm social except me. Ehhh, why cannot people just be honest with me?
 
 I cannot explain why I wanted to be a vegetarian. I woke up in my little dorm bed one day, the idea suddenly struck me, and I decided to go with it. I have never missed meat since. Long before that, however, I had already stopped eating fish.
 
@@ -41,19 +41,17 @@ The carp was too big for a family of three, so my dad took the carp to my friend
 
 People sometimes ask me why I am vegetarian. It is easy to answer this question in China because I can always say I am Buddhist. Once I gave this answer to a British friend and they asked, *What is Buddhism?* My brain went completely blank and I stopped bringing up Buddhism to people.
 
-There are many Chinese ladies who are vegetarian and Buddhist. Among my mum’s friends, these are women with lots of free time and the luxury of having everyone accommodate them. No one accommodates me, which is expected. When people do want to accommodate someone, however, they can go to great lengths.
+There are many Chinese women who are vegetarian and Buddhist. Among my mum’s friends, these tend to be women with plenty of free time and the luxury of having everyone accommodate them. I am not treated like a rich lady. People usually accommodate me by adding vegetables to meat dishes (although as I have aged people have become visibly more receptive) or going to fancy vegetarian places serving fake meat. I am not a fan, but it is acceptable. At regular Chinese restaurants, when someone is kind enough to inform the chefs of my dietary requirements, the disappointment on the staff’s faces is difficult to ignore, and I often wish they can just ignore me. When people do decide to accommodate someone of high status, however, they can go to great lengths.
 
 My mum and her friends used to study under a Tibetan Buddhist guru who sometimes visited the east side of China to raise funds for his institute in Seda, Sichuan. His wealthy followers would often become competitive, trying to get him to sit in their cars so their cars could be blessed.
 
-The guru followed the strictest Han Buddhist commandments despite being Tibetan. He did not eat strong spices such as garlic. So whichever restaurant he went to, it took twice as long to serve food because certain pre-made ingredients, such as dumpling fillings, could not be used. Everyone was happy to starve and wait for him patiently.
+The guru followed the strictest Han Buddhist commandments despite being Tibetan. He did not eat strong spices such as garlic*. So whichever restaurant he went to, it took twice as long to serve food because certain pre-made ingredients, such as dumpling fillings, could not be used. Everyone was happy to starve and wait.
 
 `*There are mixed theories on why Chinese Buddhist monks are not allowed to eat strong spices. The most popular ones are: (1) spices make you horny; and (2) spices make you smell bad, which is inconvenient for monks who often live in communal dorms. I am largely indifferent to this, as I have always been too lazy to procure spices.`
 
 I am no guru. My mum once went on a hunger strike against me, trying to get me to eat meat. She was unsuccessful. 
 
-Who would have thought Kun who refused to be a mummy's girl would later become a corporate bitch. When I returned to China for my first full-time job, my team went to a team-building session at a very expensive Japanese all-you-can-eat restaurant. Everyone ordered sashimi. I had stir-fried udon. My team was very upset with me for wasting the team budget.
-
-While I was at that job, I ate at the office canteen every day. Since in a Chinese canteen vegetables are always considered an accessory, and I cannot wear an accessory alone, I reverted to eating meat. I became vegetarian again after moving to the UK.
+Who would have thought Kun who refused to be a mummy's girl would later become a corporate bitch. When I returned to China for my first full-time job, my team went to a team-building session at a very expensive Japanese all-you-can-eat restaurant. Everyone ordered sashimi. I had stir-fried udon. My team was very upset with me for wasting the team budget. While I was at that job, I ate at the office canteen every day. Since in a Chinese canteen vegetables are always considered an accessory, and I cannot wear an accessory alone, I reverted to eating meat. I became vegetarian again after moving to the UK.
 
 The key principles for my cooking are:
 (i) use as few pans as possible;
@@ -139,7 +137,8 @@ _Thai Curry_
 
 ## 🏮 ⋆ Xi'an Noodles
 
-![xian](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/xian.jpeg){: w="400"}
+![xian2](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/xian2.jpeg){: w="400"}
+
 _Xi'an Noodles_
 
 **What:** 
@@ -159,7 +158,7 @@ _Xi'an Noodles_
 
 ------
 
-## 🌶️ ⋆ Sweet Chili BBQ Sauce
+## 🌶️ ⋆ Sweet Chilli BBQ Sauce
 
 ![sweetchi](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.jpeg){: w="400"}
 _Sweet Chili BBQ Sauce_
@@ -177,7 +176,7 @@ _Sweet Chili BBQ Sauce_
 
 - Same method as the Xi'an noodles: pour hot oil onto the seasonings.
 
-`Replacing Chinese chili with Korean gochujang and reducing vinegar gives a Korean taste. You can make Korean rice-cake stir-fry from it. Thinly sliced onion is a must.`
+`Replacing Chinese chilli with Korean gochujang and reducing vinegar gives a Korean taste. You can make Korean rice-cake stir-fry from it. Thinly sliced onion is a must.`
 
 <div style="text-align: center;">
   <video src="/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.mov"
@@ -192,7 +191,7 @@ _Sweet Chili BBQ Sauce_
 ## 😍 ⋆ Cheap Imitation Tianjin Crepe / Jianbing 低仿煎饼果子
 
 ![jianbingman](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/jianbingman.jpeg){: w="400"}
-_Jianbing Outside My Primary School_
+_Jianbing Outside My Primary School; looks a bit messy; I know_
 
 **What:** 
 
@@ -205,7 +204,7 @@ _Jianbing Outside My Primary School_
 - Ingredients are a bit hard to get. This is more nostalgia cooking than eating-for-sustenance cooking.
 - Tianjin Crepe/Jianbing originates in Tianjin but is widely available across China. Most are not authentic because Jianbing is supposed to be made with mung bean flour. You can see an example [here:](https://www.youtube.com/shorts/JNV_PZ1MVDM)
 - If there is one food I truly miss, it would be the Jianbing cart outside my primary school, run by an auntie-uncle couple. It is the taste of my childhood. As I was often late for school, they usually allowed me to jump the queue, except when their daughter wanted a Jianbing. Auntie usually covered the morning shift. During the countless times I queued there, I would sometimes see uncle come down from their apartment building, walk up to the cart and shout, “Daughter wants a Jianbing!” I have never actually seen the daughter.
-- When I was studying or working abroad, I would visit the Jianbing cart once a year whenever I came home. Sometime after I started working, the daughter became a mother, and the uncle and auntie, now grandpa and grandma, retired to take care of the child. They still live within a five-minute walk of my primary school and where my parents work, yet I have never run into them again, and probably never will. I have tried Jianbing in most major cities in China, but so far they have all been sub-par.
+- When I was studying or working abroad, I would visit the Jianbing cart once a year whenever I came home. Sometime after I started working, the daughter became a mother, and the uncle and auntie, now grandpa and grandma, retired to take care of the child. They still live within a five-minute walk of my primary school and where my parents work, yet I haven’t run into them again, and probably never will. I have tried Jianbing in most major cities in China, but so far they have all been sub-par.
 
 **How:** 
 
@@ -241,17 +240,17 @@ _Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子_
 - Mix with salted self-rising flour dough, shape into balls (actually you can just use a spoon to scoop up the mixture and drop into frying oil directly), and deep fry. If you cannot make a ball with a spoon, your dough is too soft, should've added less water. You can still make a pancake.
 - I forgot whether I added eggs, but if I did it would be no more than one and probably does not matter much.
 
-`Self-rising flour gives the finished product a fluffy texture. I do not know what Chinese cooks usually use, but whatever magic they have, self-rising flour works well enough.`
+`Self-rising flour gives the finished product a fluffy texture. I do not know what Chinese chefs usually use, but whatever magic they have, self-rising flour works well enough.`
 
 `This is a Beijing classic. The authentic version is more complicated, but when I served this to a friend they said it tasted exactly like their childhood. Unfortunately it is time-consuming to prepare thin strips and not practical to deep fry for one person. Better enjoyed with friends. Might experiment with an air fryer someday.`
 
 
 ------
 
-## 🍅 ⋆ Fakeshouka
+## 🍅 ⋆ Fakeshuka
 
 ![shouka](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/shouka.jpeg){: w="400"}
-_Fakeshouka_
+_Fakeshuka_
 
 **What:** 
 
@@ -262,7 +261,7 @@ _Fakeshouka_
 **How:** 
 
 - Boil veg with canned tomato. Add eggs and cook covered. Add salt and pepper.
-- I added Greek yoghurt in the picture below but it is unnecessary.
+- I added Greek yoghurt in the picture above but it is unnecessary.
 
 ------
 

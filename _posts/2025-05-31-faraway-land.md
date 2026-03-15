@@ -2,7 +2,7 @@
 title: Mum, Dad, and Fictions about a Faraway Land
 date: 2025-05-30 10:55:00 +0000
 categories: [Blogging, Writing]
-tags: [china]
+tags: [China]
 toc: true
 pin: true
 math: true
@@ -35,7 +35,7 @@ The parties are, obviously, my parents, who went to university together and have
 
 The dispute is that the previous head of Dad’s department had retired, and the hospital organised a “democratic” vote to select a replacement. Dad won by an overwhelming majority, but management gave the position to another senior doctor with less experience - probably because his wife holds an important position in the local government.
 
-After that senior doctor was promoted, he started trying to isolate Dad. Another department with the same specialisation saw this opportunity and invited Dad to join them. Dad wanted to go, but a senior hospital manager – the “Party Secretary” –refused to approve the paperwork.
+After that senior doctor was promoted, he started trying to isolate Dad. Another department with the same specialisation saw this opportunity and invited Dad to join them. Dad wanted to go, but a senior hospital manager – the “Party Secretary” – refused to approve the paperwork.
 
 Please don’t ask me what a Party Secretary is, because I don’t know (and gladly so). For me, it’s like a management position every public Chinese entity has. It’s like the head of the organisation, but affiliated more with the Party than with the actual organisation. A lot of Chinese people, including me, can’t seem to fathom whether the head or the Party Secretary is supposed to be an organisation’s “number one”, and I believe this lack of understanding has cost a lot of people dearly. I’ve wisely positioned myself where I don’t have to understand that question too well (and proudly so).
 
@@ -65,7 +65,7 @@ This content will probably be very boring to most. If you happened to stumble ac
 
 ### 1.2
 
-I grew up in a northern Chinese city. It’s in the province surrounding Beijing, but not Beijing. A friend from Beijing once summed up my hometown as the “Sin City” of China. As you will see later, this is somewhat accurate, but a more accurate description should be the “Beijing’s masturbation cup” – credit to some random netizen. However, the discourse around the intercourse between Beijing and its neighbours, and the disposal of the capital’s bodily fluid shall not be the topic of this essay.
+I grew up in a northern Chinese city. It’s in the province surrounding Beijing, but not Beijing. A friend from Beijing once summed up my hometown as the “Sin City” of China. As you will see later, this is somewhat accurate, but a more accurate description should be “Beijing’s masturbation cup” – credit to some random netizen. However, the discourse around the intercourse between Beijing and its neighbours, and the disposal of the capital’s bodily fluid shall not be the topic of this essay.
 
 My hometown is not a shithole per se, but many would agree it’s shitty. If you search the city’s name on YouTube in Mandarin, every result will be about a few girls getting publicly beaten up by hooligans for refusing their advances. When I last visited home, this incident was a hot topic at dinner tables, for people were excited that we “went viral”. Most were very interested in whether the girls worked at nightclubs, and if so, which one. No one seemed to care much about the actual beating. People here are very used to incidents, but not to going viral, because news can’t really get out of this town, and probing eyes can’t get in.
 
@@ -125,11 +125,9 @@ Anyway, Mum and Dad got married. Soon after settling down, they produced an extr
 
 As a result, raising me was a huge task. Things got worse in 2003, when SARS – the Covid before Covid-19 – broke out. Doctors were drafted to work in designated SARS quarantine hospitals, and families were only allowed to visit by peeking through the bars into the hospital grounds. Normally, married doctors with kids were drafted last, but I guess Dad volunteered.
 
-Daycares were closed during SARS, and Mum really struggled to juggle childcare with a full-time medical job. Lucky for her, I had this classmate from daycare (let’s call him Boy Kun or BK, for he’s also a Kun); his grandma heard about our situation and kindly offered to take care of me. As a result, I started spending my entire days at BK’s grandma’s place playing with BK. I didn’t enjoy it at all – BK was stronger and would bully me. He particularly enjoyed tricking me onto a seesaw. He’d start playing normally at first, then after realising he weighed more, he’d jump up and down violently, smashing me on the metal seesaw and enjoying my inability to get off.
+Daycares were closed during SARS, and Mum really struggled to juggle childcare with a full-time medical job. Lucky for her, I had this classmate from daycare (let’s call him Boy Kun or BK, for he’s also a Kun); his grandma heard about our situation and kindly offered to take care of me. As a result, I started spending my entire days at BK’s grandma’s place playing with BK. I didn’t enjoy it at all – BK was stronger and would bully me. He particularly enjoyed tricking me onto a seesaw. He’d start playing normally at first, then after realising he weighed more, he’d jump up and down violently, smashing me on the metal seesaw and enjoying my inability to get off. When no adults were around, BK was aware that I was a girl and he was a boy, and wanted to explore that distinction. Fortunately for me, he was too stupid to figure out how or was physically unable. Nothing material happened beyond the fact that I had to remain on high alert whenever BK’s grandma went out to buy groceries and left us alone at home.
 
-BK’s parents were business owners. After work, they’d come to the grandma’s place for dinner. In my opinion, BK’s parents’ parenting workload was child’s play. Unlike my parents, they outsourced everything to the grandma. All they seemed to do was give him a good spanking after I cried and complained about his bullying. Mum was really sorry that I brought this upon BK, but BK seemed to be Captain China material – he could do this all day and just resume bullying me the next morning, so I guess it didn’t really trouble him.
-
-Sometimes I thought he was stupid, but he really wasn’t. He never did it when adults were watching.
+BK’s parents were business owners. After work, they’d come to the grandma’s place for dinner. In my opinion, BK’s parents’ parenting workload was child’s play. Unlike my parents, they outsourced everything to the grandma. All they seemed to do was give him a good spanking after I cried and complained about his bullying. Mum was really sorry that I brought this upon BK, but BK seemed to be Captain China material – he could do this all day and just resume bullying me the next morning, so I guess it didn’t really trouble him. BK was generally well behaved when adults were watching. When he had done something seriously wrong, I usually had some part in it as well. In hindsight, it is probably fair to say that we had an enjoyable childhood.
 
 I’m still friends with BK today. He’s doing a pure math PhD in the US. Quite a nice character. At one point in my life, I really didn’t want to be his friend anymore – not after what he did to me – but then I realised BK doesn’t even remember any of our daycare classmates (except those who later went to school with him), so he probably doesn’t remember how he “played” with me either. There’s no point in holding a grudge that meant nothing to the person who caused it.
 
@@ -258,7 +256,7 @@ Kun enters.
 
 Unfortunately, since I lost the argument about not going to school, I had to go – and was late on the first day of class. I sat at the last available desk, the one crammed against the broom and bin cupboard at the front of the classroom. Due to the awkward shape of the cupboard, the desk and chair were jammed so close together that only someone skinny could squeeze in. I got moved to a regular seat soon after, since the bin seat with reduced legroom actually cost extra – it was close to the podium, right under the teacher’s nose.
 
-My secondary school ran a seating rotation system: every week, we had to move one row forward or sideways for a “fair opportunity” to sit closer to the teacher, but if someone’s parents were willing to pay our class head teacher the “seat selection fee”, they would be excluded from the rotation and secure that bin seat permanently. Naturally, I didn’t get to retain my first-class bin seat for free. We later nicknamed the teacher Pliers, for she really enjoyed pinching and bruising students. I was spared from this as I was too skinny to be squishy.
+My secondary school ran a seating rotation system: every week, we had to move one seat forward or sideways for a “fair opportunity” to sit closer to the teacher, but if someone’s parents were willing to pay our class head teacher the “seat selection fee”, they would be excluded from the rotation and secure that bin seat permanently. Naturally, I didn’t get to retain my first-class bin seat for free. We later nicknamed the teacher Pliers, for she really enjoyed pinching and bruising students. I was spared from this as I was too skinny to be squishy.
 
 Though flying economy on a crowded flight captained by Pliers, who had disliked me since day one, I enjoyed school. After everything that happened, with my parents arguing and despising each other but not divorcing, home felt like a delayed train full of crying babies and screaming Karens. Imagine sitting on this train, would you try to calm your fellow passengers? Probably not, for you knew this would be a lost cause. When the nuisance was really getting to you, the Karens putting their stinky feet on your tray table, the babies pouring drinks on your newly polished boots and freshly pressed suit, would you try to fight it? Maybe yes, and then you would still lose and regret that you tried. It was poor luck that you ended up in this situation, and you must patiently wait for a good escape window to open up.
 
@@ -361,7 +359,7 @@ A few years later, drowning in depression over my dysfunctional relationship wit
 
 “You just need to get used to disappointing them and run away from them. If you dare run, we could hang out.”
 
-I agreed with everything Harry said - up until the comma, and that, weirdly, was the closest I’ve ever come to feeling completely understood. I was lucky that Harry was definitely not gay, because if he had been, I would’ve agreed with all of the above. I agreed so much that I blocked him. It wasn’t the right time to jump the train, and the last thing I needed was some cowboy swinging his lasso from the window.
+I agreed with everything Harry said – up until the comma, and that, weirdly, was the closest I’ve ever come to feeling completely understood. I was lucky that Harry was definitely not gay, because if he had been, I would’ve agreed with all of the above. I agreed so much that I blocked him. It wasn’t the right time to jump the train, and the last thing I needed was some cowboy swinging his lasso from the window.
 
 ------
 
@@ -622,7 +620,7 @@ The day Wuhan went into lockdown was the last working day before the holidays. E
 
 He was shocked. He used to refer to me an “emotionless robot” at work – and meant it as a compliment. I guess he didn’t expect me to have such strong opinions on anything. He gave up. I was lucky that my manager was a man because a woman would've definitely stuffed me into the car like a sack of New Year shopping. Making sure everyone gets to go home for this 7-day holiday is every Chinese person's duty, there is no such thing as "meddling in others' business" on this matter.
 
-That turned out to be a good call – a lifesaving one. Visiting home for Chinese New Year would’ve meant quarantining with my parents. Many statistics showed that there was a surge in divorce rates across the world during the pandemic; I suspect it’s because people were spending too much time together. One couldn’t divorce one’s parents, so I guess my only exit would have to be the window. We lived in a typical Chinese high rise, and there was quite a way down. I knew I had hard-coded that I must try to live, but in some situations, like being trapped in a burning building, options can be very limited.
+That turned out to be a good call – a lifesaving one. Visiting home for Chinese New Year would’ve meant quarantining with my parents. Many statistics showed that there was a surge in divorce rates across the world during the pandemic; I suspect it’s because people were spending too much time together. One couldn’t divorce one’s parents, so I guess my only exit would have to be the window. We lived in a typical Chinese high-rise, and there was quite a way down. I knew I had hard-coded that I must try to live, but in some situations, like being trapped in a burning building, options can be very limited.
 
 During COVID, my work responsibilities headed to an unexpected direction, and it was no longer my thing. To be fair, my work had always been chaotic, yet fascinating. This was the era of China's tech industry's exponential growth, a one-time-only opportunity where everyone could get something out of it. Soon, the industry will enter an era of market saturation and incremental gains, one more user for you means one less user for me. I doubt this kind of growth will ever return, and young people may never again experience the excitement of breaking new ground in primordial chaos, at least not before the next industrial revolution.
 
@@ -703,7 +701,7 @@ I remember holding her in my hands, looking closely. She didn’t look how I rem
 
 Shanghai really wasn’t the best place for plant revival – especially in winter. Unlike my hometown in northern China, Shanghai was in the south and didn’t have central heating. Around January, right before Chinese New Year, there was a long stretch of cold, rainy days. My flat didn’t get much sun. When I returned to Shanghai, two of my previously healthy plants had died – one probably from the cold, and the other from root rot due to trapped moisture. That one was a succulent. It must have died very quickly, because when it died, all its leaves were still bright green – like summer. I didn’t notice it was dead at first, but when I touched it, everything above the root just fell off. On the surface, it looked like it was holding on. Inside, it was long gone.
 
-At the time, I was renting an old, run-down flat – one Mum had picked for me. I could’ve found a place myself, but she didn’t trust me and didn't want me to "waste time" flat-hunting. I wasn’t in Shanghai when the lease was signed, and she hadn’t viewed the flat carefully either. She was told it was “old”, but the location was very good.
+At the time, I was renting an old, run-down flat – one Mum had picked for me. I could’ve found a place myself, but she didn’t trust me and didn't want me to “waste time” flat-hunting. I wasn’t in Shanghai when the lease was signed, and she hadn’t viewed the flat carefully either. She was told it was “old”, but the location was very good.
 
 Mum’s idea of “old” was nothing like Shanghai old. Fifty years ago, an earthquake obliterated almost every building in my hometnwn, so people there had long forgotten what a genuinely old building looked like.
 
@@ -846,7 +844,7 @@ She went quiet for a few seconds, then returned to stressing that it was my resp
 
 I didn’t intervene. I’m not the kind of person who messes with other people’s karmic entanglements. I simply messaged in our family group chat to say I’d been informed. 
 
-The “cooling-off” period is a relatively new provision introduced to reduce impulsive divorces and help address China’s declining birth rate. When I first heard about its introduction and the rationale behind it, I thought whoever came up with it must have been an evil genius who'd read too many poorly written dramas. I never expected it to be relevant to me.
+The “cooling-off” period is a relatively new provision introduced to reduce impulsive divorces and help address China’s declining birth rate. When I first heard about its introduction and the rationale behind it, I thought whoever came up with it must have been an evil genius who’d read too many poorly written dramas. I never expected it to be relevant to me.
 
 The next day, there was no update – just Dad sharing a photo of a giant liver hemangioma he’d removed, and Mum forwarding viral TikTok videos, usually of someone complaining about life or others, or teaching you not to trust anyone, which has always been her attitude towards every single one of my friends. I often look at Dad’s photos closely but never click on Mum’s videos. I assume the process concluded uneventfully. I do feel bad for their friends, though. They used to be able to call one of my parents and get medical advice from two departments. Now it’s just one advice per call. 
 
@@ -854,7 +852,7 @@ I guess this fictional story has now reached its end.
 
 For me it’s a relief. I feel ungrateful saying this, but I no longer want anything to do with the Faraway Land – at least not until I can recount its stories with full detachment, like an AI analysing a closed case.
 
-I’ve always enjoyed travelling around East Asia but haven’t got a chance to do so as extensively as I wished. It felt wrong to fly all the way to another Asian country or other parts of China without going home first. That meant every travel plan had to be built around a visit I never wanted. Each time, I’d bring back a few documents or childhood items of personal value, as I couldn’t shake the feeling that one day I would no longer be able to convince myself to return. Last Christmas, I took my Chinese driver’s license – the final item I needed. With home dissolved, anchor gone, I suppose I’ll be drifting to some unfamiliar waters.
+I’ve always enjoyed travelling around East Asia but haven’t got a chance to do so as extensively as I wished. It felt wrong to fly all the way to another Asian country or other parts of China without going home first. That meant every travel plan had to be built around a visit I never wanted. Each time, I’d take a few documents or childhood items of personal value, as I couldn’t shake the feeling that one day I would no longer be able to convince myself to return. Last Christmas, I took my Chinese driver’s license – the final item I needed. With home dissolved, anchor gone, I suppose I’ll be drifting to some unfamiliar waters.
 
 ------
 
@@ -892,16 +890,15 @@ Full Ahead.
 
 Today is my 27th birthday.
 
-Birthday celebrations haven't been a thing in my family since I left daycare, but it's an important event nonetheless, because on this day, my parents' and their friends will send me some red packets via Wechat, which will be my entire year's budget for shopping on Chinese sites. I try my best to act cute and say nice things after clicking on the red packets. I even saved many cute gifs on Wechat solely for this purpose because I just don't know how to act cute. I made huge progress this year and found something to say – I asked a close family friend whether my parents picked up the divorce certificate in the end. 
+Birthday celebrations haven't been a thing in my family since I left daycare, but it's an important event nonetheless, because on this day, my parents’ and their friends will send me some red packets via Wechat, which will be my entire year’s budget for shopping on Chinese sites. I try my best to act cute and say nice things after clicking on the red packets. I even saved many cute gifs on Wechat solely for this purpose because I just don't know how to act cute. I made huge progress this year and found something to say – I asked a close family friend whether my parents picked up the divorce certificate in the end. 
 
 The answer was negative – it turns out they didn't have the balls or the tits after all.
 
-The family friend clearly told my parents that I was concerned, because Mum soon messaged in our group chat to say there's no need for me to worry about them. "Married or not," she said, "our life is the same; your dad is just as stubborn and paranoid as usual." Then she followed up with another long string of ranting messages about Dad. I didn’t read them.
+The family friend clearly told my parents that I was concerned, because Mum soon messaged in our group chat to say there’s no need for me to worry about them. “Married or not,” she said, “our life is the same; your dad is just as stubborn and paranoid as usual.” Then she followed up with another long string of ranting messages about Dad. I didn’t read them.
 
 The whole thing just felt boring and embarrassing. It’s like telling everyone you’ve got an offer from a reputable law firm, only for people to find out it’s just for an insight day. Worse still, you then decide to write a lengthy Linkedin post about how transformative the insight day was. And this essay has turned into my Linkedin post.
 
 I could’ve told my parents I wasn’t “worried about them”, that I just wanted the information for completeness, but I guess one sign of turning a year older is learning what not to say.
- 
 
 
 
