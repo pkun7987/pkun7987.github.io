@@ -21,7 +21,7 @@ Welcome to the Eating for Sustenance Cookbook. Please ask yourself why you unnec
 <div style="text-align: center;">
   <video src="/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/7447.mov"
          controls
-         style="max-width:400px;">
+         style="max-width:300px;">
   </video>
 </div>
 
@@ -37,7 +37,7 @@ I used to eat everything as a child. Then when I was nine, I went on a fishing t
 
 The place where we were fishing was a designated fishing spot. Most fish do not get to grow old there. I can almost hear the carp complaining: *I've made it this far. How can it possibly end like this?*
 
-The carp was too big for a family of three, so my dad took the fish to my friend’s grandma’s place to process. I did not see her kill the fish, but I saw her packaging the finished product into several takeaway boxes. I stopped eating seafood after that.
+The carp was too big for a family of three, so my dad took the carp to my friend’s grandma’s place to process. I did not see her kill the carp, but I saw her packaging the finished product into several takeaway boxes. I stopped eating seafood after that.
 
 People sometimes ask me why I am vegetarian. It is easy to answer this question in China because I can always say I am Buddhist. Once I gave this answer to a British friend and they asked, *What is Buddhism?* My brain went completely blank and I stopped bringing up Buddhism to people.
 
@@ -46,6 +46,8 @@ There are many Chinese ladies who are vegetarian and Buddhist. Among my mum’s 
 My mum and her friends used to study under a Tibetan Buddhist guru who sometimes visited the east side of China to raise funds for his institute in Seda, Sichuan. His wealthy followers would often become competitive, trying to get him to sit in their cars so their cars could be blessed.
 
 The guru followed the strictest Han Buddhist commandments despite being Tibetan. He did not eat strong spices such as garlic. So whichever restaurant he went to, it took twice as long to serve food because certain pre-made ingredients, such as dumpling fillings, could not be used. Everyone was happy to starve and wait for him patiently.
+
+`*There are mixed theories on why Chinese Buddhist monks are not allowed to eat strong spices. The most popular ones are: (1) spices make you horny; and (2) spices make you smell bad, which is inconvenient for monks who often live in communal dorms. I am largely indifferent to this, as I have always been too lazy to procure spices.`
 
 I am no guru. My mum once went on a hunger strike against me, trying to get me to eat meat. She was unsuccessful. 
 
@@ -71,6 +73,9 @@ If you want precision, eating for sustenance is not for you. Although it is prob
 
 ## 🥪 ⋆ New Year Eve Egg Sandwich
 
+![eggsando](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/eggsando.jpeg){: w="400"}
+_New Year Eve Egg Sandwich_
+
 **What & How** 
 
 - See image below. Add salt and pepper.
@@ -79,14 +84,16 @@ If you want precision, eating for sustenance is not for you. Although it is prob
 
 - It's fast.
 
-`Named it New Year sandwich given I had it for the last consecutive Chinese New Year eves.`
+`Named it New Year sandwich given I had it for the last two Chinese New Year eves.`
 
-![eggsando](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/eggsando.jpeg){: w="400"}
-_New Year Eve Egg Sandwich_
+`I had never had an egg sandwich before moving to the UK, and I was inspired by one of the country's finest offerings: the meal deal. Egg mayo and egg watercress sandwiches are my only go-to meal deal options, and they inspired me to create this simpler version at home.`
 
 ------
 
 ## 🍚 ⋆ Rice for One
+
+![rice](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/rice.jpeg){: w="400"}
+_Rice for One_
 
 **What:** 
 
@@ -99,12 +106,12 @@ _New Year Eve Egg Sandwich_
 
 `You can put your bowl in a watered pan directly, removing the need for a steamer. However, your bowl will tap dance in the pan and damage any nonstick surface.`
 
-![rice](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/rice.jpeg){: w="400"}
-_Rice for One_
-
 ------
 
 ## 🍛 ⋆ Thai Curry (to go with Rice for One)
+
+![curry](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/curry.jpeg){: w="400"}
+_Thai Curry_
 
 **What:** 
 
@@ -126,14 +133,14 @@ _Rice for One_
 
 `You can replace rice with Udon or other noodles.`
 
-`I've recently developed feelings for frozen vegetables. They are good companions when you work long hours and cannot finish the fresh food in your fridge in time. My usual dinner is microwave baby potatoes and frozen veg, mixed with soy sauce and chilli oil. Mum and Dad would be proud. Frozen veg mostly taste okay except broccoli, which can be soggy, but if you are eating for sustenance that should not be an issue.`
-
-![curry](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/curry.jpeg){: w="400"}
-_Thai Curry_
+`I've recently developed feelings for frozen vegetables. They are good companions when you work long hours and cannot finish the fresh food in your fridge in time. My usual dinner is microwave baby potatoes and frozen veg, mixed with soy sauce and chilli oil. Mum and dad would be proud. Frozen veg mostly taste okay except broccoli, which can be soggy, but if you are eating for sustenance that should not be an issue.`
 
 ------
 
 ## 🏮 ⋆ Xi'an Noodles
+
+![xian](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/xian.jpeg){: w="400"}
+_Xi'an Noodles_
 
 **What:** 
 
@@ -145,17 +152,17 @@ _Thai Curry_
 **How:** 
 
 - Boil veg and noodles, then drain.
-- Add chilli flakes, soy sauce, and vinegar on top of the drained noodles. People often add garlic, but I do not. I think garlic stinks.
+- Add chilli flakes, soy sauce, and vinegar on top of the drained noodles. People often add garlic, but I don't like the smell.
 - Heat some oil (a few spoonfuls) and pour it over the condiments. You should hear a sizzling sound. That sound is key. If there is no sizzling sound, keep heating the oil.
 
 `Hand-pulled Xi'an noodles are not hard to make. I've tried at home but ended up with flour all over my hair...`
 
-![xian](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/xian.jpeg){: w="400"}
-_Xi'an Noodles_
-
 ------
 
 ## 🌶️ ⋆ Sweet Chili BBQ Sauce
+
+![sweetchi](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.jpeg){: w="400"}
+_Sweet Chili BBQ Sauce_
 
 **What:** 
 
@@ -172,9 +179,6 @@ _Xi'an Noodles_
 
 `Replacing Chinese chili with Korean gochujang and reducing vinegar gives a Korean taste. You can make Korean rice-cake stir-fry from it. Thinly sliced onion is a must.`
 
-![sweetchi](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.jpeg){: w="400"}
-_Sweet Chili BBQ Sauce_
-
 <div style="text-align: center;">
   <video src="/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.mov"
          controls
@@ -187,6 +191,9 @@ _Sweet Chili BBQ Sauce_
 
 ## 😍 ⋆ Cheap Imitation Tianjin Crepe / Jianbing 低仿煎饼果子
 
+![jianbingman](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/jianbingman.jpeg){: w="400"}
+_Jianbing Outside My Primary School_
+
 **What:** 
 
 - Mung beans
@@ -196,7 +203,7 @@ _Sweet Chili BBQ Sauce_
 - Yorkshire pudding
 - Egg
 - Ingredients are a bit hard to get. This is more nostalgia cooking than eating-for-sustenance cooking.
-- Tianjin Crepe/Jianbing originates in Tianjin but is widely available across China. Most are not authentic because Jianbing is supposed to be made with mung bean flour. You can see an example here: https://www.youtube.com/shorts/JNV_PZ1MVDM
+- Tianjin Crepe/Jianbing originates in Tianjin but is widely available across China. Most are not authentic because Jianbing is supposed to be made with mung bean flour. You can see an example [here:](https://www.youtube.com/shorts/JNV_PZ1MVDM)
 - If there is one food I truly miss, it would be the Jianbing cart outside my primary school, run by an auntie-uncle couple. It is the taste of my childhood. As I was often late for school, they usually allowed me to jump the queue, except when their daughter wanted a Jianbing. Auntie usually covered the morning shift. During the countless times I queued there, I would sometimes see uncle come down from their apartment building, walk up to the cart and shout, “Daughter wants a Jianbing!” I have never actually seen the daughter.
 - When I was studying or working abroad, I would visit the Jianbing cart once a year whenever I came home. Sometime after I started working, the daughter became a mother, and the uncle and auntie, now grandpa and grandma, retired to take care of the child. They still live within a five-minute walk of my primary school and where my parents work, yet I have never run into them again, and probably never will. I have tried Jianbing in most major cities in China, but so far they have all been sub-par.
 
@@ -211,18 +218,16 @@ _Sweet Chili BBQ Sauce_
 `The product in the picture includes only one Yorkshire pudding because I could not fold both in.`
 
 
-
 ![jianbing](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/jianbing.jpeg){: w="400"}
 _Cheap Imitation Jianbing_
-
-
-![jianbingman](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/jianbingman.jpeg){: w="400"}
-_Jianbing Outside My Primary School_
 
 
 ------
 
 ## 🥕 ⋆ Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子
+
+![ball](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/ball.jpeg){: w="400"}
+_Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子_
 
 **What:** 
 
@@ -241,13 +246,12 @@ _Jianbing Outside My Primary School_
 `This is a Beijing classic. The authentic version is more complicated, but when I served this to a friend they said it tasted exactly like their childhood. Unfortunately it is time-consuming to prepare thin strips and not practical to deep fry for one person. Better enjoyed with friends. Might experiment with an air fryer someday.`
 
 
-
-![ball](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/ball.jpeg){: w="400"}
-_Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子_
-
 ------
 
 ## 🍅 ⋆ Fakeshouka
+
+![shouka](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/shouka.jpeg){: w="400"}
+_Fakeshouka_
 
 **What:** 
 
@@ -260,13 +264,12 @@ _Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子_
 - Boil veg with canned tomato. Add eggs and cook covered. Add salt and pepper.
 - I added Greek yoghurt in the picture below but it is unnecessary.
 
-![shouka](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/shouka.jpeg){: w="400"}
-_Fakeshouka_
-
-
 ------
 
 ## 🔥 ⋆ Kimchi Fried Rice
+
+![kim](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/kim.jpeg){: w="400"}
+_Kimchi Fried Rice_
 
 **What:** 
 
@@ -282,6 +285,3 @@ _Fakeshouka_
 - Seaweed flakes should be added at the end, not during the stir-fry.
 
 `Do not stir-fry with gochujang only. It will be too dry and too spicy. Mixing gochujang with honey might taste great, though I have never tried.`
-
-![kim](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/kim.jpeg){: w="400"}
-_Kimchi Fried Rice_
