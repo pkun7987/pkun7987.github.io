@@ -17,6 +17,15 @@ Typora-root-url: ../../pkun7987.github.io
 
 Welcome to the Eating for Sustenance Cookbook. Please ask yourself why you unnecessarily tumbled upon this page. This is a recipe blog from a lazy person who lost their zest for life long ago but still feels a lingering obligation to respect the opportunity of being alive. As such, cooking is essential. This cookbook may be amended and restated from time to time.
 
+
+<div style="text-align: center;">
+  <video src="/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/7447.mov"
+         controls
+         style="max-width:400px;">
+  </video>
+</div>
+
+
 I have always been a self-proclaimed good cook, to the extent that a Chinese vegetarian can cook. I became a vegetarian during my undergraduate years. I graze (now) and photosynthesise (before moving to the UK), but in my freshman year I was still a carnivore. I remember making Coca-Cola chicken in the shared kitchen in my dorm building. The chicken was okay, but I had some leftover sauce that I did not want to waste, so I cooked it with leftover beef from my friend. Oh lord, it did not taste good. That remains the only kitchen disaster in the 27 glorious years I have lived so far.
 
 The residential assistant saw me cooking and insisted on trying it despite my warning. She tried the beef and said it was good. Then came the 2016 Year of the Monkey celebration, when the RA invited every Chinese person to cook except me. Ehhh, why cannot people just be honest with me?
@@ -69,9 +78,10 @@ If you want precision, eating for sustenance is not for you. Although it is prob
 
 - It's fast.
 
-`Named it New Year sandwich given I had it for the last consecutive Chinese New Year eves. Live Laugh Love Law.`
+`Named it New Year sandwich given I had it for the last consecutive Chinese New Year eves.
 
-
+![eggsando](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/eggsando.jpeg){: w="400"}
+_New Year Eve Egg Sandwich_
 
 ------
 
@@ -88,7 +98,7 @@ If you want precision, eating for sustenance is not for you. Although it is prob
 
 `You can put your bowl in a watered pan directly, removing the need for a steamer. However, your bowl will tap dance in the pan and damage any nonstick surface.`
 
-![rice](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/rice.jpg){: w="400"}
+![rice](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/rice.jpeg){: w="400"}
 _Rice for One_
 
 ------
@@ -107,7 +117,6 @@ _Rice for One_
 - Add oil and stir-fry the curry paste (start with the size of a small egg, you can always add more later).
 - Add coconut milk and bring to a boil with some water (no more water than coconut milk).
 - Add veg/protein either during the stir-fry or during the boil, depending on how easily they cook.
-
 - If you want the curry to taste a bit Vietnamese, add a spoonful of peanut butter. I tried peanuty curry at the Vietnamese place near LSE and loved it.
 
 `Coconut milk can be annoying. It usually requires a can opener and is not single-person friendly. However, you can freeze it in ice cubes. For me, each can of coconut milk makes six single-serving curry dishes.`
@@ -118,7 +127,7 @@ _Rice for One_
 
 `I've recently developed feelings for frozen vegetables. They are good companions when you work long hours and can consume fresh food very slowly. My usual dinner is microwave baby potatoes and frozen veg, mixed with soy sauce and chilli oil. Mum and Dad would be proud. Frozen veg mostly taste okay except broccoli, which can be soggy, but if you are eating for sustenance that should not be an issue.`
 
-![curry](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/curry.jpg){: w="400"}
+![curry](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/curry.jpeg){: w="400"}
 _Thai Curry_
 
 ------
@@ -140,7 +149,7 @@ _Thai Curry_
 
 `Hand-pulled Xi'an noodles are not hard to make. I've tried at home but ended up with flour all over my hair and gave up.`
 
-![xian](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/xian.heic){: w="250"}
+![xian](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/xian.jpeg){: w="400"}
 _Xi'an Noodles_
 
 ------
@@ -162,12 +171,16 @@ _Xi'an Noodles_
 
 `Replacing Chinese chilli with Korean gochujang and reducing vinegar gives a Korean taste. You can make Korean rice-cake stir-fry from it. Thinly sliced onion is a must.`
 
-![sweetchi](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.jpg){: w="250"}
+![sweetchi](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.jpeg){: w="400"}
 _Sweet Chili BBQ Sauce_
 
+<div style="text-align: center;">
+  <video src="/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.mov"
+         controls
+         style="max-width:400px;">
+  </video>
+</div>
 
-<video src="/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/sweetchi.mov" controls="controls" style="max-width: 250px;">
-</video>
 
 ------
 
@@ -183,9 +196,7 @@ _Sweet Chili BBQ Sauce_
 - Egg
 
 - Ingredients are a bit hard to get. This is more nostalgia cooking than eating-for-sustenance cooking.
-
 - If there is one food item that I miss, it would be the Chinese crepe cart outside my primary school run by an old couple. It is the taste of my childhood. As I was often late for school, they always allowed me to jump the queue. I used have these crepes once a year when I was working/studying abroad. Sometime after I started working the old couple had grandchildren and retired. So I will never get the real recipe.
-
 - Chinese crepes originate in Tianjin but are widely available across China. Most are not authentic because Tianjin crepes are supposed to be made with mung bean flour. You can see an example here: https://www.youtube.com/shorts/JNV_PZ1MVDM
 
 **How:** 
@@ -193,17 +204,20 @@ _Sweet Chili BBQ Sauce_
 - Make either:
 	- mung bean milk (using mung beans from Chinese supermarkets) with a soy milk machine; or
 	- mung bean paste (using a blender, though you probably need to soak the beans first).
-
 - Mix cooled mung bean milk with regular flour, heat pan with oil and make a crepe. It is perfectly fine for your crepe to have holes and look like men's underwear, because you will add an egg on top to cover uncovered areas.
-
 - Once the crepe is no longer fluid, flip it to set completely. Add sweet bean sauce and microwaved Yorkshire pudding, which is similar to 油条 (Chinese fried dough sticks). Obviously 油条 tastes better, but frying at home is too much trouble unless you are cooking for many people.
 
 `The product in the picture includes only one Yorkshire pudding because I could not fold both.`
 
 
 
-![jianbing](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/jianbing.jpg){: w="250"}
+![jianbing](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/jianbing.jpeg){: w="400"}
 _Cheap Imitation Tianjin Crepe_
+
+
+![jianbing](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/jianbingman.jpeg){: w="400"}
+_Tianjin Crepe Outside My Primary School_
+
 
 ------
 
@@ -219,7 +233,6 @@ _Cheap Imitation Tianjin Crepe_
 
 - Grate (or cut, if you are a pro) carrot and daikon into thin strips.
 - Mix with salted self-rising flour dough, shape into balls (actually you can just use a spoon to scoop up the mixture and drop into frying oil directly), and deep fry. If you cannot make a ball with a spoon, your dough is too soft.
-
 - I forgot whether I added eggs, but if I did it would be no more than one and probably does not matter much.
 
 `Self-rising flour gives the finished product a fluffy texture. I do not know what Chinese cooks usually use, but whatever magic they have, self-rising flour works well enough.`
@@ -228,7 +241,7 @@ _Cheap Imitation Tianjin Crepe_
 
 
 
-![ball](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/ball.jpg){: w="250"}
+![ball](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/ball.jpeg){: w="400"}
 _Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子_
 
 ------
@@ -244,9 +257,10 @@ _Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子_
 **How:** 
 
 - Boil veg with canned tomato. Add eggs and cook covered. Add salt and pepper.
-
 - I added Greek yoghurt in the picture below but it is unnecessary.
 
+![shouka](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/shouka.jpeg){: w="400"}
+_Fakeshouka_
 
 
 ------
@@ -264,8 +278,9 @@ _Beijing Fried Daikon/Mooli and Carrot Balls 炸萝卜丸子_
 **How:** 
 
 - Nothing worth explaining. Just stir-fry the rice with the ingredients above.
-
 - Seaweed flakes should be added at the end, not during the stir-fry.
 
 `Do not stir-fry with gochujang only. It will be too dry and too spicy. Mixing gochujang with honey might work, though I have never tried.`
 
+![kim](/assets/blog/2026-03-14-The-Eating-for-Sustenance-Cookbook.assets/kim.jpeg){: w="400"}
+_Kimchi Fried Rice_
